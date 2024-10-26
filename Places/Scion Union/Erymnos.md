@@ -1,5 +1,3 @@
 
 
-
-
 #places #cities 

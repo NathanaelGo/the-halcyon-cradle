@@ -6,3 +6,7 @@ He wants to:
 - Kill [[June]]
 - See a [[Adazgul]] born
 - Return to the [[Pillars of Exile]] where he was once banished 
+
+
+
+#npcs 

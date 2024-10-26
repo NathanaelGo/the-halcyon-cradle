@@ -13,3 +13,12 @@ Hiatus:
 
 DEAD RIP BOZO
 [[Boron]]
+
+
+
+
+Base of operations is [[Castle Boron]]
+
+
+
+#factions 
