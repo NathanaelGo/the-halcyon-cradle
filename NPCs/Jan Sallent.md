@@ -1,3 +1,9 @@
+---
+tags:
+  - npcs
+  - npcs/factions/concord
+  - npcs/places/sadura
+---
 *Image here*
 
 ### Designations
@@ -7,8 +13,7 @@ Corazon Archbishop of [[Sadura]]
 [[Sadura]]
 
 ___
+### Summary
 
 
 
-
-#npcs #npcs/factions/concord #npcs/places/sadura 

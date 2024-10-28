@@ -1,4 +1,15 @@
+---
+tags:
+  - npcs
+---
+*Image here*
+
+### Designations
 
 
+### Current Location
 
-#npcs 
+
+___
+### Summary
+

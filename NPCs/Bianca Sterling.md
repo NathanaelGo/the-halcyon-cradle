@@ -1,4 +1,10 @@
-
+---
+tags:
+  - npcs
+  - npcs/places/zweiza
+  - npcs/factions/mercurial-consortium
+---
+*Image here*
 
 ### Designations
 Head of the [[Mercurial Consortium]] Zweiza branch
@@ -8,4 +14,6 @@ Head of the [[Mercurial Consortium]] Zweiza branch
 [[Zweiza]]
 
 
-#npcs #npcs/places/zweiza #npcs/factions/mercurial-consortium
+___
+### Summary
+

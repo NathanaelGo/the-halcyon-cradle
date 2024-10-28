@@ -1,3 +1,7 @@
+---
+tags:
+  - npcs
+---
 *Image here*
 
 ### Designations
@@ -7,8 +11,8 @@ Head of [[Ritus Mortis]]
 Traveling to find who killed [[Meriwether Isadore]]
 
 ___
+### Summary
 
 
 
 
-#npcs 

@@ -1,3 +1,7 @@
+---
+tags:
+  - places
+---
 *Image here*
 
 ### Notable Characters
@@ -7,8 +11,4 @@
 
 
 ___
-
-
-
-
-#places 
+### Summary

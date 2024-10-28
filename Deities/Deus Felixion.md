@@ -1,3 +1,9 @@
+---
+tags:
+  - npcs
+  - gods
+  - npcs/places/moros
+---
 ![[img_deus_felixon.png]]
 ### Designations
 **Divine Imperator of Luck**
@@ -10,6 +16,3 @@ Cool dude. We lucky
 Not actually a god.
 
 We found him in Gremorys Step. 
-
-
-#npcs #gods #npcs/places/moros 

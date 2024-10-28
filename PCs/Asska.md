@@ -1,7 +1,8 @@
+---
+tags:
+  - player-characters
+---
 - Banished from his tribe's lands
 - Killed a Union bigshot
 - Worked as a muscle-for-hire
 - Is seeking to bring help to his tribe
-
-
-#player-characters

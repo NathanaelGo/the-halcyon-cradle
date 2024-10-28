@@ -1,3 +1,6 @@
+---
+tags:
+  - lore
+---
 Very strong peoples
 
-#lore 

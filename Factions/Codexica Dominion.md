@@ -1,3 +1,8 @@
+---
+tags:
+  - places
+  - factions
+---
 ### Notable Characters
 
 
@@ -6,10 +11,5 @@
 
 
 ___
-
+### Summary
 Elven nation in the middle of Ilios
-
-
-
-
-#places #factions

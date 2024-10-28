@@ -1,3 +1,7 @@
+---
+tags:
+  - lore
+---
 Agency
 
 Gods don't like it.
@@ -8,4 +12,3 @@ Gods are trying to reduce the number of 'timeline' branches. (Sin creates the br
 
 If you reach a threshold in sin, the gods will show up and vaporize you. [[Authority]] allows you to bypass it.
 
-#lore 

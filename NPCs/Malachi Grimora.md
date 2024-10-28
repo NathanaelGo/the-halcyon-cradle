@@ -1,3 +1,8 @@
+---
+tags:
+  - npcs
+  - npcs/factions/umbraen-empire
+---
 *Image here*
 
 ### Designations
@@ -8,9 +13,8 @@ Emperor of the [[Umbraen Empire]]
 
 
 ___
-
+### Summary
 He thinks he's the reincarnation of [[Veganox]]
 
 
 
-#npcs #npcs/factions/umbraen-empire 

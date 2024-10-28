@@ -1,22 +1,22 @@
 {
 	"nodes":[
-		{"id":"f12782167f3583c8","x":-260,"y":-520,"width":400,"height":340,"type":"file","file":"Places/Ilios.md"},
-		{"id":"f335690efadd95b0","x":-1160,"y":-597,"width":400,"height":160,"color":"1","type":"file","file":"Factions/Aurelia's Faith.md"},
-		{"id":"054bb330a491e982","x":-1160,"y":-320,"width":400,"height":140,"color":"1","type":"file","file":"Factions/Eladorix Alliance.md"},
-		{"id":"91589917ba313012","x":-660,"y":54,"width":400,"height":207,"color":"1","type":"file","file":"Factions/Codexica Dominion.md"},
-		{"id":"dede620fb67cb1e2","x":400,"y":-597,"width":400,"height":220,"color":"1","type":"file","file":"Factions/Scion Union.md"},
-		{"id":"34e378f5d674b8e9","x":440,"y":-207,"width":400,"height":174,"color":"1","type":"file","file":"Factions/Cortevia Federation.md"},
-		{"id":"00301724386c3692","x":140,"y":80,"width":400,"height":181,"color":"1","type":"file","file":"Factions/Umbraen Empire.md"},
-		{"id":"35aaed8f6343a576","x":-260,"y":520,"width":400,"height":231,"color":"2","type":"file","file":"Factions/Concord.md"},
-		{"id":"06e4f36ed0ac01c6","x":1080,"y":-557,"width":280,"height":140,"type":"text","text":"## Legend\nRED: Major Nations\nORANGE: Minor Nations"}
+		{"id":"f12782167f3583c8","type":"file","file":"Places/Ilios.md","x":-260,"y":-520,"width":400,"height":341},
+		{"id":"06e4f36ed0ac01c6","type":"text","text":"## Legend\nRED: Major Nations\nORANGE: Minor Nations","x":1080,"y":-557,"width":280,"height":140},
+		{"id":"0679c75c69795947","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Concord\n\n\n![[Concord#Summary]]","x":-338,"y":500,"width":556,"height":320,"color":"2"},
+		{"id":"ed3f4a00276daf2e","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n\n# Codexica Dominion\n![[Codexica Dominion#Summary]]","x":-760,"y":137,"width":460,"height":181,"color":"1"},
+		{"id":"c8fc605d9b7ca9c5","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Eladorix Alliance\n![[Eladorix Alliance#Summary]]\n","x":-1080,"y":-180,"width":365,"height":195,"color":"1"},
+		{"id":"b1754adc3c7cb67a","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Aurelia's Faith\n![[Aurelia's Faith#Summary]]","x":-1080,"y":-557,"width":425,"height":195,"color":"1"},
+		{"id":"405269918b749596","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Scion Union\n![[Scion Union#Summary]]","x":440,"y":-660,"width":465,"height":243,"color":"1"},
+		{"id":"acd91337a2e157ac","x":140,"y":140,"width":465,"height":178,"color":"1","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Umbraen Empire\n![[Umbraen Empire#Summary]]"},
+		{"id":"9fe34a66ff0e7f25","x":440,"y":-277,"width":465,"height":195,"color":"1","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Cortevia Federation\n![[Cortevia Federation#Summary]]"}
 	],
 	"edges":[
-		{"id":"e72d6819fb51e3bf","fromNode":"f12782167f3583c8","fromSide":"left","toNode":"f335690efadd95b0","toSide":"right"},
-		{"id":"f45f6191f3e6518c","fromNode":"f12782167f3583c8","fromSide":"bottom","toNode":"91589917ba313012","toSide":"top"},
-		{"id":"ae60157ab71801b0","fromNode":"f12782167f3583c8","fromSide":"left","toNode":"054bb330a491e982","toSide":"right"},
-		{"id":"d50a9f139680296b","fromNode":"f12782167f3583c8","fromSide":"bottom","toNode":"00301724386c3692","toSide":"top"},
-		{"id":"571055349bc9cb44","fromNode":"f12782167f3583c8","fromSide":"right","toNode":"dede620fb67cb1e2","toSide":"left"},
-		{"id":"2bb5a8a94fc9165f","fromNode":"f12782167f3583c8","fromSide":"right","toNode":"34e378f5d674b8e9","toSide":"left"},
-		{"id":"9e0be50225ba0020","fromNode":"f12782167f3583c8","fromSide":"bottom","toNode":"35aaed8f6343a576","toSide":"top"}
+		{"id":"811f17c08b8a4cde","fromNode":"f12782167f3583c8","fromSide":"bottom","toNode":"0679c75c69795947","toSide":"top"},
+		{"id":"a1c7cd0e7e855362","fromNode":"f12782167f3583c8","fromSide":"bottom","toNode":"ed3f4a00276daf2e","toSide":"top"},
+		{"id":"f5a6f8177c4004ad","fromNode":"f12782167f3583c8","fromSide":"left","toNode":"c8fc605d9b7ca9c5","toSide":"right"},
+		{"id":"90ae193c1bff3e33","fromNode":"f12782167f3583c8","fromSide":"left","toNode":"b1754adc3c7cb67a","toSide":"right"},
+		{"id":"a3a06d8a64e7bb3d","fromNode":"f12782167f3583c8","fromSide":"right","toNode":"405269918b749596","toSide":"left"},
+		{"id":"f0c0afb634410b7f","fromNode":"f12782167f3583c8","fromSide":"bottom","toNode":"acd91337a2e157ac","toSide":"top"},
+		{"id":"be6e56510fb20d81","fromNode":"f12782167f3583c8","fromSide":"right","toNode":"9fe34a66ff0e7f25","toSide":"left"}
 	]
 }

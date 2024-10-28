@@ -1,3 +1,7 @@
+---
+tags:
+  - npcs
+---
 *Image here*
 
 ### Designations
@@ -7,8 +11,4 @@
 
 
 ___
-
-
-
-
-#npcs 
+### Summary

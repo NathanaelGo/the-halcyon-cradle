@@ -2,5 +2,5 @@
 tags:
   - places
   - cities
-  - places/scion-union
+  - places/concord
 ---

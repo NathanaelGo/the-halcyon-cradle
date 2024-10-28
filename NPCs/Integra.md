@@ -1,3 +1,9 @@
+---
+tags:
+  - npcs
+  - npcs/factions/equinox
+  - npcs/factions/aurora
+---
 *Image here*
 
 ### Designations
@@ -9,7 +15,7 @@ Warden of the Borderlands [[Ward of Paragon]]
 
 
 ___
+### Summary
 
 
 
-#npcs #npcs/factions/equinox #npcs/factions/aurora 

@@ -1,13 +1,20 @@
-Mercantile company operating in [[Concord]], [[Codexica Dominion]] and [[Scion Union]] territory.
-
-One of their bases is located in [[Zweiza]]
-
-#### Notable NPCs
+---
+tags:
+  - factions
+  - factions/concord
+---
+### Notable Characters
 * [[Lyra Seras]] (Leader)
 * [[Bianca Sterling]] (Head of the Zweiza branch)
 * [[Damien Grimshaw]] (Manager)
 * [[Felicity Tealspring]] (Head of the Tealspring Company sub-branch)
 
 
+### Notable Places
+- Mercurial Consortium hall in [[Zweiza]]
 
-#factions #factions/concord 
+___
+### Summary
+Mercantile company operating in [[Concord]], [[Codexica Dominion]] and [[Scion Union]] territory.
+
+

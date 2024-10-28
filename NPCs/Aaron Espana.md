@@ -1,3 +1,9 @@
+---
+tags:
+  - npcs
+  - npcs/factions/concord
+  - npcs/places/sadura
+---
 *Image here*
 
 ### Designations
@@ -7,8 +13,4 @@ King of [[Sadura]]
 [[Sadura]]
 
 ___
-
-
-
-
-#npcs #npcs/factions/concord #npcs/places/sadura 
+### Summary

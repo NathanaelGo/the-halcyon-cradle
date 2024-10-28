@@ -1,3 +1,8 @@
+---
+tags:
+  - places
+  - factions
+---
 ### Notable Characters
 
 
@@ -5,9 +10,5 @@
 
 
 ___
-
+### Summary
 Hyper-religious nation to the north
-
-
-
-#places #factions

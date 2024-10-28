@@ -1,4 +1,13 @@
+---
+tags:
+  - npcs
+---
 ![[img_Adazgul.png]]
+### Designations
 
 
-#npcs 
+### Current Location
+
+
+___
+### Summary

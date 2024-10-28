@@ -1,3 +1,9 @@
+---
+tags:
+  - npcs
+  - npcs/factions/concord
+  - npcs/deceased
+---
 *Image here*
 
 ### Designations
@@ -7,8 +13,9 @@ Former mayor of Zweiza
 Deceased
 
 ___
+### Summary
 
 
 
 
-#npcs #npcs/factions/concord #npcs/deceased
+

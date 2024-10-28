@@ -1,6 +1,15 @@
-Leader of the [[Grimarchs]]
-
-
+---
+tags:
+  - npcs/factions/grimarchs
+  - npcs
+---
 ![[img_Grimoire_Monarch.png]]
-#npcs/factions/grimarchs
+### Designations
 
+
+### Current Location
+
+
+___
+### Summary
+Leader of the [[Grimarchs]]

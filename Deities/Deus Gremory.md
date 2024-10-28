@@ -1,3 +1,9 @@
+---
+tags:
+  - npcs
+  - gods
+  - npcs/places/moros
+---
 ![[img_Grey_Dormeus.png]]
 ### Designations
 Goddess of knowledge and magic. 
@@ -15,7 +21,3 @@ In [[Moros]], she opened up her library for [[Mylàrin Ulamoor]], and by extensi
 
 
 Offered to give the party permanent Authority
-
-
-
-#npcs #gods  #npcs/places/moros

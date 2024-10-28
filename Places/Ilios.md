@@ -1,3 +1,8 @@
+---
+tags:
+  - places
+  - lore
+---
 ![[maps_Ilios.jpeg]]
 
 The world as we know today. 
@@ -20,12 +25,3 @@ The world as we know today.
 * [[Eladorix Alliance]]
 * [[Scion Union]]
 * [[Umbraen Empire]]
-
-
-
-
-
-
-
-
-#places #lore

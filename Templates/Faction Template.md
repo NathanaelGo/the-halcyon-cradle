@@ -1,3 +1,7 @@
+---
+tags:
+  - factions
+---
 ### Notable Characters
 
 
@@ -5,8 +9,4 @@
 
 
 ___
-
-
-
-
-#factions
+### Summary

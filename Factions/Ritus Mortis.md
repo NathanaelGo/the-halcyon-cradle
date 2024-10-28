@@ -1,3 +1,7 @@
+---
+tags:
+  - factions
+---
 ### Notable Characters
 * [[Fabius Blanc]]
 
@@ -5,8 +9,7 @@
 
 
 ___
+### Summary
 
 
 
-
-#factions
