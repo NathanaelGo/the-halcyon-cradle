@@ -3,6 +3,10 @@ tags:
   - npcs
   - gods
   - npcs/places/moros
+aliases:
+  - Grey Dormeous
+  - Grey
+  - Gremory
 ---
 ![[img_Grey_Dormeus.png]]
 ### Designations

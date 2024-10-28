@@ -1,6 +1,8 @@
 ---
 tags:
   - player-characters
+aliases:
+  - John
 ---
 - From the [[Pillars of Exile]]
 - Worked as an elemental hunter
