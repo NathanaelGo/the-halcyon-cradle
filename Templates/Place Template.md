@@ -1,3 +1,5 @@
+*Image here*
+
 ### Notable Characters
 
 
@@ -5,9 +7,8 @@
 
 
 ___
-Goblin nation to the west
 
 
 
 
-#places #factions
+#places 

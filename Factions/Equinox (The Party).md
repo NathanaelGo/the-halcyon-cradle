@@ -1,15 +1,21 @@
+### Notable Characters
+* [[Ravane Soga'tae]] (Azhcrove's character)
+- [[Asska]] (Rona's Character)
+- [[Mylàrin Ulamoor]] (Shadran's Character)
+- [[Morai]] (Soup's Character)
+- [[John Cowboy]] (Perfect's Character)
 
+### Notable Places
+
+
+___
 Main Members:
-[[Ravane]]
-[[Asska]]
-[[Mylarin]]
-[[Morai]]
-[[John Cowboy]]
+
 
 
 Hiatus: 
 [[Nasir]]
-[[Tiverane]]
+[[Tiviraine]]
 
 DEAD RIP BOZO
 [[Boron]]

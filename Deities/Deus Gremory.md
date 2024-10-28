@@ -10,7 +10,7 @@ Helped the party at the [[Equinox Banquet]] by granting them temporary [[Authori
 
 Encountered again in [[Erymnos]] and followed the party down the Marasind.
 
-In [[Moros]], she opened up her library for [[Mylarin]], and by extension the rest of the group.
+In [[Moros]], she opened up her library for [[Mylàrin Ulamoor]], and by extension the rest of the group.
 
 
 

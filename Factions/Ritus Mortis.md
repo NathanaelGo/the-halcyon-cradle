@@ -1,13 +1,12 @@
 ### Notable Characters
-
+* [[Fabius Blanc]]
 
 ### Notable Places
 
 
 ___
-Goblin nation to the west
 
 
 
 
-#places #factions
+#factions
