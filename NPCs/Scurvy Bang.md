@@ -1,5 +1,11 @@
 ![[img_Scurvy_Bang.png]]
-A member of [[Ill Tacit]] 
+
+### Designations
+Assassin of [[Ill Tacit]] 
+
+### Current Location
+[[Moros]], in a barrel aboard the [[Cabin Light]]
+
 Once held a pact with [[Sal'a'siis Sahala'san]] giving him sight
 Was after the bounty on [[Ravane]]'s head, a favor for [[Corvin Cain]].
 

@@ -1,6 +1,10 @@
+![[img_Grey_Dormeus.png]]
+### Designations
 Goddess of knowledge and magic. 
 Alias: Grey Dormeous 
-![[img_Grey_Dormeus.png]]
+
+### Current Location
+[[Moros]]
 
 Helped the party at the [[Equinox Banquet]] by granting them temporary [[Authority]] for their actions of saving [[Tomelot]] and trying to stop [[Aurora]]/the [[Grimarchs]]
 

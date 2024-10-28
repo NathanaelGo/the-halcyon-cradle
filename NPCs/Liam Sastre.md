@@ -1,6 +1,11 @@
+![[img_Liam_Sastre.png]]
+
+### Designations
 Chancellor of [[Castle Boron]]
 
-![[img_Liam_Sastre.png]]
+### Current Location
+[[Castle Boron]]
+
 
 
 #npcs #npcs/factions/equinox
