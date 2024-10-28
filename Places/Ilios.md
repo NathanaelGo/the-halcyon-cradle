@@ -1,3 +1,5 @@
+![[maps_Ilios.jpeg]]
+
 The world as we know today. 
 
 * Light comes and goes as it pleases, unrelated to the movements of the sun. The Sun is a pale sphere in the sky just like the two moons (Solace and Sable). While the days usually follow a circadian timing, there sometimes are periods when light or dark last for multiple day-cycles. 

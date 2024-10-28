@@ -6,4 +6,4 @@ Was after the bounty on [[Ravane]]'s head, a favor for [[Corvin Cain]].
 Has ties to the weird goblin that betrayed the party in the beginning?
 
 
-#npcs 
+#npcs #npcs/factions/ill-tacit #npcs/places/moros 

@@ -1,5 +1,17 @@
-Goddess of magic. A real G.
+Goddess of knowledge and magic. 
 Alias: Grey Dormeous 
-
 ![[img_Grey_Dormeus.png]]
-#gods
+
+Helped the party at the [[Equinox Banquet]] by granting them temporary [[Authority]] for their actions of saving [[Tomelot]] and trying to stop [[Aurora]]/the [[Grimarchs]]
+
+Encountered again in [[Erymnos]] and followed the party down the Marasind.
+
+In [[Moros]], she opened up her library for [[Mylarin]], and by extension the rest of the group.
+
+
+
+Offered to give the party permanent Authority
+
+
+
+#npcs #gods  #npcs/places/moros

@@ -7,3 +7,5 @@ Working with [[Sebastian Flowers]]
 Working for [[Veleze]]
 Cursed: Gets Drunk when not Drunk and vise versa
 
+#npcs #npcs/factions/ill-tacit
+

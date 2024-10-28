@@ -4,11 +4,13 @@ Two [[Rex Apex]]es
 
 Stationed in [[Zweiza]]
 
-Being far away from the city causes them to lose their individuality? iirc
-This 100% has to be something like the funny uncertainty sword. putting a pin in this thought for later
+Being far away from the city causes them to lose their individuality. Possibly caused by their specific [[Authority]].
 
 ## Rex Apex Abina
 ![[img_Abina.jpg]]
 ## Rex Apex Adona
 ![[img_Adona.jpg]]
-#npcs 
+
+
+
+#npcs/factions/concord #rex-apexes

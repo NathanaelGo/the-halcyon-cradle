@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"f12782167f3583c8","x":-260,"y":-520,"width":400,"height":340,"type":"file","file":"Places/Ilios.md"},
+		{"id":"f335690efadd95b0","x":-1160,"y":-597,"width":400,"height":160,"color":"1","type":"file","file":"Factions/Aurelia's Faith.md"},
+		{"id":"054bb330a491e982","x":-1160,"y":-320,"width":400,"height":140,"color":"1","type":"file","file":"Factions/Eladorix Alliance.md"},
+		{"id":"91589917ba313012","x":-660,"y":54,"width":400,"height":207,"color":"1","type":"file","file":"Factions/Codexica Dominion.md"},
+		{"id":"dede620fb67cb1e2","x":400,"y":-597,"width":400,"height":220,"color":"1","type":"file","file":"Factions/Scion Union.md"},
+		{"id":"34e378f5d674b8e9","x":440,"y":-207,"width":400,"height":174,"color":"1","type":"file","file":"Factions/Cortevia Federation.md"},
+		{"id":"00301724386c3692","x":140,"y":80,"width":400,"height":181,"color":"1","type":"file","file":"Factions/Umbraen Empire.md"},
+		{"id":"35aaed8f6343a576","x":-260,"y":520,"width":400,"height":231,"color":"2","type":"file","file":"Factions/Concord.md"},
+		{"id":"06e4f36ed0ac01c6","x":1080,"y":-557,"width":280,"height":140,"type":"text","text":"## Legend\nRED: Major Nations\nORANGE: Minor Nations"}
+	],
+	"edges":[
+		{"id":"e72d6819fb51e3bf","fromNode":"f12782167f3583c8","fromSide":"left","toNode":"f335690efadd95b0","toSide":"right"},
+		{"id":"f45f6191f3e6518c","fromNode":"f12782167f3583c8","fromSide":"bottom","toNode":"91589917ba313012","toSide":"top"},
+		{"id":"ae60157ab71801b0","fromNode":"f12782167f3583c8","fromSide":"left","toNode":"054bb330a491e982","toSide":"right"},
+		{"id":"d50a9f139680296b","fromNode":"f12782167f3583c8","fromSide":"bottom","toNode":"00301724386c3692","toSide":"top"},
+		{"id":"571055349bc9cb44","fromNode":"f12782167f3583c8","fromSide":"right","toNode":"dede620fb67cb1e2","toSide":"left"},
+		{"id":"2bb5a8a94fc9165f","fromNode":"f12782167f3583c8","fromSide":"right","toNode":"34e378f5d674b8e9","toSide":"left"},
+		{"id":"9e0be50225ba0020","fromNode":"f12782167f3583c8","fromSide":"bottom","toNode":"35aaed8f6343a576","toSide":"top"}
+	]
+}

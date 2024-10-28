@@ -1,4 +1,4 @@
-Collecting the [[Uncertainty Weapon]]
+Collecting the [[Uncertainty Weapon]] through an auction that will be kept in [[Moros]]
 
 
-#npcs 
+#npcs #npcs/places/moros  

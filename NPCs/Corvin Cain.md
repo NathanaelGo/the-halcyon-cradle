@@ -1,5 +1,7 @@
 Ravane's master
 
+Part of [[Aurora]]
 
 
-#npcs 
+
+#npcs #npcs/factions/aurora  
