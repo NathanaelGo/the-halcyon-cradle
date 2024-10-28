@@ -1,6 +1,8 @@
 ---
 tags:
   - player-characters
+aliases:
+  - Mylàrin
 ---
 - From [[Codex]]
 - Scion of a rich and influential family

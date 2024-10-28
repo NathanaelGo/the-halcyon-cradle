@@ -1,6 +1,8 @@
 ---
 tags:
   - player-characters
+aliases:
+  - Ravane
 ---
 - From north of [[Erebos]]
 - Has been turned into a Hecatian, then into a Mimithra

@@ -1,6 +1,8 @@
 ---
 tags:
   - factions
+aliases:
+  - The Party
 ---
 ### Player Characters
 * [[Ravane Soga'tae]] (Azhcrove's character)
