@@ -13,7 +13,7 @@ tags:
 [[Sebastian Flowers]]
 
 ### Notable Places
-Castle the Unstir
+Castle De Unstir
 Glib Stop
 [[Gremory's Steps]]
 
@@ -22,7 +22,7 @@ ___
 Major city in the [[Scion Union]], on a bend of the Marsind.
 
 ### Events
-The party arrived here aboard the [[Cabin Light]], traveling down the Marsind. Their main objective in town is to help [[Asska]] eliminate [[Barry Jenkins]] from the political scene and with that end the persecution agains the [[Ssassik Tribe]] and the other tribes of the [[Blackmire Swamp]].
+The party arrived here aboard the [[Cabin Light]], traveling down the Marsind. Their main objective in town is to help [[Asska]] eliminate [[Barry Jenkins]] from the political scene and with that end the persecution against the [[Ssassik Tribe]] and the other tribes of the [[Blackmire Swamp]].
 
 Using the authority of Union Senator [[Ashley Anne Helsing]], they started investigating on the refusal to help [[Erymnos]] during the beginning of the [[Hymns Crisis]]. 
 

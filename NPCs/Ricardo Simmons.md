@@ -1,6 +1,7 @@
 ---
 tags:
   - npcs
+  - npcs/places/castle-boron
 ---
 ![[img_Ricardo_Simmons.png]]
 

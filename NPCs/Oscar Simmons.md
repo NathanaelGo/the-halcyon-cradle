@@ -1,3 +1,9 @@
+---
+tags:
+  - npcs
+  - npcs/places/castle-boron
+---
+
 ![[img_Oscar_Simmons.png]]
 ### Designations
 One of the [[Storm Brothers]]
