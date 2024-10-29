@@ -6,9 +6,9 @@
 		{"id":"ed3f4a00276daf2e","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n\n# Codexica Dominion\n![[Codexica Dominion#Summary]]","x":-760,"y":137,"width":460,"height":181,"color":"1"},
 		{"id":"c8fc605d9b7ca9c5","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Eladorix Alliance\n![[Eladorix Alliance#Summary]]\n","x":-1080,"y":-180,"width":365,"height":195,"color":"1"},
 		{"id":"b1754adc3c7cb67a","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Aurelia's Faith\n![[Aurelia's Faith#Summary]]","x":-1080,"y":-557,"width":425,"height":195,"color":"1"},
-		{"id":"405269918b749596","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Scion Union\n![[Scion Union#Summary]]","x":440,"y":-660,"width":465,"height":243,"color":"1"},
-		{"id":"acd91337a2e157ac","x":140,"y":140,"width":465,"height":178,"color":"1","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Umbraen Empire\n![[Umbraen Empire#Summary]]"},
-		{"id":"9fe34a66ff0e7f25","x":440,"y":-277,"width":465,"height":195,"color":"1","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Cortevia Federation\n![[Cortevia Federation#Summary]]"}
+		{"id":"acd91337a2e157ac","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Umbraen Empire\n![[Umbraen Empire#Summary]]","x":140,"y":140,"width":465,"height":178,"color":"1"},
+		{"id":"9fe34a66ff0e7f25","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Cortevia Federation\n![[Cortevia Federation#Summary]]","x":440,"y":-277,"width":465,"height":195,"color":"1"},
+		{"id":"405269918b749596","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Scion Union\n![[Scion Union#Summary]]","x":440,"y":-678,"width":465,"height":298,"color":"1"}
 	],
 	"edges":[
 		{"id":"811f17c08b8a4cde","fromNode":"f12782167f3583c8","fromSide":"bottom","toNode":"0679c75c69795947","toSide":"top"},

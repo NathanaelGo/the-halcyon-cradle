@@ -11,5 +11,4 @@ tags:
 
 ___
 ### Summary
-Desert nation to the far west, ruled by a powerful monarch.
-
+Desert nation to the far west, ruled by Emperor [[Malachi Grimora]].
