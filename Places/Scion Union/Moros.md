@@ -4,7 +4,7 @@ tags:
   - cities
   - places/scion-union
 ---
-![[maps_Moros.png]]
+![[maps_Moros.jpg]]
 ### Notable Characters
 [[Barry Jenkins]]
 [[Terissa Monick]]
