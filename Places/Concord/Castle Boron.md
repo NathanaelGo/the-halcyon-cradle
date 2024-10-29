@@ -12,7 +12,7 @@ tags:
 - [[Excelsior]] (Steward)
 - Jack (Marshal)
 - Merrick Galenius (Master of Revelry)
-- [[Storm Brothers]] (Contracted to build a moat)
+- [[Oscar Simmons]] & [[Ricardo Simmons]] The [[Storm Brothers]] (Contracted to build a moat)
 - [[Virelin Artairis]] (Handler of Spies)
 - [[Tomelot]]
 - [[Silencia]]
