@@ -4,6 +4,12 @@ tags:
 ---
 ### Notable Characters
 - [[Grimoire Monarch]]
+- [[Seven Sins|Sins]]
+- [[Jeremiah]]
+- [[Ezekiel]]
+- [[Zytus]]
+- [[Zynette]]
+- 
 
 ### Notable Places
 

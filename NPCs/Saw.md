@@ -4,7 +4,7 @@ tags:
 ---
 ![[img_Saw.png]]
 ### Designations
-The [[The Doctor]] right hand man. 
+[[The Doctor]] right hand man. 
 ### Current Location
 [[Moros]]
 

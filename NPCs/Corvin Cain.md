@@ -3,7 +3,7 @@ tags:
   - npcs
   - npcs/factions/aurora
 ---
-*Image here*
+![[img_Corvyn_Cain.png]]
 
 ### Designations
 Member of [[Aurora]]

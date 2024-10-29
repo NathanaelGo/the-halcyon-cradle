@@ -7,8 +7,7 @@ tags:
 - Has star-entities living in her head
 - Proud owner of an [[Uncertainty Weapon]]
 - Once a Paladin for [[Deus Aurelia]]
-- Afflicted with [[The Stars]]
-
+- Afflicted with [[The Stars|The Voices]]
 
 
 

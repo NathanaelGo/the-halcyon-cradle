@@ -4,7 +4,9 @@ tags:
   - npcs/factions/scion-union
   - npcs/places/moros
 ---
-*Image here*
+
+![[img_Barry_Jenkins.png]]
+
 
 ### Designations
 Mayor of [[Moros]]
@@ -18,4 +20,7 @@ Corrupt mayor, he is falsifying records to withhold help to [[Erymnos]] and make
 
 He's allowing and enabling other people in capturing and enslaving the lizardfolks in [[Blackmire Swamp]], including the [[Ssassik Tribe]].
 
+
 [[Equinox (The Party)|The Party]] is trying to eliminate him, either politically or, worst comes to worst, physically.
+
+Running against [[Portman Teeterson]] in the upcoming special elections.

@@ -17,4 +17,6 @@ Powerful wizard residing in [Concord]. Was originally part of {insert party name
 
 During the [[Equinox Banquet]], [[Aurora]] with the help of the [[Grimoire Monarch]] and a gang of 6 sins (sins wrath) tried to execute him.
 
+His original survival hinged on the fact he wore the cursed armor and would never take up another pupil.
+
 Now with the cursed armor removed he's become a new person. He temporarily forgot his past.

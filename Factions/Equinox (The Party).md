@@ -20,7 +20,7 @@ aliases:
 - [[Silencia]]
 - [[Integra]]
 - [[Botanica]]
-- [[Flavia]]
+- [[Flavia Laurent]]
 - [[Prapurat]]
 - [[Gregor]]
 - Alligators

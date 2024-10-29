@@ -6,7 +6,7 @@ tags:
 *Image here*
 
 ### Notable Characters
-
+[[Jack Daniels]]
 
 ### Notable Places
 
