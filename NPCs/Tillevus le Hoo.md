@@ -12,7 +12,7 @@ tags:
 
 ___
 ### Summary
-Afflicted with [[The Stars]]
+Afflicted with [[The Stars|The Voices]]
 Pissed off [[Morai]]
 Hoooooo
 

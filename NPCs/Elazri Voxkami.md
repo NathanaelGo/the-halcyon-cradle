@@ -15,7 +15,7 @@ Arborist druid hired by [[Orion]]
 
 ___
 ### Summary
-Investigating the [[Core Root]]. ]]
+Investigating the [[Core Root]]. 
 Healing magic doesn't always work on her. Sometimes provides negative affects to those healing her.
 
 The [[Codexica Dominion]] is trying to assassinate her.

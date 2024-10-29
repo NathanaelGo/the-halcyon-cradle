@@ -4,6 +4,8 @@ tags:
   - npcs/factions/equinox
   - npcs/places/moros
 ---
+![[img_grox.png]]
+
 ### Designations
 Mercantile captain from [[Erymnos]]
 Captain of the [[Cabin Light]]
@@ -14,4 +16,4 @@ Captain of the [[Cabin Light]]
 ___
 ### Summary
 Currently working for [[Equinox (The Party)]] 
-
+Blessed by the winds
