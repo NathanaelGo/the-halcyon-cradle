@@ -16,7 +16,7 @@ tags:
 
 ___
 ### Summary
-A magical ship the party acquired after fighting [[Scurvy Bang]]
+A magical ship [[Equinox (The Party)|Equinox]] acquired after fighting [[Scurvy Bang]]
 
 It can teleport over several miles, to places both it and its captain have been to.
 

@@ -18,6 +18,8 @@ ___
 Investigating the [[Core Root]]. 
 Healing magic doesn't always work on her. Sometimes provides negative affects to those healing her.
 
+She met and befriended [[Equinox (The Party)|The Party]] in a tavern near [[Glib Stop]]
+
 The [[Codexica Dominion]] is trying to assassinate her.
 
 

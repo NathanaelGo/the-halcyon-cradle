@@ -1,7 +1,13 @@
 ---
 tags:
   - session-notes
+previous: "[[Session 52]]"
+following: "[[Session 54]]"
 ---
+### Synopsis
+After spending the night in [[Moros]], [[Equinox (The Party)|The Party]] looks for ways to incriminate [[Barry Jenkins]] for his acts and splits up. After finding proof of forgery and murder and alerting the guards, they wait for the situation to calm down at [[Gremory's Steps]]. [[Deus Gremory|Grey]] invites them to [[Gremory's Library]] and there they have a heated discussion on [[Sin]] and receiving [[Authority]].
+
+### Details
 The session begins in [[Moros]], after a long rest at [[Glib Stop]]. This is the second day of the party being in the city.
 
 [[Equinox (The Party)|The Party]] starts investigating on how to incriminate [[Barry Jenkins]] and save the [[Ssassik Tribe]]. After a brief breakfast meeting, they decide to split up to optimize their search and reconvene at the docks before midday.

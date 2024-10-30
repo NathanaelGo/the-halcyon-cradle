@@ -3,6 +3,7 @@ tags:
   - factions
 aliases:
   - The Party
+  - Equinox
 ---
 ### Player Characters
 * [[Ravane Soga'tae]] (Azhcrove's character)
