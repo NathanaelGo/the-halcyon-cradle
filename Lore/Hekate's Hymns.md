@@ -1,6 +1,8 @@
 ---
 tags:
   - lore
+aliases:
+  - Hymn
 ---
 Destructive song with casual outbursts throughout [[Ilios]].
 
