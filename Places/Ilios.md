@@ -15,6 +15,8 @@ The world as we know today.
 * [[Hekate's Hymns]] are outbursts of cursed song that plague the land. 
 	* This melody causes heavy mutations in both fauna and flora, and prolonged exposure is often deadly. 
 	* The occurrence of hymns is random in both location and strength. Weaker hymns disappear faster, while stronger ones can last days or even weeks.
+* Misc 
+	* The crust is exactly 60 miles deep.
 
 
 ## Factions

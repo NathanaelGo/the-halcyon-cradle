@@ -11,6 +11,8 @@ The Mad Wizard
 
 ___
 ### Summary
+Received [[Deus Astaroth]]'s [[Authority]] along with the rest of his party.  His other option was [[Deus Gremory|Gremory]]'s Authority but wanted to discover the worlds secrets himself. 
+
 Powerful wizard residing in [Concord]. Was originally part of {insert party name here} before learning too much about the world and being forced to don cursed armor turning him mad.
 
 [[Equinox (The Party)]] befriended him and briefly became their pupils while visiting [[Sadura]] and up until the [[Warden Trials]].

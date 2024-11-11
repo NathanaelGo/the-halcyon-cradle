@@ -10,7 +10,7 @@ aliases:
 ### Designations
 Member of [[Equinox (The Party)]]
 Impartial Observer 
-Cowboy
+*Cowboy*
 
 ___
 ### Summary
@@ -18,3 +18,4 @@ ___
 - Worked as an Elemental Dispatcher
 - Was forgotten by everyone after reading a mysterious tome
 	- Mysterious tome allows him to communicate with [[Deus Morrigan]]
+- Has The Scorned Torment aka Gold, which is [[Iidepus|The Scorned One]]'s weapon 
