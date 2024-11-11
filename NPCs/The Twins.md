@@ -17,6 +17,8 @@ Leaders of [[Concord]]
 
 ___
 ### Summary
+Has the [[Authority]] of [[Deus Gremory]]
+
 Rex Apexes that have been defending Zweiza from outside influences and keeping the Borderlands region independent.
 
 After the [[Codexica Dominion]] attacked the Borderlands, they repelled the invasion and founded [[Concord]]

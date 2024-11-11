@@ -16,3 +16,7 @@ Cool dude. We lucky
 Not actually a god.
 
 We found him in Gremorys Step. 
+
+Can be in several places at once
+
+Carries a [[Psuedo Dragon]] - Followers of Felixion can keep them as a familiar
