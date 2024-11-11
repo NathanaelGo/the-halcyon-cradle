@@ -28,7 +28,7 @@ Using the authority of Union Senator [[Ashley Anne Helsing]], they started inves
 
 [[Ravane Soga'tae|Ravane]] inspected Jenkins's house while [[Mylàrin Ulamoor|Mylàrin]] and Ashley went looking for his financial advisor. Thanks to a box Ravane found, the party now has proof that various documents have been forged and only need to pin the murder and silencing of {{Insert financial advisor name here}} on Barry to have him arrested.
 
-[[Morai]] and [[Asska]] had a talk with [[Kathy Swindial]], finding out about an auction for [[Uncertainty Weapon|Uncertainty Weapons]]. This auction has been organized by a certain [[Saw]] on behalf of [[The Doctor]]. They have been given a place and date to get help and find out more.
+[[Morai]] and [[Asska]] had a talk with [[Kathy Swindial]], finding out about an auction for [[Light of Chaos|Uncertainty Weapons]]. This auction has been organized by a certain [[Saw]] on behalf of [[The Doctor]]. They have been given a place and date to get help and find out more.
 
 [[John Cowboy|John]] talked with [[Portman Teeterson]] (Jenkins's political opponent in the oncoming mayor election) and his friend [[Terissa Monick]]. They are actually [[Orion]] members and plan to hand the city to a Knight of the Union after winning.
 

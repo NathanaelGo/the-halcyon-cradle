@@ -1,8 +1,8 @@
 ---
 tags:
   - session-notes
-previous: "[[Session 52]]"
-following: "[[Session 54]]"
+previous: "[[Sessions/Session 52]]"
+following: "[[Sessions/Session 54]]"
 ---
 ### Synopsis
 After spending the night in [[Moros]], [[Equinox (The Party)|The Party]] looks for ways to incriminate [[Barry Jenkins]] for his acts and splits up. After finding proof of forgery and murder and alerting the guards, they wait for the situation to calm down at [[Gremory's Steps]]. [[Deus Gremory|Grey]] invites them to [[Gremory's Library]] and there they have a heated discussion on [[Sin]] and receiving [[Authority]].
@@ -27,7 +27,7 @@ They also search the nearby church to no avail. Defeated, they decide to head to
 #### Asska and Morai meet with Kathy Swindial
 After exchanging some words with [[Skesk Aka-Skal]], [[Asska]] and [[Morai]] head out and encounter [[Kathy Swindial]] talking with [[Elazri Voxkami]]. They find out the [[Codexica Dominion]] is trying to assassinate Elazri for some reason, and that an auction is going to take place in town.
 
-This auction, organized by [[Saw]] on behalf of [[The Doctor]], serves to sell [[Uncertainty Weapon|Uncertainty Weapons]] procured by Kathy. They managed to get a few contacts to talk to.
+This auction, organized by [[Saw]] on behalf of [[The Doctor]], serves to sell [[Light of Chaos|Uncertainty Weapons]] procured by Kathy. They managed to get a few contacts to talk to.
 
 #### John looks for the other election candidate
 After asking around in the crowd, [[John Cowboy|John]] and [[Qal Evans]] head to [[Felixion's Step]] and project an illusion in the sky to contact [[Portman Teeterson]]. He's the political opponent of Jenkins, and the Party has decided to help him win the election if possible.

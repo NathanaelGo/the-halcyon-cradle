@@ -10,4 +10,4 @@ tags:
 
 ___
 ### Summary
-Working to collect the [[Uncertainty Weapon]]
+Working to collect the [[Light of Chaos]]

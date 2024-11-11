@@ -13,4 +13,4 @@ tags:
 
 ___
 ### Summary
-Collecting the [[Uncertainty Weapon]] through an auction that will be kept in [[Moros]]
+Collecting the [[Light of Chaos]] through an auction that will be kept in [[Moros]]
