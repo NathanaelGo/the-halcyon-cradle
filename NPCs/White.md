@@ -14,5 +14,6 @@ ___
 ### Summary
 Killed [[Equinox (The Party)|The Party]] in one shot in [[Moros]]
 [[John Cowboy]] has info in him he got from [[Scurvy Bang]] about REDACTED
+Has a funny right hand that can disintegrate wall of forces and towns alike
 
 

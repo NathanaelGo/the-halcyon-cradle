@@ -10,7 +10,7 @@ aliases:
 
 
 ### Current Location
-
+In [[Moros]] at the Thaldic Cup in the morning
 
 ___
 ### Summary

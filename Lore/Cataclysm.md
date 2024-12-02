@@ -7,5 +7,7 @@ An unspecified wave of arcane destruction that regularly destroys the world.
 
 [[Aurora]] is set to become the saviors of the world after the Cataclysm, being the ones maintaining the Wards.
 
+Birth of a [[Seraphim]] is what causes the cataclysm
 
-
+30-80 thousands years some times more
+Total analization for all encompassing peace
