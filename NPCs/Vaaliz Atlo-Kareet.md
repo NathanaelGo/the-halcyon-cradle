@@ -8,8 +8,11 @@ tags:
 
 
 ### Current Location
-[[Moros]]
+[[Moros]] - Palace of Whims 
 
 ___
 ### Summary
 Head Honcho of XXXX??
+We can save Vaaliz by rescue the prison break
+She's dead after the auction
+Empire wants her dead

@@ -6,6 +6,7 @@ tags:
 
 ### Designations
 Budding [[Rex Apex]]
+Rex Apex of Otherworldly Entities
 
 ### Current Location
 

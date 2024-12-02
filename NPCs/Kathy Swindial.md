@@ -3,6 +3,7 @@ tags:
   - npcs
   - npcs/factions/ill-tacit
   - npcs/places/moros
+  - Bait_Tiefling
 ---
 ![[img_Kathy_Swindial.png]]
 
@@ -20,6 +21,8 @@ Told [[Elazri Voxkami]] to hide for a month so she doesn't die to the [[Codexica
 Working with [[Sebastian Flowers]]
 Working for [[Veleze]]
 Cursed: Gets Drunk when not Drunk and vise versa
+Gets their power from an item that turns them drunk
+
 
 
 

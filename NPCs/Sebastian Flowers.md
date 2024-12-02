@@ -5,7 +5,7 @@ tags:
 ---
 ![[img_Sebastian_Flowers.png]]
 ### Designations
-
+Member of [[Orion]]
 
 ### Current Location
 [[Moros]]
@@ -15,5 +15,11 @@ ___
 Very powerful person.
 We were told to steer clear of this guy.
 Working to cleanse corruption in [[Moros]]
+
+Explodes into a blackhole upon death and returns to life a few hours later
+
+Hunts [[Adazgul]] and is willing to kill anyone who harbors its kin.
+An associate of [[The Doctor]]
+
 
 
