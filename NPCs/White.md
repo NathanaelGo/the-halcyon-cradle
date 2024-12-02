@@ -1,19 +1,20 @@
 ---
 tags:
   - npcs
+  - npcs/factions/ill-tacit
+  - npcs/places/moros
 ---
 ![[img_white.png]]
 
 ### Designations
-The Strongest Assassin of [[Ill Tacit]]
+Assassin of [[Ill Tacit]]
 
 ### Current Location
-
+[[Moros]]
 
 ___
 ### Summary
-Killed [[Equinox (The Party)|The Party]] in one shot in [[Moros]]
+Incredibly powerful assassin sent to kill [[Mylàrin Ulamoor|Mylàrin]].
+He killed [[Equinox (The Party)|The Party]] in Moros, and then time reversed.
 [[John Cowboy]] has info in him he got from [[Scurvy Bang]] about REDACTED
 Has a funny right hand that can disintegrate wall of forces and towns alike
-
-
