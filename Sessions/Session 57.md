@@ -8,4 +8,10 @@ following: "[[Sessions/Session 58]]"
 
 
 ### Details
+Hekamonia the 2nd (3rd loop)
+Talked to the green man, got reset
 
+
+Hekamonia the 2nd (4th loop)
+Talked to Carnelian (she's useless)
+Went shopping

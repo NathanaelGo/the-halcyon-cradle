@@ -12,4 +12,4 @@ They met [[Khafra Gild-Ra]] again, then went to look for [[Sebastian Flowers]] w
 After escaping, the party tried to trap [[White]] to no avail. They escaped, and when [[Mylàrin Ulamoor|Mylàrin]] escaped off of the time loop area they met with a green robotic figure who reset the time loop.
 
 ### Details
-
+Hekamonia the 2nd (2nd loop)
