@@ -11,5 +11,8 @@ aliases:
 - Once a Paladin for [[Deus Aurelia]]
 - Afflicted with [[The Stars|The Voices]]
 
+# Teleportations
+- [[Gastkeep]] Brairs residency
+- Unknown (weird from house)
 
 

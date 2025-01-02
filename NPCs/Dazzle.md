@@ -19,7 +19,7 @@ Has a valuable item on them
 Assassin of [[Ill Tacit]]
 Has [[Orion]] connections
 
-Obtained [[Pathos]]'s Rib from the auction
+Obtained [[Peithos]]'s Rib from the auction
 Might be able to collect runes to the [[Gastlands]]
 
 Sleeper Agent Activation Code: She doesn't like pirates
