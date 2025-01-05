@@ -1,8 +1,6 @@
 ---
 tags:
   - npcs
-aliases:
-  - Apricot
 ---
 *Image here*
 
@@ -14,5 +12,5 @@ aliases:
 
 ___
 ### Summary
-Put bounties on [[Equinox (The Party)|The Party]] through [[Ill Tacit]]
-
+Stole the din bearer 
+Ribs from the citadel of light have their ribs taken
