@@ -11,6 +11,6 @@ following: "[[Sessions/Session 59]]"
 
 Hekamonia the 2nd (5th loop, cont.)
 Try to look for Twitch, Dazzle and Apricot but no shot.
-The Voices.
+Went to the Lighthouse. The Voices.
 Jumped Apricot, she told us various secrets about The Raven and the end of the world.
-
+White killed us at the end, still inside the lighthouse.

@@ -160,3 +160,24 @@ tags:
 
 # Session 53
 ![[Sessions/Session 53#Synopsis]]
+
+# Session 54
+![[Sessions/Session 54#Synopsis]]
+
+# Session 55
+![[Sessions/Session 55#Synopsis]]
+
+# Session 56
+![[Sessions/Session 56#Synopsis]]
+
+# Session 57
+![[Sessions/Session 57#Synopsis]]
+
+# Session 58
+![[Sessions/Session 58#Synopsis]]
+
+# Session 59
+![[Sessions/Session 59#Synopsis]]
+
+# Session 60
+![[Sessions/Session 60#Synopsis]]
