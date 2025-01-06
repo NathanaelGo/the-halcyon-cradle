@@ -22,4 +22,4 @@ Has [[Orion]] connections
 Obtained [[Peithos]]'s Rib from the auction
 Might be able to collect runes to the [[Gastlands]]
 
-Sleeper Agent Activation Code: She doesn't like pirates
+Sleeper Agent Activation Code: She doesn't like pirates - I always missed the exiles
