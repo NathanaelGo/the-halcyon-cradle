@@ -16,3 +16,8 @@ ___
 Has [[Authority]] from [[Deus Green Guy]]
 Collecting the [[Light of Chaos]] through an auction that will be kept in [[Moros]]
 Looking into [[Promethia]] 
+Playing chess with us as pieces
+
+
+# Other
+Below his spacetime area there are 4 massive clocks BLUE PURPLE ORANGE YELLOW

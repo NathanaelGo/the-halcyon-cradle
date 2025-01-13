@@ -11,3 +11,4 @@ tags:
 ___
 ### Summary
 Working to collect the [[Light of Chaos]]
+In a loop drugged [[John Cowboy]] with some spicy chicken and brought him to The Doctor 
