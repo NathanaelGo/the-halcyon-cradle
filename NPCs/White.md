@@ -23,3 +23,7 @@ Wants to garner sin
 Immune to exhaustion
 Has a funny right hand that can disintegrate wall of forces and towns alike
 AC: 25+
+
+Hubris and Punishment gods
+White helped Maliguy
+Wants us to kill [[The Invictus King]]

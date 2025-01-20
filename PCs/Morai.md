@@ -10,6 +10,7 @@ aliases:
 - Proud owner of an [[Light of Chaos]]
 - Once a Paladin for [[Deus Aurelia]]
 - Afflicted with [[The Stars|The Voices]]
+	- A receiver for star based communication
 
 # Teleportations
 - [[Gastkeep]] Brairs residency

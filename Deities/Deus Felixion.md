@@ -3,6 +3,7 @@ tags:
   - npcs
   - gods
   - npcs/places/moros
+  - fake_god
 ---
 ![[img_deus_felixon.png]]
 ### Designations

@@ -17,3 +17,5 @@ Met [[Equinox (The Party)|The Party]] at [[Tomelot]]'s Abode and informed us of 
 An old member of the [[Noctis Empire]]? Is a computer with a new life?
 
 [[Deus Gremory|Gremory]] can't see much info on him. Currently is likely asleep as he needs time to regen between active moments. 
+
+Founding Member of the [[The Zignus Institute]]

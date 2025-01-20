@@ -5,13 +5,11 @@ tags:
 ![[img_bellzi.png]]
 
 ### Designations
-
+Follower/Priest of [[Deus Zignus]]
 
 ### Current Location
 
 
 ___
 ### Summary
-Has a [[Adazgul]] now
-Connects to people's mind in proximity
-From the institute
+Part of [[The Zignus Institute]]
