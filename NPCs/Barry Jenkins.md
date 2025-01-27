@@ -24,3 +24,7 @@ He's allowing and enabling other people in capturing and enslaving the lizardfol
 [[Equinox (The Party)|The Party]] is trying to eliminate him, either politically or, worst comes to worst, physically.
 
 Running against [[Portman Teeterson]] in the upcoming special elections.
+
+[[Codexica Dominion]] puppet
+
+Uses [[Monster House]] to commit genocide

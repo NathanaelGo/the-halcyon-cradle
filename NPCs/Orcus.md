@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-*Image here*
+![[img_Orcus.png]]
 
 ### Designations
 
@@ -12,6 +12,4 @@ tags:
 
 ___
 ### Summary
-Wants to find more candidates for ???
-
-
+Places super chess against the doctor 

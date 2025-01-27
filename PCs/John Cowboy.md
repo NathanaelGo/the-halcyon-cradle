@@ -21,6 +21,7 @@ ___
 	- Mysterious tome allows him to communicate with [[Deus Morrigan]]
 - Has The Scorned Torment aka Gold, which is [[Iidepus|The Scorned One]]'s weapon 
 - Got invited to the Doctors faction with Sebastian 
+- Upon reaching the end of [[The Doctor]]s chess board his piece vanished into smoke
 
 # Misc
 Called a [[John Cowboy|Pawn]] by the following:

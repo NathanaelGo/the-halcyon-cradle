@@ -2,16 +2,13 @@
 tags:
   - npcs
 ---
-*Image here*
+![[img_daruna_volk.png]]
 
 ### Designations
-
+Knight of [[Moros]]
 
 ### Current Location
 
 
 ___
 ### Summary
-Wants to find more candidates for ???
-
-

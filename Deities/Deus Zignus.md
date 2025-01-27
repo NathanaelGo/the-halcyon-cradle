@@ -1,6 +1,7 @@
 ---
 tags:
   - gods
+  - fake_god
 ---
 ### Designations
 **Divine Imperator of Stars**
@@ -10,3 +11,10 @@ Well liked
 Back in the day he wasn't seen as a teacher (just provided the stars) Now is seen as one
 
 Longed robes drap along the floor for several feet
+
+Not a real god - originally a head in the clouds scholar
+Choose to study the stars when it was outlawed 
+
+Exploded (At the epicenter of Nossian explosion - was one of the many causes)
+
+

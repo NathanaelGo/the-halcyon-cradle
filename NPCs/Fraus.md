@@ -2,8 +2,7 @@
 tags:
   - npcs
 ---
-*Image here*
-
+![[img_Fraus.png]]
 ### Designations
 
 
@@ -12,6 +11,4 @@ tags:
 
 ___
 ### Summary
-Wants to find more candidates for ???
-
-
+Related to [[Deus Zignus]]

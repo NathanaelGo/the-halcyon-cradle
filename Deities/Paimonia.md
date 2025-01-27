@@ -2,16 +2,14 @@
 tags:
   - npcs
 ---
-*Image here*
+![[img_paimonia.png]]
 
 ### Designations
-
+Forgotten God of Morais Age
 
 ### Current Location
 
 
 ___
 ### Summary
-Wants to find more candidates for ???
-
-
+[[Astera]]'s Creator

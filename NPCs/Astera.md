@@ -14,3 +14,7 @@ One of [[The Stars|The Voices]]
 ___
 ### Summary
 Is this one wrath???
+Teaching [[memory holder]] language
+
+
+![[img_astera_boot_up_blue.png]]
