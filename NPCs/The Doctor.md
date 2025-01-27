@@ -15,6 +15,7 @@ ___
 ### Summary
 Has [[Authority]] from [[Deus Green Guy]]
 Collecting the [[Light of Chaos]] through an auction that will be kept in [[Moros]]
+Trying to remake the technology to make [[Light of Chaos]]
 Looking into [[Promethia]] 
 Playing chess with us as pieces
 

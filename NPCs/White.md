@@ -3,6 +3,8 @@ tags:
   - npcs
   - npcs/factions/ill-tacit
   - npcs/places/moros
+aliases:
+  - Ire of Light
 ---
 ![[img_white.png]]
 
@@ -27,3 +29,4 @@ AC: 25+
 Hubris and Punishment gods
 White helped Maliguy
 Wants us to kill [[The Invictus King]]
+Had connections to [[Baal]]

@@ -15,4 +15,6 @@ Longed robes drap along the floor for several feet
 Not a real god - originally a head in the clouds scholar
 Choose to study the stars when it was outlawed 
 
+Exploded (At the epicenter of Nossian explosion - was one of the many causes)
+
 

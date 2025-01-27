@@ -11,6 +11,7 @@ aliases:
 - Once a Paladin for [[Deus Aurelia]]
 - Afflicted with [[The Stars|The Voices]]
 	- A receiver for star based communication
+- Parents were high level Inquisitors of Citadel of Light - "Valeries and Berserkers"
 
 # Teleportations
 - [[Gastkeep]] Brairs residency
