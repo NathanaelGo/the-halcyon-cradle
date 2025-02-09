@@ -14,7 +14,7 @@ aliases:
 - Parents were high level Inquisitors of Citadel of Light - "Valeries and Berserkers"
 
 # Teleportations
-- [[Gastkeep]] Brairs residency
+- [[Ghastkeep]] Brairs residency
 - Unknown (weird from house)
 
 

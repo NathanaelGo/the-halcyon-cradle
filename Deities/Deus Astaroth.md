@@ -2,6 +2,8 @@
 tags:
   - npcs
   - gods
+aliases:
+  - Haste Astourd
 ---
 ### Designations
 **Divine Imperator of Trickery**
