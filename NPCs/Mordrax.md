@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-![[img_mariid.png]]
+*Image here*
 
 ### Designations
 
@@ -12,4 +12,3 @@ tags:
 
 ___
 ### Summary
-Patron that wants [[Gani Nirut'tal|Forget]] to be alive

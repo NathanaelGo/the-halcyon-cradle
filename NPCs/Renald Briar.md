@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-*Image here*
+![[img_renald_briar.png]]
 
 ### Designations
 
