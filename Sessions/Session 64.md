@@ -26,4 +26,4 @@ The party talked with the Green God about several things:
 - We have no idea what that single timeline the gods want entails
 - The gods are "regulars" and "irregulars", and it seems like most/all of the gods we know are "irregulars"
 - A lot of who the people call gods are just powerful dudes, much like rex apexes the definition only exists in people's minds
-- [[Chronus]] pops up when there's going to be wild changes to the  
+- [[Chronus]] pops up when there's going to be wild changes to the timelines
