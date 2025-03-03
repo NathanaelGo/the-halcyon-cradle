@@ -20,3 +20,5 @@ An old member of the [[Noctis Empire]]? Is a computer with a new life?
 
 Founding Member of the [[The Zignus Institute]]
 Sponsoring [[Crossroads]]
+
+Theory: Echo is [[Deus Zignus]]

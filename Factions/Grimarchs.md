@@ -9,7 +9,6 @@ tags:
 - [[Ezekiel]]
 - [[Zytus]]
 - [[Zynette]]
-- 
 
 ### Notable Places
 

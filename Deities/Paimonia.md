@@ -13,3 +13,5 @@ Forgotten God of Morais Age
 ___
 ### Summary
 [[Astera]]'s Creator
+
+Ally within the network - source [[Chronus]]

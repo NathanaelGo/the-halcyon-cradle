@@ -27,3 +27,5 @@ In [[Moros]], she opened up her library for [[Mylàrin Ulamoor]], and by extensi
 Offered to give the party permanent Authority
 
 One of the 2 gods that wants to protect the agency of the common man
+
+Ally within the network - source [[Chronus]]

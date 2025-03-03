@@ -6,3 +6,4 @@ tags:
 **Divine Imperator of **
 
 
+Vreal may aid or sabotage, nothing more - [[Chronus]]
