@@ -34,6 +34,7 @@ Below his spacetime area there are 4 massive clocks BLUE PURPLE ORANGE YELLOW
 5. 100k gold
 6. Union and Concord relationships are chill
 7. Access to ladder in Union territory
+	1. Phos & Valacor - safe passage through the two
 8. Circles to [[Erebos]] + lots more
 9. Concord diplomats 100 per month
 10. Concord recognized sovereignty post cataclysm

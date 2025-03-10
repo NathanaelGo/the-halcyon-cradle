@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-*Image here*
+![[img_june.png]]
 
 ### Designations
 
@@ -13,5 +13,6 @@ tags:
 ___
 ### Summary
 Wants to find more candidates for ???
+Killed [[Ksau'Kssa]]
 
 
