@@ -24,6 +24,8 @@ He killed [[Equinox (The Party)|The Party]] in Moros, and then time reversed.
 Wants to garner sin
 
 Was defeated by the party with help from the [[Deus Green Guy|Green Guy]]
+
+After he died, [[The Zignus Institute|The Institute]] mentioned that [[The Stars|Star]] died.
 # Mechanics
 Immune to exhaustion
 Has a funny right hand that can disintegrate wall of forces and towns alike

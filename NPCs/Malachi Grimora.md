@@ -16,7 +16,7 @@ Father of [[Integra]] and 2-3 other wardens
 
 ___
 ### Summary
-He thinks he's the reincarnation of [[Veganox]]
+He thinks he's the reincarnation of [[Vega Nox]]
 Can control those related to him by blood
 
 

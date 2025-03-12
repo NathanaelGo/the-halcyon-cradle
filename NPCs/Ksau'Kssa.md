@@ -12,8 +12,8 @@ Dead in [[Temple of Ksau'Kssa]]
 ___
 ### Summary
 God of Wisdom of the Lizard People
-Asked what relationship it has to the stars: Something about trusted & Dragons
+Asked what relationship it has to [[The Stars]]: Something about trusted & [[Dragons]]
+Asked about last bits of wisdom: This is the last [[The Long Night | Long Night]]  - there will not be another - Stay strong my friends
+
 
 Killed by [[June]]
-
-This is the last long night night - there will not be another - Stay strong my friends

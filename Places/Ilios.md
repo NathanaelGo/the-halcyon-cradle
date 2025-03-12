@@ -2,6 +2,8 @@
 tags:
   - places
   - lore
+aliases:
+  - Halcyon Cradle
 ---
 ![[maps_Ilios.jpeg]]
 
@@ -17,6 +19,8 @@ The world as we know today.
 	* The occurrence of hymns is random in both location and strength. Weaker hymns disappear faster, while stronger ones can last days or even weeks.
 * Misc 
 	* The crust is exactly 60 miles deep.
+
+Halcyon is the worlds true name.
 
 
 ## Factions

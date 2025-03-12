@@ -181,3 +181,23 @@ tags:
 
 # Session 60
 ![[Sessions/Session 60#Synopsis]]
+# Session 61
+![[Sessions/Session 61#Synopsis]]
+# Session 62
+![[Sessions/Session 62#Synopsis]]
+# Session 63
+![[Sessions/Session 63#Synopsis]]
+# Session 64
+![[Sessions/Session 64#Synopsis]]
+# Session 65
+![[Sessions/Session 65#Synopsis]]
+# Session 66
+![[Sessions/Session 66#Synopsis]]
+# Session 67
+![[Sessions/Session 67#Synopsis]]
+# Session 68
+![[Sessions/Session 68#Synopsis]]
+# Session 69
+![[Sessions/Session 69]]
+# Session 70
+![[Sessions/Session 70#Synopsis]]

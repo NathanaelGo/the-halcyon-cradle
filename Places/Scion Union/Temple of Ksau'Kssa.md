@@ -12,6 +12,8 @@ tags:
 
 ___
 ### Summary
+One of 7 burial sights for great beasts.
+
 Birth Place of the Lizards
 
 Puzzles/Gate to the true tomb
@@ -21,7 +23,7 @@ Ruby | Topaz | Citrine | Emerald | Cyanate | Sapphire | Amethyst
 
 Beneath these 4 entries you will not return - The answer is not real
 
-Sapphire Topaz Amethyst Ruby [[The Stars]]
+Sapphire Topaz Amethyst Ruby - [[The Stars]]
 
 You cannot exist. My gift of blessed light is blessed flame. Be purged.
 
@@ -45,3 +47,4 @@ Thal	vas	ta	luma
 Thal	kin	ta	rava
 Vas	nohen		
 Zara	tol	ven	
+![[img_door_code_swamp.png]]

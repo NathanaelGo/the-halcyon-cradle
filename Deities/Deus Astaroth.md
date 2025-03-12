@@ -4,6 +4,7 @@ tags:
   - gods
 aliases:
   - Haste Astourd
+  - Astaroth
 ---
 ### Designations
 **Divine Imperator of Trickery**

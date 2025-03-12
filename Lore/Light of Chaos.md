@@ -18,3 +18,5 @@ Used to kill the gods
 Can choose their owners
 Morais sword is called Abbadon
 Can't be destroyed, only hidden
+
+Draws lots of attention - according to The Doctor. 
