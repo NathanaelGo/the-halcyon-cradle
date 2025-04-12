@@ -9,6 +9,7 @@ aliases:
   - Gremory
 ---
 ![[img_Grey_Dormeus.png]]
+![[img_grey_god.png]]
 ### Designations
 Goddess of knowledge and magic. 
 Alias: Grey Dormeous 

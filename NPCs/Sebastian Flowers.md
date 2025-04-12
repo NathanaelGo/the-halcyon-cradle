@@ -26,6 +26,6 @@ Real body exists somewhere, or there are tons of fakes roaming around
 Driven by 'Lineage Regret' according to [[The Doctor]]
 # Mechanics
 No immunities or resistances to Acid Fire Lighting Cold
-
+Litch??
 
 

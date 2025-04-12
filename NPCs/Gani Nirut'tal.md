@@ -3,6 +3,7 @@ tags:
   - npcs
 aliases:
   - Forget
+  - The Forgetful
 ---
 ![[img_gani_forget_niruttal.png]]
 

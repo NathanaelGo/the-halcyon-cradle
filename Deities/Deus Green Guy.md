@@ -4,11 +4,19 @@ tags:
   - Real_God
   - Irregular_God
 aliases:
-  - The Investor?
   - Green Guy
+  - Haste Astourd
+  - Astaroth
 ---
+![[Pasted image 20250331010305.png]]
 ### Designations
-**Divine **
+**Divine Imperator of Trickery**
+Code Name: Haste Astourd
+
+Was in attendance of [[Tomelot]]'s supposed execution during the [[Equinox Banquet]] 
+Ally of man but causes chaos and creates many destructions
+
+Astaroth may aid or sabotage, nothing more - [[Chronus]]
 
 Trying to help the party via time loop
 Can move during time stop

@@ -17,3 +17,4 @@ ___
 Leader of the [[Grimarchs]]
 Doesn't walk the world (only visits)
 Knowledge on him is on the 10th level of [[Gremory's Library]]
+Wants to rule the ashes post [[Cataclysm]]

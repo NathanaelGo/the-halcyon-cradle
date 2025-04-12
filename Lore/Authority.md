@@ -13,4 +13,5 @@ Mixing and matching between the gods can nullify it
 Authority can be given for actions. 
 Some gods don't like authority and will ignore it
 
-Most people have [[Deus Green Guy|Green Guy]] or [[Deus Gremory|Grey Dormeous]]
+Most people have [[Deus Green Guy|Green Guy]] or [[Deus Gremory|Grey Dormeous]] - Patronage
+Other gods offer contracts (not really authority according to grey)

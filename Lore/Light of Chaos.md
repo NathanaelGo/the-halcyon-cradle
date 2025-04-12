@@ -20,3 +20,5 @@ Morais sword is called Abbadon
 Can't be destroyed, only hidden
 
 Draws lots of attention - according to The Doctor. 
+
+Will be distributed to god hunters

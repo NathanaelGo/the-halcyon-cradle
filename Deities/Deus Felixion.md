@@ -22,3 +22,4 @@ Can be in several places at once. [[Deus Felixion|Felixion the Bored]] insinuate
 
 Carries a [[Psuedo Dragon]] - Followers of Felixion can keep them as a familiar
 
+Has Authority with [[Deus Gremory|Grey Dormeous]]

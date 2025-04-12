@@ -26,7 +26,7 @@ He talked to the party during the Warden Trials, telling them this:
 >
 > What disrupts determinism is unknown to us. You are the foreshadow of agency and a precursor to irreversible conflict. If ignored, you will shape history at the epicenter of its destruction. Our request is boundless: prevent the meeting between [[Deus Gremory|Gremory]] and [[Sitri|Sitri]]. When and where this will be is unknown to us. Preserve yourselves and your world until the opportunity to merge fates presents itself. 
 > 
-> We share the utmost possible without jeopardizing our mission and our knowledge imposes risk upon you. Make note of such heeds and maintain clandestine operations in their regard. [[Sitri]] is your only enemy within the network. [[Baal]] and [[Zepar|Zepar]] are inimical to your interests. [[Deus Astaroth|Astaroth]] and [[Vreal]] may aid or sabotage, nothing more. [[Deus Gremory|Gremory]] and [[Paimonia]] are your only allies within the network.
+> We share the utmost possible without jeopardizing our mission and our knowledge imposes risk upon you. Make note of such heeds and maintain clandestine operations in their regard. [[Sitri]] is your only enemy within the network. [[Baal]] and [[Zepar|Zepar]] are inimical to your interests. [[Deus Green Guy|Astaroth]] and [[Vreal]] may aid or sabotage, nothing more. [[Deus Gremory|Gremory]] and [[Paimonia]] are your only allies within the network.
 
 > Terminus Gates is we
 
@@ -43,4 +43,4 @@ Only appears when sin is at its greatest. Intervenes and meddles.
 
 Mortality itself is being brought before a judge.
 Instigator that will bring about a conflict that raises the question "Is this worlds existence worth it".
-Bad things happen when they pop up. - Source [[Deus Green Guy|Green Guy]]
+Bad things happen when they pop up. - Source [[Deus Astaroth|Green Guy]]
