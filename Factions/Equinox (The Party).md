@@ -25,6 +25,7 @@ aliases:
 - [[Prapurat]]
 - [[Gregor]]
 - Alligators
+- [[Terissa Monick]]
 
 ### Notable Places
 - [[Castle Boron]] (Base of operations)

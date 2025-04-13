@@ -30,3 +30,4 @@ Offered to give the party permanent Authority
 One of the 2 gods that wants to protect the agency of the common man
 
 Ally within the network - source [[Chronus]]
+Possibly a [[Computer|Super Computer]] (most definitely). 

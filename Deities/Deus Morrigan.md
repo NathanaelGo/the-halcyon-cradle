@@ -8,4 +8,4 @@ tags:
 Has weak obsession: less conflict 
 Wants the gods to not fight
 Fake god
-Goes under a different alias
+Goes under a different alias... Is [[Vreal]]

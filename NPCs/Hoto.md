@@ -3,7 +3,7 @@ tags:
   - npcs
   - npcs/places/sadura
 ---
-![[Pasted image 20250331152214.png]]
+![[img_hoto.png]]
 
 ### Designations
 Sin Devourer inside the swamps Criers Ladder (Right below the Doctors place)

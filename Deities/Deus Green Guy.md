@@ -8,7 +8,7 @@ aliases:
   - Haste Astourd
   - Astaroth
 ---
-![[Pasted image 20250331010305.png]]
+![[img_green_guy.png]]
 ### Designations
 **Divine Imperator of Trickery**
 Code Name: Haste Astourd
@@ -34,3 +34,5 @@ Weight bounces between 0-infinity
 Dimensions don't make sense (smaller than anything you can see) 
 Age is ???
 Data from Mylarins spell got borked
+
+Possibly a [[Computer|Super Computer]] (most definitely). Enjoys peoples agency bc it makes calculations unpredictable 
