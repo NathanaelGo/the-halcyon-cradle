@@ -15,3 +15,4 @@ ___
 [[The Stars|The Voices]]
 They want to kill the others sins
 Wants to get rid of treachery
+Not trying to eat [[Morai]] any more

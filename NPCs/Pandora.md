@@ -19,3 +19,4 @@ Assists [[Aurora]] but doesn't aligned with the god
 3rd in command of Aurora
 Stealthy
 8000+ years old
+Necessary in the Wards

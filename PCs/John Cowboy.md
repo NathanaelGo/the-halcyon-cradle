@@ -18,6 +18,7 @@ ___
 - From the [[Pillars of Exile]]
 - Worked as an Elemental Dispatcher
 - Was forgotten by everyone after reading a mysterious tome
+	- Someone has the ability to erase memories and its supposedly done for the betterment of the world. That person has aligned with a faction Alzerin [[Return]]. 
 	- Mysterious tome allows him to communicate with [[Deus Morrigan]]
 - Has The Scorned Torment aka Gold, which is [[Iidepus|The Scorned One]]'s weapon 
 - Got invited to the Doctors faction with Sebastian 

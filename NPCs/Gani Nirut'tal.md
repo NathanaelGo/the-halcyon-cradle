@@ -25,3 +25,7 @@ Can control people who walk near her
 Took agency with [[Aurora]] and got [[Sin]]. 
 Her eye gives her all her power
 Had a teacher that tried teaching her about [[Space]]
+
+[[Shinale]] saved her life 
+"debt to be paid to illios"? Session 73
+Memory debt?

@@ -44,3 +44,7 @@ Only appears when sin is at its greatest. Intervenes and meddles.
 Mortality itself is being brought before a judge.
 Instigator that will bring about a conflict that raises the question "Is this worlds existence worth it".
 Bad things happen when they pop up. - Source [[Deus Astaroth|Green Guy]]
+
+Seen by [[Pandora]] with [[Vega Nox]] while meeting [[Paimonia]] after Vega Nox conquered Codex
+
+[[The Zignus Institute|The Institute]] wants us to ask him the following question: "The coordinates we require on [[Blazer]] and [[Valtara]]" (message has been passed down to 8000 years - context has be lost - probably somewhere on Illios)
