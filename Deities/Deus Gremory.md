@@ -31,3 +31,5 @@ One of the 2 gods that wants to protect the agency of the common man
 
 Ally within the network - source [[Chronus]]
 Possibly a [[Computer|Super Computer]] (most definitely). 
+
+She is a Jury Judge and the other gods are executioners. 

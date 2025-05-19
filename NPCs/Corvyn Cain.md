@@ -7,7 +7,7 @@ tags:
 
 ### Designations
 Member of [[Aurora]]
-
+[[Raisers & Shadows|Shadow]] of ???
 ### Current Location
 
 

@@ -18,6 +18,7 @@ ___
 Bargaining Chip for the union 
 Sentenced to XXXX years in jail after killing a play's audience full of nobles 
 [[Mordrax]] will know if she dies and [[Mariid]] will apparently show up is she dies
+Caught/imprisoned by [[Knights of the Round Table]]
 One of her eyes is enchantment magical
 Can control people who walk near her
 [[Umbraen Empire]] wanted her extracted from that prison to use her as a weapon of war against the [[Codexica Dominion]]

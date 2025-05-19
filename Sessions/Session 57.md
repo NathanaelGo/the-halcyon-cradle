@@ -15,7 +15,7 @@ Talked to [[Deus Green Guy]], got reset
 Hekamonia the 2nd (4th loop)
 Talked to [[Carnelian]] (she's useless, killed herself)
 Went shopping
-Told [[Veleze]] we'd help
+Told [[Vaaliz Atlo-Kareet]] we'd help
 Met [[The Doctor]]
 Green man reset
 

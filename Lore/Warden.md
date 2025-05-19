@@ -7,6 +7,7 @@ The Wardens of the [[Ward of Paragon]] are those responsible for activating the 
 ### List of Known Wardens
 * [[Integra]]
 * [[Malachi Grimora]], Emperor of the Umbrean Empire
+* 2? more of Grimora's offspring
 
 
 

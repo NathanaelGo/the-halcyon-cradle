@@ -6,12 +6,14 @@ tags:
   - fake_god
 aliases:
   - Felixion the Bored
+  - Felixion the Carver
+  - Felixion the Trepidatious
 ---
 ![[img_deus_felixon.png]]
 ![[img_felixion_the_bored.png]]
 ### Designations
 **Divine Imperator of Luck**
-
+ 
 # Summary
 Posed as a poor old guy outside of Felixion's Step in [[Moros]]. Ended up giving [[John Cowboy]] a point of inspiration. 
 

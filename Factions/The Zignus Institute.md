@@ -23,7 +23,7 @@ Contributed towards this ruined age
 Research into the stars and tech harbored them lots of [[Sin]] and some of [[THE Deus]] took care of them
 Was burned when someone was tortured to death and let loose info. 
 #### God Relations
-[[Paimonia]] offered them sympathy 
+[[Paimonia]] offered them sympathy
 [[Deus Gremory|Grey Dormeous]] aided them
 [[Deus Green Guy|Astaroth]] visited them and told them to keep the name [[Pandora's Box]] a secret
 There are no gods on their side - just ones that find amusement in what they do
