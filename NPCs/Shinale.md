@@ -12,5 +12,5 @@ tags:
 
 ___
 ### Summary
-Stole the din bearer 
-Ribs from the citadel of light have their ribs taken
+There's a debt in Illios that needs to be paid.
+Where they go it seems like amnesia 

@@ -2,9 +2,11 @@
 tags:
   - factions
   - lore
+aliases:
+  - Nox
 ---
 ### Notable Characters
-* [[Veganox]]
+* [[Vega Nox]]
 
 ___
 ### Summary

@@ -26,3 +26,6 @@ Word was caught and the union lost the prisoner to the dominion?
 Sleeper Agent Code:
 Betcha I need ya
 Boats Suck Now Follow Me
+
+
+[[Deus Felixion]] told [[Ashley Anne Helsing]] Betcha would be great for rooting out corruption and hes working with her. LETS GOOO

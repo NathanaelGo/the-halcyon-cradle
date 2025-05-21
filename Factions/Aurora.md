@@ -5,7 +5,7 @@ tags:
   - factions
 ---
 ### Notable Characters
-- [[Corvin Cain]]
+- [[Corvyn Cain]]
 - [[Catrix]]
 
 

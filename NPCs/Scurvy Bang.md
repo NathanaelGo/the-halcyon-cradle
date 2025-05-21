@@ -15,7 +15,7 @@ Assassin of [[Ill Tacit]]
 ___
 ### Summary
 Once held a pact with [[Sal'a'siis Sahala'san]] giving him sight
-Was after the bounty on [[Ravane Soga'tae]]'s head, a favor for [[Corvin Cain]].
+Was after the bounty on [[Ravane Soga'tae]]'s head, a favor for [[Corvyn Cain]].
 
 Was defeated by [[Equinox (The Party)|Equinox]] after trying to kill Ravane.
 

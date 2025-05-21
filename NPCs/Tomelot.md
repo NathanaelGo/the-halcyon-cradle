@@ -11,7 +11,7 @@ The Mad Wizard
 
 ___
 ### Summary
-Received [[Deus Astaroth]]'s [[Authority]] along with the rest of his party.  His other option was [[Deus Gremory|Gremory]]'s Authority but wanted to discover the worlds secrets himself. 
+Received [[Deus Green Guy|Green Guy]]'s [[Authority]] along with the rest of his party.  His other option was [[Deus Gremory|Gremory]]'s Authority but wanted to discover the worlds secrets himself. 
 
 Had the authority of [[Deus Green Guy]] (according to green guy)
 

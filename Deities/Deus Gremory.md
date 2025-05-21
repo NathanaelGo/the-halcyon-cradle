@@ -9,6 +9,7 @@ aliases:
   - Gremory
 ---
 ![[img_Grey_Dormeus.png]]
+![[img_grey_god.png]]
 ### Designations
 Goddess of knowledge and magic. 
 Alias: Grey Dormeous 
@@ -27,3 +28,8 @@ In [[Moros]], she opened up her library for [[Mylàrin Ulamoor]], and by extensi
 Offered to give the party permanent Authority
 
 One of the 2 gods that wants to protect the agency of the common man
+
+Ally within the network - source [[Chronus]]
+Possibly a [[Computer|Super Computer]] (most definitely). 
+
+She is a Jury Judge and the other gods are executioners. 
