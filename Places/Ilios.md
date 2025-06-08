@@ -4,6 +4,7 @@ tags:
   - lore
 aliases:
   - Halcyon Cradle
+  - Halcyon
 ---
 ![[maps_Ilios.jpeg]]
 

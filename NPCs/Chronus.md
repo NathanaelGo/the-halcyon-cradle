@@ -12,7 +12,7 @@ tags:
 
 ___
 ### Summary
-Associate of [[The Doctor]]
+Associate of [[The Doctor]] - Might not be - just showed up in the [[Crier's Ladder]] with him and [[Deus Green Guy|Green Guy]]
 Shows up when [[Sin]] reaches a precipice 
 Conferred with [[Nythlani Eristil|Apricot]] about the [[Raven's Order]]
 
@@ -47,4 +47,4 @@ Bad things happen when they pop up. - Source [[Deus Astaroth|Green Guy]]
 
 Seen by [[Pandora]] with [[Vega Nox]] while meeting [[Paimonia]] after Vega Nox conquered Codex
 
-[[The Zignus Institute|The Institute]] wants us to ask him the following question: "The coordinates we require on [[Blazer]] and [[Valtara]]" (message has been passed down to 8000 years - context has be lost - probably somewhere on Illios)
+[[The Zignus Institute|The Institute]] wants us to ask him the following question: "The coordinates we require on [[Blazur]] and [[Valtara]]" (message has been passed down to 8000 years - context has be lost - probably somewhere on Illios)

@@ -8,4 +8,4 @@ Found in the [[Monster House]]
 (4th part is time related - usually set to the present - If set otherwise it will typically instantly kill you)
 Augmentation for an unknown circle
 Use extreme care when using this.
-![[Pasted image 20250518183006.png]]
+![[img_wierd_teleporation_circle.png]]

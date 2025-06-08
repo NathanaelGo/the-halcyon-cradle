@@ -19,3 +19,6 @@ Assassin [[Swindlely]] is after him
 Inventor of Frogy-morph 
 Hat constantly rains water
 Negotiated with [[John Cowboy|John]] to have [[Castle Boron]]'s moat constructed
+
+Making the Cannel for our fort: 
+Cost - 5% until 300,000 gold and then 1% forever

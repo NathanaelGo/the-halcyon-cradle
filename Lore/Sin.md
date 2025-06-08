@@ -15,3 +15,5 @@ If you reach a threshold in sin, the gods will show up and vaporize you. [[Autho
 Pain, Stillness and Patience is repentance. 
 
 Non optimal - decisions made with the heart
+
+Crimes against the gods

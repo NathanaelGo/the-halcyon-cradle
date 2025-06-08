@@ -23,7 +23,7 @@ aliases:
 - [[Botanica]]
 - [[Flavia Laurent]]
 - [[Prapurat]]
-- [[Gregor]]
+- [[Gregor Volk]]
 - Alligators
 - [[Terissa Monick]]
 

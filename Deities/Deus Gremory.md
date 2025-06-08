@@ -33,3 +33,11 @@ Ally within the network - source [[Chronus]]
 Possibly a [[Computer|Super Computer]] (most definitely). 
 
 She is a Jury Judge and the other gods are executioners. 
+
+
+Grey dislikes numerous gods but heavily dislikes these 4:
+- [[Andromalius]]
+- [[Belial]]
+- [[Gamigin]]
+- [[Valac]]
+(if these gods were to fall many other will follow and the world will be a reset)

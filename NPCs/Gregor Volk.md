@@ -3,12 +3,14 @@ tags:
   - npcs
 aliases:
   - Gregor the Hero
+  - Gergor
 ---
 ![[img_Gregor.png]]
 
 ### Designations
 Member of [[Equinox (The Party)]]
 Knight of [[Erebos]]
+Nephew of [[Daruna Volk]]
 
 ### Current Location
 

@@ -4,7 +4,7 @@ tags:
 aliases:
   - Lanar Ando
 ---
-![[Pasted image 20250420182817.png]]
+![[img_wandering_cowboy.png]]
 ### Designations
 
 
@@ -19,5 +19,6 @@ The wind told him.
 From the [[Pillars of Exile]] 
 Was looking for something. 
 Not a fan of the Razers in [[June]] shadow
+Took [[Morai]]'s contract so others won't go after her
 
 

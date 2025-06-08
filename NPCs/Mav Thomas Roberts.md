@@ -4,13 +4,13 @@ tags:
   - npcs/factions/scion-union
   - npcs/factions/scion-union-knights
 ---
-*Image here*
-
+![[img_Mav_Thomas_Roberts.png]]
 ### Designations
-
+Grandson of [[Alexander Franklin Roberts]]
 
 ### Current Location
 
 
 ___
 ### Summary
+Was at [[Equinox Banquet]]

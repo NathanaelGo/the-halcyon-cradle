@@ -1,10 +1,14 @@
 ---
 tags:
   - npcs
+aliases:
+  - Unnamed Space Creature
+  - Raziel
+  - Point of Secrets
 ---
 
 ### Designations
-
+[[Light of Chaos]] 
 
 ### Current Location
 
@@ -17,6 +21,8 @@ Found refuge in the bode of our foes
 Has been erased? [[The Zignus Institute|The Institute]] doesn't really know
 
 
-Called [[Morai]] a Walker.
+Called [[Morai]] a [[Walker]].
 Find [[Deus Zignus]], they must return [[Pandora's Box]] 
 It doesn't want the space rock knowledge to fall into the wrong hands. 
+
+Wants to meet myalrin/the party - is above us - is watching us 
