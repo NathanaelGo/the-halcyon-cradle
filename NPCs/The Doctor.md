@@ -16,7 +16,7 @@ ___
 Has [[Authority]] from [[Deus Green Guy]]
 Collecting the [[Light of Chaos]] through an auction that will be kept in [[Moros]]
 Trying to remake the technology to make [[Light of Chaos]]
-Looking into [[Promethia]] 
+Looking into [[Promethea]] 
 Playing chess with us as pieces
 Will either make or take a new body when he dies
 

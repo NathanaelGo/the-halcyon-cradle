@@ -2,7 +2,6 @@
 tags:
   - npcs
 aliases:
-  - Unnamed Space Creature
   - Raziel
   - Point of Secrets
 ---
@@ -15,14 +14,14 @@ aliases:
 
 ___
 ### Summary
-[[Ravane Soga'tae|Ravane]] saw it while looking through the telescope
-Names not tied to the tether of this world
-Found refuge in the bode of our foes 
-Has been erased? [[The Zignus Institute|The Institute]] doesn't really know
 
 
 Called [[Morai]] a [[Walker]].
 Find [[Deus Zignus]], they must return [[Pandora's Box]] 
 It doesn't want the space rock knowledge to fall into the wrong hands. 
 
-Wants to meet myalrin/the party - is above us - is watching us 
+Wants to meet myalrin/the party - is above us - is watching us - Meet in SpAcE!!!
+
+Domain: Secrets Magic Mystery 
+Doesn't like the common tongue - hard to convey info
+Some of our kind is up with him

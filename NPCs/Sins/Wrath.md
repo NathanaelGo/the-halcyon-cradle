@@ -16,3 +16,4 @@ ___
 Discovering the new meaning of wrath
 Old definition was lots of anger
 New definition: Helping others to do stuff with the anger you feel
+Combined with [[Morai]] losing her form but granting her host [[Authority]]

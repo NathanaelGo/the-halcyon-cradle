@@ -3,7 +3,7 @@ tags:
   - factions 
 ---
 ### Notable Characters
-- [[Grimoire Monarch]]
+- [[Treachery]]
 - [[Seven Sins|Sins]]
 - [[Jeremiah]]
 - [[Ezekiel]]

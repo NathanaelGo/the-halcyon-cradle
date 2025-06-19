@@ -34,8 +34,9 @@ Angels of certainty carved from the Lights of Chaos
 [[Abbadon, the Point of Destruction]] lives in it personal leaning towards absolution [[Sin 8]] - has a will and is alive 
 One of many points still around - many have been lost to time and destroyed
 
+Yearn to cease the birth of more [[seraphim]] and destroy a hierarchy above them - Point of Secrecy
 # List of Points 
-[[Abbadon, the Point of Destruction]], the Point of Destruction
+[[Abbadon, the Point of Destruction]]
 [[Azazel, the Point of Sacrifice]]  
 [[Azrael, the Point of Psychopompry]]
 [[Gabriel, the Point of Orders]]
@@ -43,16 +44,23 @@ One of many points still around - many have been lost to time and destroyed
 [[Raziel, the Point of Secrets]]
 [[Samiel, the Point of Seduction]]
 [[Uriel, the Point of Wisdom]]
-Zadkiel, the Point of Mercy
+[[Zadkiel, the Point of Mercy]]
 
 Anyone who learns this gets killed by a god
-Forged by [[Prometheans]] as weapons to fight the gods - and they lost the war
+Forged by [[Promethea]]ns as weapons to fight the gods - and they lost the war
 
 Names Myalrin heard during his legend lore: 
-- Zara
-- Promethea
-- Rebellion
+- [[Zara]]
+- [[Promethea]]
+- [[Rebellion]]
 - [[Blazur]]
 - [[Valtara]]
 - [[Ilios|Halcyon]]
-- Aetheria
+- [[Aetheria]]
+
+Beside a god who trusts you
+Core
+Sky Island
+
+Words of places long ago
+

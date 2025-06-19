@@ -21,5 +21,9 @@ The library contains basically every book ever written and all the knowledge acc
 
 One can check if they are ready for the next level if they read the last book before the access stairs and feel nothing.
 
+[[Equinox (The Party)|The Party]] 3rd Level Access
+[[Mylàrin Ulamoor]] 4th Level Access
+
 Reaching the 7th level will illuminate much.
 Reaching the 10th level will reveal all. 
+

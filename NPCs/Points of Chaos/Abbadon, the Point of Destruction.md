@@ -14,3 +14,4 @@ aliases:
 
 ___
 ### Summary
+"{My} sands of time grace this desert. I wake once more. Tragic, a seraphim’s birth looms over. Ah... Seraphim…"

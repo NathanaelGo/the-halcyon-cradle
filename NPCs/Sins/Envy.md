@@ -8,4 +8,4 @@ Member of [[Grimarchs]]
 
 ___
 ### Summary
-Showed up with the [[Grimoire Monarch]] to execute [[Tomelot]] during the [[Equinox Banquet]]
+Showed up with the [[Treachery]] to execute [[Tomelot]] during the [[Equinox Banquet]]

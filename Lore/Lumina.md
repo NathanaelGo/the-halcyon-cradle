@@ -2,3 +2,5 @@
 - The Lumina in a person replenishes with rest and has a maximum capacity that can be grown or shrunk over time, typically through training and age.
 - To make use of Lumina, the light of life, one must use [[Essentia]].
 
+Lumina Inheritance - Persons Solypsius being passed on to someone
+

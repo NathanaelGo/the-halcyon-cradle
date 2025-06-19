@@ -23,6 +23,8 @@ The world as we know today.
 
 Halcyon is the worlds true name.
 
+Birthing [[Seraphim]] is the purpose of the world 
+
 
 ## Factions
 

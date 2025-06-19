@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"f12782167f3583c8","type":"file","file":"Places/Ilios.md","x":-260,"y":-520,"width":400,"height":341},
+		{"id":"f12782167f3583c8","type":"file","file":"Places/1. Worlds/Ilios.md","x":-260,"y":-520,"width":400,"height":341},
 		{"id":"06e4f36ed0ac01c6","type":"text","text":"## Legend\nRED: Major Nations\nORANGE: Minor Nations","x":1080,"y":-557,"width":280,"height":140},
 		{"id":"0679c75c69795947","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n# Concord\n\n\n![[Concord#Summary]]","x":-338,"y":500,"width":556,"height":320,"color":"2"},
 		{"id":"ed3f4a00276daf2e","type":"text","text":"---\ncssclass: hide-embedded-header\n---\n\n# Codexica Dominion\n![[Codexica Dominion#Summary]]","x":-760,"y":137,"width":460,"height":181,"color":"1"},

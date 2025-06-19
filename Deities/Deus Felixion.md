@@ -28,4 +28,4 @@ Carries a [[Psuedo Dragon]] - Followers of Felixion can keep them as a familiar
 Has Authority with [[Deus Gremory|Grey Dormeous]]
 
 Walker - walks into places you dont belong
-"Mortal who reached their end. Cant get stronger with out rebelling" - [[Deus Gremory|Grey]]
+"Felixion is what I would consider a mortal who has reached their end there is no way for them to get any more powerful without waving a flag of [[Rebellion]]" - [[Deus Gremory|Grey]]

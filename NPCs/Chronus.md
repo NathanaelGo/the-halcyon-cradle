@@ -28,16 +28,16 @@ He talked to the party during the Warden Trials, telling them this:
 > 
 > We share the utmost possible without jeopardizing our mission and our knowledge imposes risk upon you. Make note of such heeds and maintain clandestine operations in their regard. [[Sitri]] is your only enemy within the network. [[Baal]] and [[Zepar|Zepar]] are inimical to your interests. [[Deus Green Guy|Astaroth]] and [[Vreal]] may aid or sabotage, nothing more. [[Deus Gremory|Gremory]] and [[Paimonia]] are your only allies within the network.
 
-> Terminus Gates is we
+> [[Terminus Gate]]s is we
 
 > As long as we make choices in our world that benefit determinism you will come to pass that you have the utmost agency or restore order to all of our sin. As the timelines converge once again we will continue on our way.
 
 It has been Eons since their last appearance. They only appear when time is divergent. 
 
-> Be wary to those who came to be of [[Promethia]], If true will be your friend. If not they will be your enemy
+> Be wary to those who came to be of [[Promethea]], If true will be your friend. If not they will be your enemy
 
 Gods want to kill this man, Gods from other worlds want to do so as well.
-Related to [[Promethia]]
+Related to [[Promethea]]
 Only appears when sin is at its greatest. Intervenes and meddles.
 
 
@@ -48,3 +48,14 @@ Bad things happen when they pop up. - Source [[Deus Astaroth|Green Guy]]
 Seen by [[Pandora]] with [[Vega Nox]] while meeting [[Paimonia]] after Vega Nox conquered Codex
 
 [[The Zignus Institute|The Institute]] wants us to ask him the following question: "The coordinates we require on [[Blazur]] and [[Valtara]]" (message has been passed down to 8000 years - context has be lost - probably somewhere on Illios)
+
+Walks time 
+Being of hatred - walked the path of revenge that spans eons
+Wants to: 
+- kill something
+- save something
+- see something done
+
+Trying to fight a fate so grand & beyond them
+
+Saw something that would XYZ and Nihilism

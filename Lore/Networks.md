@@ -4,4 +4,4 @@ tags:
 ---
 [[Crier's Ladder]]???
 [[Paimonia]] Network
-[[Ethera Nexus Network]]
+[[Aetheria Nexus Network]]

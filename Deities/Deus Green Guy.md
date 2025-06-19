@@ -36,3 +36,8 @@ Age is ???
 Data from Mylarins spell got borked
 
 Possibly a [[Computer|Super Computer]] (most definitely). Enjoys peoples agency bc it makes calculations unpredictable 
+
+Eaten a lifetime of every type of food
+Working towards our [[Freedom]]
+
+Destabilized governments and societies in the past

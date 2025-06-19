@@ -1,8 +1,10 @@
 ---
 tags:
   - lore
+aliases:
+  - Agency
 ---
-Agency
+
 
 Gods don't like it.
 

@@ -201,3 +201,6 @@ tags:
 ![[Sessions/Session 69]]
 # Session 70
 ![[Sessions/Session 70#Synopsis]]
+
+# Session 76
+![[Sessions/Session 76#Synopsis]]

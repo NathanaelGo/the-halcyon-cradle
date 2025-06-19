@@ -15,8 +15,8 @@ aliases:
 [[Gluttony]]
 [[Morai|Wrath]]
 [[Acedia]]
-[[Grimoire Monarch|Treachery]]
-[[10ths Sin]]
+[[Treachery|Treachery]]
+[[Nihilism (theory)]]
 
 ___
 ### Summary
@@ -30,5 +30,5 @@ Wrath isn't one that isn't dangerous
 
 7 Walk the world
 1 Fragmented [[Acedia]]
-1 not walking the world [[Grimoire Monarch|Treachery]]
-1 Destroyed [[10ths Sin]]
+1 not walking the world [[Treachery|Treachery]]
+1 Destroyed [[Nihilism (theory)]]

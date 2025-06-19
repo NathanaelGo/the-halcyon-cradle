@@ -4,6 +4,7 @@ tags:
   - npcs
 aliases:
   - Treachery
+  - Grimoire Monarch
 ---
 ![[img_Grimoire_Monarch.png]]
 ### Designations

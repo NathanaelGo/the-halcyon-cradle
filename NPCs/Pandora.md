@@ -20,3 +20,5 @@ Assists [[Aurora]] but doesn't aligned with the god
 Stealthy
 8000+ years old
 Necessary in the Wards
+
+Was able to hide from [[Deus Green Guy|Green Guy]] a god's gaze for a bit

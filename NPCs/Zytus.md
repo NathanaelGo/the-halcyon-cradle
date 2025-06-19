@@ -5,11 +5,11 @@ tags:
 ---
 ![[img_Zytus.png]]
 ### Designations
-Servant of the [[Grimoire Monarch]]
+Servant of the [[Treachery]]
 Member of the [[Grimarchs]]
 ### Current Location
 
 
 ___
 ### Summary
-Servant of the [[Grimoire Monarch]], has dragged [[Tomelot]] to the [[Equinox Banquet]]. He was later encountered in the [[Marasind Bend]], engaged in a scheme with the governor and using him to take something from the city. 
+Servant of the [[Treachery]], has dragged [[Tomelot]] to the [[Equinox Banquet]]. He was later encountered in the [[Marasind Bend]], engaged in a scheme with the governor and using him to take something from the city. 
