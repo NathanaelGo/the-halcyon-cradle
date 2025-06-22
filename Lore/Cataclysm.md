@@ -12,3 +12,5 @@ Birth of a [[Seraphim]] is what causes the cataclysm
 30-80 thousands years some times more
 ~32,000 years according to [[Deus Green Guy|Green Guy]]
 Total analization for all encompassing peace
+
+Secret held by a few thousand

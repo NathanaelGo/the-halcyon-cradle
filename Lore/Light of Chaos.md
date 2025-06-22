@@ -59,8 +59,9 @@ Names Myalrin heard during his legend lore:
 - [[Aetheria]]
 
 Beside a god who trusts you
-Core
+[[Core]]
 Sky Island
 
 Words of places long ago
 
+Sometimes when the [[Light of Chaos]] are written about that information disappears from the books - According to [[The Zignus Institute|The Institute]]

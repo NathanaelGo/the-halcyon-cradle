@@ -17,3 +17,5 @@ ___
 Ally within the network - source [[Chronus]]
 Location is not up
 Has been kind to [[Pandora]]
+
+In the [[Core]] of [[Ilios|Halcyon]]

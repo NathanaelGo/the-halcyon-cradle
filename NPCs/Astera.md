@@ -18,3 +18,4 @@ Teaching [[memory holder]] language
 [[The Tumultuous One]] isn't feeding her any more.
 Jailer of [[The Tumultuous One]]?? They aren't on good terms
 ![[img_astera_boot_up_blue.png]]
+ANN on boot up screen is [[Aetheria Nexus Network]]

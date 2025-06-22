@@ -26,3 +26,9 @@ Has undead army's and will conquer the world for the next cycle.
 
 Was fond of [[The Zignus Institute|The Institute]]
 
+His Legacy was left in the [[Umbraen Empire]] (kept the spirit of Vega in some capacity)
+
+Wants to wage war on the gods after he comes back
+Discovered the [[Core]]
+
+Some connection with [[Deus Aurelia]]???

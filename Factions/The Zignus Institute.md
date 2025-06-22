@@ -22,6 +22,8 @@ Built machines capable to complex math and predict orbits and foresee objects fa
 Contributed towards this ruined age
 Research into the stars and tech harbored them lots of [[Sin]] and some of [[THE Deus]] took care of them
 Was burned when someone was tortured to death and let loose info. 
+
+Followers given a radio [[Networks]] and the followers collect the data and try to interpret it
 #### God Relations
 [[Paimonia]] offered them sympathy
 [[Deus Gremory|Grey Dormeous]] aided them

@@ -12,8 +12,7 @@ aliases:
 Member of [[Aurora]]
 Follower of [[Deus Zignus]]
 ### Current Location
-
-
+Has a presence in most major cities in this world. Will seek out [[Equinox (The Party)|The Party]] when needed.
 ___
 ### Summary
 Previous [[Warden]] that has 'died'. But she still shows up in several places.
@@ -23,3 +22,9 @@ A clockwork-looking woman. She accompanied [[Equinox (The Party)|The Party]] dur
 The Architect behind the [[Ward of Paragon]] dungeon in concord. 
 
 Great Great... Grand Daughter of a founding member of [[The Zignus Institute|The Institute]]
+
+Path to the basement never stays the same
+
+When meeting with [[Minerva]] at the Gardens basement 50 concealed war forged (something was different about them - don't have sentience) with rifles appeared 
+
+Can quarantine her body and remove a version of her self from reality (Used to remove [[Adazgul]])
