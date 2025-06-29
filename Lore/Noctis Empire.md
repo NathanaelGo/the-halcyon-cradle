@@ -14,4 +14,5 @@ Empire of days past. The Republic of Alamarth was founded upon its ruins, and th
 
 The [[Aurora|Hands of Veganox]] are the remnants of the Empire and potentially seek to restore Veganox's rule.
 
+Fell about 2000 years ago
 

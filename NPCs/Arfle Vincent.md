@@ -11,4 +11,4 @@ tags:
 
 ___
 ### Summary
-Hecation [[Ravane Soga'tae|Ravane]] rescued from [[Ghastkeep]]
+Hecation [[Ravane Soga'tae|Ravane]] rescued from [[Fort Ksau'Kssa|Ghastkeep]]

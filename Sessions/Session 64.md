@@ -36,7 +36,7 @@ The party talked with the Green God about several things:
 4:03:20 - Mylarin to make a vacuum 
 4:07:20 - Can but doesn't meddle with the machinations of Piamonia 
 4:23:45 - There have been times when authority was given against the rules (WHAT ARE DA RULES - did that happen at the banquet) 
-4:30:30 - We got spectator chat (promethia/Chronus) watching us! 
+4:30:30 - We got spectator chat ([[Promethea]]/Chronus) watching us! 
 4:32:00 - Regulars gods arent in on the loop about Chronus? 
 4:33:15 - Mortality is being brought before a judge + Chronus is an instigator the will bring up the question - Is this planet worth existing 
 4:39:07 - John needs ICE

@@ -23,9 +23,11 @@ The world as we know today.
 
 Halcyon is the worlds true name.
 
+Current Date: 8327 AL
+
 Birthing [[Seraphim]] is the purpose of the world 
-
-
+[[Hekate's Hymns]] have affected Ilios for about 100,000 years.
+~ 250 [[Cycles]] x 32,000 years per cycle ([[Cataclysm]]) == World is about 8,000,000 years old
 ## Factions
 
 * [[Aurelia's Faith]]

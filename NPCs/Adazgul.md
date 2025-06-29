@@ -24,7 +24,7 @@ Wants to see what happens to [[Mylàrin Ulamoor|Mylàrin]] when he goes into a [
 Manifested in a physical form and only showed himself because he wanted to help us with the [[The Zignus Institute|The Institute]]
 
 Made on the isle of mist. Nebulae (after it went wrong) 
-Vega nox isn't dead, [[Adazgul]] was an attempt to clone him. The [[Wards]] are a piece of them. Republic got the pieces and tried to make their own Vega Nox. 
+Vega nox isn't dead, [[Adazgul]] was an attempt to clone him. The [[Ward of Paragon]] are a piece of them. Republic got the pieces and tried to make their own Vega Nox. 
 Has some of [[Vega Nox]]'s memory. 
 
 Looking for [[Ragnarok]] researches in [[Codex]] (stole Adazgul's research notes)
@@ -40,3 +40,8 @@ Adazguls in other people are considered his brothers
 
 Once enough of adazguls are in place there might be an adazgul battle royale. (battle to get real)
 [[Mylàrin Ulamoor]]'s Adazgul can absorb others now. 
+
+
+### Library Info
+- **(SIN 3)** Adazgul was a creation of the Republic Alamarth. They exist in a "disassembled" state. They're referenced as a psychic magical biohazard and mention of them is ill advised by most governments of the world.,
+- **(SIN 4)** Adazgul was made with one of the ribs of [[Vega Nox]] in much of the same way the Wards of Paragon are powered by parts of his body.

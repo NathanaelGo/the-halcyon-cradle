@@ -18,13 +18,13 @@ aliases:
 - Parents were high level Inquisitors of Citadel of Light - "Valeries and Berserkers"
 
 # Teleportations
-- [[Ghastkeep]] Briars residency
-- [[Ghastkeep]] Alternate Entrance
-- [[Ghastkeep]] Alternate Entrance 2 (from Volk capture)
+- [[Fort Ksau'Kssa]] Briars residency
+- [[Fort Ksau'Kssa]] Alternate Entrance
+- [[Fort Ksau'Kssa]] Alternate Entrance 2 (from Volk capture)
 - Unknown (weird from house)
-- Moros (soured from Ghastkeep)
-- Iscastra - Port City of Codex (soured from Ghastkeep) 
-- [[Codex]] - Teleports people into the [[Ragnarok]] (soured from Ghastkeep)
+- Moros (soured from [[Fort Ksau'Kssa|Ghastkeep]])
+- Iscastra - Port City of Codex (soured from [[Fort Ksau'Kssa]]) 
+- [[Codex]] - Teleports people into the [[Ragnarok]] (soured from [[Fort Ksau'Kssa|Ghastkeep]])
 - Erabos (from Volk capture)
 - 
 

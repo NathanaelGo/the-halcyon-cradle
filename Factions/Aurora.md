@@ -14,6 +14,6 @@ tags:
 
 ___
 ### Summary
-Remnants of the Noctis Empire, still loyal to the deceased emperor
+Remnants of the [[Noctis Empire]], still loyal to the deceased emperor
 
 Possibly allied with the [[Grimarchs]]

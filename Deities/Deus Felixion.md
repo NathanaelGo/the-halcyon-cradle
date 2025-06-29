@@ -14,7 +14,7 @@ aliases:
 ![[img_felixion_the_bored.png]]
 ### Designations
 **Divine Imperator of Luck**
- 
+[[Walker]] 
 # Summary
 Posed as a poor old guy outside of Felixion's Step in [[Moros]]. Ended up giving [[John Cowboy]] a point of inspiration. 
 

@@ -42,7 +42,10 @@ The Voidscape of Nihility can be summarily described as a vacuum. While the phys
 
 ### Nihil
 Within the Voidscape of Nihility are countless pocket dimensions of tangled up nothingness defined only by entropy, or a lack thereof. These planes are known collectively as Nihil. Unlike Serenith, which is unbound to time, Nihil is influenced by what resides in it. Natively, time does not exist in Nihil and nothing ever changes, but Lumina, which is foreign to Nihil, introduces entropy and thus dictates the flow of time within it. In other words, the arrow of time is born through the introduction of Lumina into Nihil. This makes these planes highly adaptable seeing as they reciprocate entropy. In theory, one with sufficient ability could theoretically custom tailor entire worlds within it.
-  
+### Library Info (Nihil)
+- **(SIN 3)** Knowledge of the Voidscape of Nihility (you already have this),
+- **(SIN 4)** Time dilation in the Voidscape of Nihility differs from outside of it. Historically, study into this is of tremendous sin and advised against by the Gods.,
+- **(SIN ???--NO ACCESS)** On numerous higher levels are information on Nihil. The details of where are unlisted.
 
 ### Planar Travel
 Fundamentally speaking, Lumina native to the Planes of Time cannot easily traverse their neighboring overlapping planes. This is a two part problem. 
