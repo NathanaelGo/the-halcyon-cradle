@@ -9,8 +9,11 @@ aliases:
 - Was deemed dead by his family
 - Ran away after assassinating someone who threatened his old home
 - Learned under [[Corvyn Cain]] the [[Raven's Order]]
+- Inheriting power from [[The Raven]]
 
-Sometimes thinks that peace isnt always the best option
+Sometimes thinks that peace isn't always the best option
 Has another void in him
 Has an old old old old power
 Raven does intend to do good
+
+Carries [[Janus]]'s curse

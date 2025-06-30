@@ -29,3 +29,16 @@ Has Authority with [[Deus Gremory|Grey Dormeous]]
 
 Walker - walks into places you dont belong
 "Felixion is what I would consider a mortal who has reached their end there is no way for them to get any more powerful without waving a flag of [[Rebellion]]" - [[Deus Gremory|Grey]]
+
+
+### The Bored
+- Alchemist who has very potent drugs
+- Hopping from Job to Job
+- A long time ago everyone knew him - but he fucked up and was punished - Made it so people didn't know him anymore - Now he wanders the world getting people to know him - Needs people to know him for a certain goal.
+- "Sometimes the Hero who goes to war and save the war isn't a hero."
+- Getting into everyones head little by little
+- Doing stuff with out collecting [[Sin]]
+
+2 ways to get power in the world
+- One gets you Smited by the gods
+- The other gets them angry but can't do anything to you

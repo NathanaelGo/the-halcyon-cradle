@@ -3,6 +3,7 @@ tags:
   - player-characters
 aliases:
   - Mylàrin
+  - Party Demon
 ---
 - From [[Codex]]
 - Scion of a rich and influential family
