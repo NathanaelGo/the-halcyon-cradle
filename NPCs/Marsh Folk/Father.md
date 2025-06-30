@@ -3,6 +3,7 @@ tags:
   - npcs
 ---
 10ft tall hulking creature
+Scales and stone bat wings
 
 ### Designations
 Protector of [[Blackmire Swamp]]

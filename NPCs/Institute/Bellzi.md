@@ -13,3 +13,4 @@ Follower/Priest of [[Deus Zignus]]
 ___
 ### Summary
 Part of [[The Zignus Institute]]
+Connects to people's mind in proximity
