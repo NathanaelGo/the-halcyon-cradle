@@ -17,7 +17,7 @@ ___
 ### Summary
 Bargaining Chip for the union 
 Sentenced to XXXX years in jail after killing a play's audience full of nobles 
-[[Mordrax]] will know if she dies and [[Mariid]] will apparently show up is she dies
+[[Mordrax Grimora]] will know if she dies and [[Mariid]] will apparently show up is she dies
 Caught/imprisoned by [[Knights of the Round Table]]
 One of her eyes is enchantment magical
 Can control people who walk near her

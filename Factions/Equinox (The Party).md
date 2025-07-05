@@ -29,6 +29,7 @@ aliases:
 
 ### Notable Places
 - [[Castle Boron]] (Base of operations)
+- [[Fort Ksau'Kssa]] (Moros/Blackmire Fort)
 
 ___
 ### Summary

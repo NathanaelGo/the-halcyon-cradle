@@ -4,9 +4,7 @@ tags:
 aliases:
   - Agency
 ---
-
-
-Gods don't like it.
+Gods don't like it. - Its considered a crime in regards to the Smoking Gun :)
 
 The gods keep the world moving in a certain way. Sin is the act of deviating from that path and making choices that steers the world away from the direction the gods wants it to go.
 

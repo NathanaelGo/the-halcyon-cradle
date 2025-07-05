@@ -29,7 +29,7 @@ Energy of the universe was sentient and thats what made the lights of chaos
 
 
 
-Point of Destruction - Minus Ruptumous
+Point of Destruction - Minis Ruptuous
 Angels of certainty carved from the Lights of Chaos
 [[Abbadon, the Point of Destruction]] lives in it personal leaning towards absolution [[Sin 8]] - has a will and is alive 
 One of many points still around - many have been lost to time and destroyed
@@ -62,6 +62,7 @@ Places you can talk freely
 - Beside a god who trusts you
 - [[Core]]
 - Sky Island
+- Basement of [[The Zignus Institute|The Institute]]
 
 Words of places long ago
 

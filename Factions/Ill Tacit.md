@@ -7,7 +7,13 @@ tags:
 ### Notable Characters
 - [[Scurvy Bang]]
 - [[Kathy Swindial]]
-
+- [[White]] - Hired
+- [[Dazzle]]
+- [[Oscar Simmons]] & [[Ricardo Simmons]] | [[Storm Brothers]] 
+- [[Lone Ranger]]
+- [[Wandering Cowboy|Lanar Ando]]
+- [[Ms. Sevenths]]
+- [[Swindlely]]
 ### Notable Places
 
 

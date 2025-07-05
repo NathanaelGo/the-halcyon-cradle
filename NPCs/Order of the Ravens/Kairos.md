@@ -6,7 +6,7 @@ tags:
 
 ### Designations
 [[The Raven]]
-[[Raven's Order|Raven's Order]]
+[[Order of the Raven|Raven's Order]]
 
 ### Current Location
 

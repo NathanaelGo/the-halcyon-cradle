@@ -4,6 +4,7 @@ tags:
 aliases:
   - Point of Destruction
   - Abbadon
+  - Minis Ruptuous
 ---
 ![[img_Abbadon.png]]
 ### Designations

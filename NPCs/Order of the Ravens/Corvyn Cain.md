@@ -8,7 +8,7 @@ tags:
 ### Designations
 Member of [[Aurora]]
 [[Raisers & Shadows|Shadow]] of ???
-Member of [[Raven's Order|Raven's Order]]
+Member of [[Order of the Raven|Raven's Order]]
 ### Current Location
 
 

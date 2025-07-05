@@ -4,11 +4,12 @@ tags:
   - factions
 aliases:
   - Order of the Raven
+  - Raven's Order
 ---
 ### Notable Characters
 [[Janus]] - The First Raven
-[[Clio]]
 [[Kairos]] - Cursed to forever be the raven
+[[Clio]]
 [[Corvyn Cain]]
 [[Ravane Soga'tae|Ravane]]
 [[Apollo]] - Final Raven

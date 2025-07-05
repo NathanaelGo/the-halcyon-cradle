@@ -14,7 +14,7 @@ ___
 ### Summary
 Associate of [[The Doctor]] - Might not be - just showed up in the [[Crier's Ladder]] with him and [[Deus Green Guy|Green Guy]]
 Shows up when [[Sin]] reaches a precipice 
-Conferred with [[Nythlani Eristil|Apricot]] about the [[Raven's Order]]
+Conferred with [[Nythlani Eristil|Apricot]] about the [[Order of the Raven]]
 
 Was met twice at the [[Warden Trials]] and with [[The Doctor]].
 

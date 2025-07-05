@@ -6,10 +6,11 @@ tags:
 [[Kairos]]
 [[Silencia]]
 [[Hoto]]
+[[The Narrator]]
 ### Notable Places
 
 
 ___
 ### Summary
 Read [[Deus Green Guy|Green Guy]]'s book and turned into a clown
-In kahoots with [[Raven's Order|Raven's Order]]
+In kahoots with [[Order of the Raven|Raven's Order]]

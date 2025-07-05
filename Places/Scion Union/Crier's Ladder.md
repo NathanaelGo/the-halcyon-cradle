@@ -7,7 +7,7 @@ Time doesn't seem to move in them.
 
 Is a [[Networks|Network]]. Sequence of teleportation's through the [[The Planes|Nihil]] Dimension. 
 Mages have attempted to reach the very bottom. 
-Reaching the center caused [[Gnossisia]] to die.
+Reaching the center caused [[Gnosisia]] to die.
 
 The Lizard folks were turned into bombs by [[June]]'s people and supposedly brought here. What do they want to blow up?
 

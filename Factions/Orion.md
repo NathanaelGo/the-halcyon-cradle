@@ -4,6 +4,8 @@ tags:
   - factions/scion-union
 ---
 ### Notable Characters
+- [[The Doctor]]
+- [[Saw]]
 - [[Twitch]]
 - [[Rook]]
 - [[Audri Jessica Mirrorsmith]]

@@ -4,7 +4,7 @@ tags:
   - npcs/factions/concord
   - npcs/places/sadura
 ---
-*Image here*
+![[img_Aaron_Espana.png]]
 
 ### Designations
 King of [[Sadura]]

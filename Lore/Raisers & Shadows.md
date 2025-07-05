@@ -9,9 +9,9 @@ Seven Raisers
 Related to [[Aurora]]
 - [[June]]
 - [[Catrix]]
-- Mariid
+- [[Mariid]]
 - Katos
-- Ranntag
+- [[Ranntag]]
 - Gil
 - Viktala
 

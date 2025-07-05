@@ -5,7 +5,7 @@ tags:
 ![[img_mariid.png]]
 
 ### Designations
-
+[[Raisers & Shadows|Raiser]]
 
 ### Current Location
 

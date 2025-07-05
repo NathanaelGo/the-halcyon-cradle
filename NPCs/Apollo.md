@@ -7,7 +7,7 @@ aliases:
 ![[img_apollo.png]]
 
 ### Designations
-[[Raven's Order|Raven's Order]]
+[[Order of the Raven|Raven's Order]]
 The Final [[The Raven|Raven]]
 
 ### Current Location

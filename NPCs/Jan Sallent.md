@@ -4,8 +4,7 @@ tags:
   - npcs/factions/concord
   - npcs/places/sadura
 ---
-*Image here*
-
+![[img_Jan_Sallent.png]]
 ### Designations
 Corazon Archbishop of [[Sadura]]
 

@@ -16,7 +16,7 @@ ___
 Has [[Authority]] with unknown
 Put bounties on [[Equinox (The Party)|The Party]] through [[Ill Tacit]]
 Immune to Poison Physic Necrotic Fire damage 
-Ordered to get rid of [[Ravane Soga'tae|Ravane]] and the [[Raven's Order]]
+Ordered to get rid of [[Ravane Soga'tae|Ravane]] and the [[Order of the Raven]]
 Part of the [[Stiletto Court]] of [[Codexica Dominion]]
 [[White]] knows where/when she dies
 Unknown where her biological parents are

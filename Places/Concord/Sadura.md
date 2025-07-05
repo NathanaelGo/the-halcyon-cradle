@@ -7,7 +7,8 @@ tags:
 *Image here*
 
 ### Notable Characters
-
+[[Jan Sallent]] - Priest
+[[Aaron Espana]] - King
 
 ### Notable Places
 

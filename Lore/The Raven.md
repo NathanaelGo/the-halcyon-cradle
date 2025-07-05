@@ -16,7 +16,7 @@ ___
 Can only be born on [[Ilios|Halcyon]]
 Rare to have Friends
 Not every Raven can pass everything down
-[[Corvyn Cain]] is a broken chain and knows little and cant pass much on
+[[Corvyn Cain]] is a broken chain and knows little and cant pass much on (his master [[Clio]] died early)
 No Raven has succeeded
 
 Some of [[THE Deus]] don't like the Raven but acknowledge it keeps the world moving

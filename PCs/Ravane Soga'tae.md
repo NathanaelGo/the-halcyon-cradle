@@ -8,7 +8,7 @@ aliases:
 - Has been turned into a Hecatian, then into a Mimithra
 - Was deemed dead by his family
 - Ran away after assassinating someone who threatened his old home
-- Learned under [[Corvyn Cain]] the [[Raven's Order]]
+- Learned under [[Corvyn Cain]] the [[Order of the Raven]]
 - Inheriting power from [[The Raven]]
 
 Sometimes thinks that peace isn't always the best option

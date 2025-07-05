@@ -7,6 +7,8 @@ tags:
 *Image here*
 
 ### Notable Characters
+[[The Twins]]
+[[Stumpington]]
 
 
 ### Notable Places

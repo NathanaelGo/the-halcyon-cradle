@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-*Image here*
+![[img_Alexander_Franklin_Roberts.png]]
 
 ### Designations
 Head Speaker of the Senate

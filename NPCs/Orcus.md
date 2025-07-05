@@ -13,3 +13,4 @@ tags:
 ___
 ### Summary
 Places super chess against the doctor 
+Subordinate to [[Baal]]
