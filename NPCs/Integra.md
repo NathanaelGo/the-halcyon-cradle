@@ -3,6 +3,8 @@ tags:
   - npcs
   - npcs/factions/equinox
   - npcs/factions/aurora
+aliases:
+  - Integra Grimora
 ---
 ![[img_integra.png]]
 ### Designations

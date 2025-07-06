@@ -15,7 +15,7 @@ Follower of [[Deus Zignus]]
 Has a presence in most major cities in this world. Will seek out [[Equinox (The Party)|The Party]] when needed.
 ___
 ### Summary
-Previous [[Warden]] that has 'died'. But she still shows up in several places.
+Previous [[Ward of Paragon]] that has 'died'. But she still shows up in several places.
 
 A clockwork-looking woman. She accompanied [[Equinox (The Party)|The Party]] during the [[Warden Trials]], giving limited hints and explanations. She also appeared in [[Erymnos]] after [[Morai]] showed [[Qal Evans]] her [[Light of Chaos]].
 

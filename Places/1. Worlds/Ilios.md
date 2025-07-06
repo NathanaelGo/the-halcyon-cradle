@@ -24,6 +24,7 @@ The world as we know today.
 Halcyon is the worlds true name.
 
 Current Date: 8327 AL
+The Gnosisian’s golden age was marked by the beginning of the Aeon of Light.
 
 Birthing [[Seraphim]] is the purpose of the world 
 [[Hekate's Hymns]] have affected Ilios for about 100,000 years.

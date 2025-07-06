@@ -32,3 +32,5 @@ Wants to wage war on the gods after he comes back
 Discovered the [[Core]]
 
 Some connection with [[Deus Aurelia]]???
+
+Could bestow immortality and the power to lift mountains but could not gift luck

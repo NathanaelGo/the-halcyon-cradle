@@ -4,7 +4,7 @@ tags:
   - npcs/places/zweiza
   - npcs/factions/mercurial-consortium
 ---
-*Image here*
+![[img_Bianca_Sterling.png]]
 
 ### Designations
 Head of the [[Mercurial Consortium]] Zweiza branch

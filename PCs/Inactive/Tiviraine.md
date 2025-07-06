@@ -6,3 +6,6 @@ tags:
 - Has a cursed  arm that doubles as a weapon
 - Was trying to find his lost siblings
 - Left to train with people from Aurelia's Faith
+
+Saved by [[Lucina]] of the faith?
+Has Demon Blood

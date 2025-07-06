@@ -7,6 +7,7 @@ tags:
 ### Designations
 Princess of [[Umbraen Empire]]
 Related to [[Malachi Grimora]]
+[[Ward of Paragon|Ward]]
 
 ### Current Location
 
