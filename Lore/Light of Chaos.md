@@ -68,4 +68,6 @@ Words of places long ago
 
 Sometimes when the [[Light of Chaos]] are written about that information disappears from the books - According to [[The Zignus Institute|The Institute]]
 
-
+Might be friends of [[Seven Sins|Ten Sins]]
+Probably an enemy to [[Astera]]
+Trying to take down this worlds gods and world

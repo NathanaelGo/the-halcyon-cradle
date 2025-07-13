@@ -24,7 +24,3 @@ Is being disbanded. [[Knights of the Round Table]] is gonna push for its dissolv
 
 Being dissolved now [[The Doctor]] is gone 
 
-
-
-
- 

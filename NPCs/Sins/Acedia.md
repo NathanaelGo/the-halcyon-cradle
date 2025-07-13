@@ -15,3 +15,4 @@ of the [[Seven Sins|Ten Sins]]
 ___
 ### Summary
 Fragmented 
+Cant be contacted via sending

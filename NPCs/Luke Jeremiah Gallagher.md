@@ -6,7 +6,7 @@ tags:
 
 ### Designations
 [[Knights of the Round Table]]
-
+[[Scion Union]]
 ### Current Location
 
 

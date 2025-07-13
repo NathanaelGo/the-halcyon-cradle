@@ -17,5 +17,5 @@ ___
 ### Summary
 She helped the party in [[Zweiza]]
 She posed as a bounty hunter chasing the [[Covetous Corsairs]]. 
-Highest ranking member of the Orion cell composed by [[Twitch]], [[Snipe]] and [[Audri Jessica Mirrorsmith]]
+Highest ranking member of the [[Orion]] cell composed by [[Twitch]], [[Snipe]] and [[Audri Jessica Mirrorsmith]]
 

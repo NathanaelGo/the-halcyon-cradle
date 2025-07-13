@@ -16,3 +16,4 @@ ___
 They want to kill the others sins
 Wants to get rid of treachery
 Not trying to eat [[Morai]] any more
+Born from a [[Seraphim]]

@@ -27,3 +27,5 @@ Sleeper Agent Activation Code: She doesn't like pirates - I always missed the ex
 Grew up in a destroyed city, captured as a kid. Life wasn't so happy after that. Couldn't get back home and chilled in the [[Pillars of Exile]]. Folks she was with ended up dying. Under 30 years old.
 Paying debts to people.
 Wants to build a bridge to the [[Ragnarok]] in [[Pillars of Exile]] (was worshiped) tons of phenatical people pray for ragnaroks grace. 
+
+[[Mylàrin Ulamoor]] got rid of her [[Adazgul]]

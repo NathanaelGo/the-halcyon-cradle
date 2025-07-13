@@ -42,3 +42,6 @@ Walker - walks into places you dont belong
 2 ways to get power in the world
 - One gets you Smited by the gods
 - The other gets them angry but can't do anything to you
+
+
+Jenson - is his pseudodragon answering machine 
