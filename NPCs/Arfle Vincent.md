@@ -1,6 +1,8 @@
 ---
 tags:
   - npcs
+aliases:
+  - Hat Rat
 ---
 ![[img_Arfle_Vincent.png]]
 ### Designations
