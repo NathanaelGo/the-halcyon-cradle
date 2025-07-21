@@ -9,6 +9,7 @@ tags:
 - [[Ezekiel]]
 - [[Zytus]]
 - [[Zynette]]
+- [[Raxxixa]] - Killed in Codex by the party
 
 ### Notable Places
 

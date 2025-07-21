@@ -13,3 +13,6 @@ tags:
 ___
 ### Summary
 Found in the [[Stiletto Court Prison]]
+
+
+Friends with [[Irus Bane]]

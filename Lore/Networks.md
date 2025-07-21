@@ -14,3 +14,5 @@ All originate from a single plane bent like so: (Hypotheses is that they are cir
 ![[img_harpocrates_arc_drawing.png]]
 
 Some people are cursed with the perception of the noise that comes from the heavens. Rare ability 
+
+Network enemy of the chosen one
