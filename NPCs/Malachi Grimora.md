@@ -18,6 +18,6 @@ ___
 ### Summary
 He thinks he's the reincarnation of [[Vega Nox]]
 Can control those related to him by blood
-
+Compromised according to [[Vaery]]
 
 

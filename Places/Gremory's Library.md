@@ -27,3 +27,7 @@ One can check if they are ready for the next level if they read the last book be
 Reaching the 7th level will illuminate much.
 Reaching the 10th level will reveal all. 
 
+
+Safe ground from the gods
+Most of the gods dont know how to get here
+

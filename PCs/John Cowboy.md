@@ -6,6 +6,7 @@ aliases:
   - John
   - Johnny Freeya
   - Pawn
+  - Vanwacenda Elfman
 ---
 ![[img_john_cowboy.jpg]]
 ### Designations

@@ -30,3 +30,5 @@ Had a teacher that tried teaching her about [[Space]]
 [[Shinale]] saved her life 
 "debt to be paid to illios"? Session 73
 Memory debt?
+
+Can mind break people with weak wills and turn wimps into child killing machines
