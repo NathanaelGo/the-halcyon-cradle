@@ -21,4 +21,7 @@ Looks nicer than in her picture, [[Mylàrin Ulamoor|Mylàrin]] gifted her a nice
 Her father has the ability to control/command people, especially strong with in the family
 Trained in Nihil where she learned to fight
 
+Nihil - old school - tents and huts - shamonistic
+
+
 

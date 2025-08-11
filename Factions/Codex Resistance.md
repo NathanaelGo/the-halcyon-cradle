@@ -3,9 +3,10 @@ tags:
   - factions
 ---
 ### Notable Characters
-[[Vaery]]
-[[Jane]]
+[[Vaery]] - Insider of the [[Stiletto Court]]
+[[Jane]] - Of The One Cow
 [[Agis Naix]] - Possibly
+[[Ilimitar Valen]] - Runs the records of the Belial’s Directory
 
 ### Notable Places
 [[Codex]]

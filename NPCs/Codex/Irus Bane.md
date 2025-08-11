@@ -11,9 +11,11 @@ tags:
 
 ___
 ### Summary
+Does not have [[Authority]]
 Blind
 Found in the [[Stiletto Court Prison]]
 Spoke up against gods - curious if theyd smite her down
 Hails from Pillars/Nefases expanse/N Belt been everywhere 
 
 Friends with [[Gottfried]]
+Knows of [[Gremory's Library]]
