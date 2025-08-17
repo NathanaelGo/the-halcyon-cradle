@@ -5,7 +5,7 @@ tags:
 aliases:
   - De Raauuss
 ---
-![[Pasted image 20250810190702.png]]
+![[img_De_Raauuss.png]]
 
 ### Designations
 **Divine Imperatrix of Punishment**

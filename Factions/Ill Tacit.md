@@ -1,6 +1,7 @@
 ---
 aliases:
   - League of the Unspoken
+  - The League
 tags:
   - factions
 ---
@@ -14,6 +15,7 @@ tags:
 - [[Wandering Cowboy|Lanar Ando]]
 - [[Ms. Sevenths]]
 - [[Swindlely]]
+- [[Ruby Skinner]]
 ### Notable Places
 
 

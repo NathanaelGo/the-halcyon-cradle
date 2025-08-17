@@ -5,6 +5,8 @@ aliases:
   - the fish whisperer of the citadel of light
   - Morai Zephyrus
 ---
+![[img_Morai.png]]
+
 - From [[Aurelia's Faith]]
 - Has been frozen for a thousand years to stop a deadly curse
 - Has star-entities living in her head
