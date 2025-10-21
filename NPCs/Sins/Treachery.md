@@ -19,3 +19,5 @@ Leader of the [[Grimarchs]]
 Doesn't walk the world (only visits)
 Knowledge on him is on the 10th level of [[Gremory's Library]]
 Wants to rule the ashes post [[Cataclysm]]
+
+Invading the organization that birth [[Seraphim]] - [[Aelzorin]] (not our friends - handled by the citdel of light)

@@ -8,3 +8,6 @@ In gold’s case, gold is finite and will always surface. Whether it takes decad
 The [[Warden Dungeon]] [[Equinox (The Party)|The Party]] got a lot of gold there. It might be a respawn point.
 
 [[Iidepus|The Scorned Prince]] has some connection?
+
+
+[[John Cowboy|John]]'s gold requires to have a gold on person to stay attuned to it

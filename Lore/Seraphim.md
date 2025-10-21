@@ -13,3 +13,6 @@ If the gods don't stop their birth they get scolded pretty damn hard (DEATH) by 
 
 Gods jobs are to facilitate the birth of Seraphim
 
+Newer worlds birth seraphim faster
+
+Couple thousand can fight a hoard (quintillions) of [[Avernis]]

@@ -43,3 +43,5 @@ Grey dislikes numerous gods but heavily dislikes these 4:
 (if these gods were to fall many other will follow and the world will be a reset)
 
 Afraid of freedom - would rather create a road for us to walk rather than walk it her self - Green
+
+Wanted by the [[Architects]]

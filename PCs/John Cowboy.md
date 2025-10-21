@@ -31,3 +31,5 @@ Called a [[John Cowboy|Pawn]] by the following:
 - [[The Doctor]]
 
 [[Deus Gremory|Grey]] said he should be the first one to walk through the [[Ragnarok]] 
+
+Mindflayer saw his gun and said [[Architects|Architect]]
