@@ -25,3 +25,7 @@ Wants:
 [[June]] tried to recruit her to become her [[Raisers & Shadows|Shadow]]
 
 Can access level 6 or more for [[Gremory's Library]]
+
+
+Secure but compromised - Felixion
+Made a blood pact long ago with something still alive (someone close they consider family)

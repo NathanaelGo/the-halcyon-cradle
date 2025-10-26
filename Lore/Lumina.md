@@ -4,3 +4,6 @@
 
 Lumina Inheritance - Persons Solypsius being passed on to someone
 
+World recalls the will of Lumina  
+
+Lasting Will

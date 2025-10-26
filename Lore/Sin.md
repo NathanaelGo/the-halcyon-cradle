@@ -18,6 +18,9 @@ Non optimal - decisions made with the heart
 
 Crimes against the gods
 
+aptitude one possesses to deviate from the gods of the world
+more power == more sway == more ability to change things == more sin
+
 ## Library Info
 - **(SIN 3)** Sin is a measure of influence over divergence; individuals, objects, and actions that fracture timelines away from a pre-defined base line.
 - **(SIN 4)** [[Deus Gremory]] established a planet wide non-automatic detection system that can be tapped into by local Solipsys to inspect relative Solipsys reverberations in real time measured against standard variables spread across Ilios; sufficient divination and or computational ability, alongside longer analysis and more data points, allows for greater prediction of certainty and severity.

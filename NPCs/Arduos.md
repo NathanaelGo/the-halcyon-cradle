@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-*Image here*
+![[img_Arduos.png]]
 
 ### Designations
 [[Demon]]

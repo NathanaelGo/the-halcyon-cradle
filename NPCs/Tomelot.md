@@ -26,3 +26,6 @@ His original survival hinged on the fact he wore the cursed armor and would neve
 Now with the cursed armor removed he's become a new person. He temporarily forgot his past.
 
 400+ years old
+
+
+[[Aurora]] used [[Tomelot]] as a scape goat

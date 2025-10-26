@@ -16,3 +16,7 @@ Gods jobs are to facilitate the birth of Seraphim
 Newer worlds birth seraphim faster
 
 Couple thousand can fight a hoard (quintillions) of [[Avernis]]
+
+When born absorbs lumina from the world inherits a curse: (lasting 50k-5k?? years)
+- [[Hekate's Hymns]] 
+- Night and Day

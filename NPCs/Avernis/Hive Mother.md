@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-![[Pasted image 20251019195018.png]]
+![[img_hive_mother.png]]
 
 ### Designations
 [[Architects]]

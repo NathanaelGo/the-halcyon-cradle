@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Sentries
 tags:
   - lore
   - gods
@@ -16,3 +17,35 @@ The [[Core]] is a place where a lot of gods are hiding.
 - Gods want out of the network
 - Gods are running from something ([[Architects]])
 - The core is one of the safest places for these gods
+
+
+20 are so irregulars (disconnected from the network)
+5 regulars (in the network)
+One regular is helping
+
+
+God List provided by [[Deus Felixion|Felixion the Walker]]
+Friends
+[[Deus Green Guy|Green Guy]]
+[[Deus Gremory|Grey]]
+[[Paimonia]]
+[[Vreal]]
+[[Barbatos]]
+[[unknown god]]
+
+Neutral
+[[Malifar]]
+[[Morax]]
+
+Enemy
+[[Baal]]
+[[Sitri]]
+[[Vassago]]
+[[Zepar]]
+
+SUPER ENEMY (Anne Sentry) - will blow up the planet and tell their architects the colony failed (deep underground and )
+[[Andromalius]]
+[[Belial]]
+[[Gamigin]]
+[[Valac]]
+[[unknown god]]

@@ -20,3 +20,5 @@ Was able to break out of their Tartarus rings. Gave [[Avernis]] the idea to inci
 Was able to fight the gods, but when the architects were alerted, their world was destroyed. (Now ash Lava char)
 
 Conquered their ring
+
+Bridge the worlds together - their will of Lumina carried on

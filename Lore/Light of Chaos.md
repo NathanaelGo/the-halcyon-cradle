@@ -71,3 +71,5 @@ Sometimes when the [[Light of Chaos]] are written about that information disappe
 Might be friends of [[Seven Sins|Ten Sins]]
 Probably an enemy to [[Astera]]
 Trying to take down this worlds gods and world
+
+Turned a Seraphim's curse into a weapon

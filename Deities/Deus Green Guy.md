@@ -43,3 +43,5 @@ Working towards our [[Freedom]]
 Destabilized governments and societies in the past
 
 Wanted by the [[Architects]]
+
+God of trickery bc he really wants to trick other gods

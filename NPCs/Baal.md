@@ -19,3 +19,4 @@ Doesn't want people to go to space.
 
 Baal is inimical to your interests - source [[Chronus]]
 
+Probably wants to keep the world in statis/keep going the way they are

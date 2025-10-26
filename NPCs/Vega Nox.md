@@ -34,3 +34,8 @@ Discovered the [[Core]]
 Some connection with [[Deus Aurelia]]???
 
 Could bestow immortality and the power to lift mountains but could not gift luck
+
+More powerful than [[Deus Felixion|Felixion the Walker]]
+What ever he does will likely work - might be best to get rid of now OR use his plans as a distraction - (Felixion and God Crew)
+
+Is probably gonna do a rebellion 

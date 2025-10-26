@@ -16,6 +16,7 @@ tags:
 - [[Ms. Sevenths]]
 - [[Swindlely]]
 - [[Ruby Skinner]]
+- [[Nameless Human]] of [[Adjective Noun]]
 ### Notable Places
 
 

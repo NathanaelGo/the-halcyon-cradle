@@ -31,3 +31,6 @@ Reaching the 10th level will reveal all.
 Safe ground from the gods
 Most of the gods dont know how to get here
 
+10th level is the only place truely safe from the gods
+
+Grey can't promote peoples sin level as the library she created operates separate from her
