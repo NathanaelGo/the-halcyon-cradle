@@ -1,3 +1,4 @@
+One was refered to as [[Vega Nox |Vega]]'s hole - brought doom
 
 Deep under ground
 slave camps

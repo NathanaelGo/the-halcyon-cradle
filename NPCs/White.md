@@ -27,6 +27,10 @@ Was defeated by the party with help from the [[Deus Green Guy|Green Guy]]
 
 After he died, [[The Zignus Institute|The Institute]] mentioned that [[The Stars|Star]] died.
 Resurrected by [[Morai]]. This new body only has 2-3 years. Wants to see what becomes of this party. Seeks the [[Malachi Grimora|The Invictus King]]. 
+
+
+  Will of Lights Ire
+>Imagine so, light's only woe, a dark so dark it beckons radiant's tow. Light mourns not neither its disdain nor eviction, but mark certain its ire, an unbreakable conviction. It loathes any depth it cannot reach. A curse to its eternity, a prison it cannot breach.
 # Mechanics
 Immune to exhaustion
 Has a funny right hand that can disintegrate wall of forces and towns alike
