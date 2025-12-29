@@ -19,3 +19,5 @@ Remnants of the [[Noctis Empire]], still loyal to the deceased emperor
 
 Possibly allied with the [[Grimarchs]]
 Tasked with ensuring the [[Ward of Paragon]] slots are filled
+
+product of [[Vega Nox]]'s number on concubine

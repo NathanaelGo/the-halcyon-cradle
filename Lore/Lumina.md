@@ -9,6 +9,9 @@ World recalls the will of Lumina
 
 Lasting Will
 
+The sun spits out Lumina at the highest rate - Sun is also being fully harvested
+
+Everything is light - we can reorganize lumina into anything we want provided we have enough energy
 
 Will of Light's Ire
 >Your body has become a prison of the endless depths, and you its jailor. From head to toe, scale to sheath, white encompasses your being. The darkest of blacks transform into mere hollowed shades of divisible grey and even magic items soften, or outright douse all color from their spectra. When you bleed it is black; an open mouth, the abyss. Light itself curses you. The coat you now forever wear is but an emptiness, that of which born of darkness, given fulfilled form by the universe abound. You are white, for beneath is a blackness of the void which ravenously coalesces all manner of luminosity.

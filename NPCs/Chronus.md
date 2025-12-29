@@ -53,9 +53,12 @@ Walks time
 Being of hatred - walked the path of revenge that spans eons
 Wants to: 
 - kill something
-- save something
+- save something (various hostage worlds - escaped into other rings)
 - see something done
 
 Trying to fight a fate so grand & beyond them
 
 Saw something that would XYZ and Nihilism
+
+[[Promethea]]n number one objective is to free themselves from the network 
+Creation of the Promethean - scattered through time

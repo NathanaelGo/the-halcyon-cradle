@@ -20,3 +20,13 @@ Couple thousand can fight a hoard (quintillions) of [[Avernis]]
 When born absorbs lumina from the world inherits a curse: (lasting 50k-5k?? years)
 - [[Hekate's Hymns]] 
 - Night and Day
+- Another one which seams to be erased - [[Paimonia]]
+
+Next Seraphim birth - a few months to 2 years
+
+Culmination of all life forms who died which are imprinted into a hallowed out case of Nihil
+Given an existence into fighting their creators - [[Architects]] trick them into fighting [[Avernis]]
+
+[[Core]] is the machine that will birth the Seraphim
+
+Explosions comes from underneath the [[Citadel of light]] - birthing place of the Seraphim

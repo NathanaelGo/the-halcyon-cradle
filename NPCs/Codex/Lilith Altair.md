@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-*Image here*
+![[img_Lilith_Altair.png]]
 
 ### Designations
 Was the head of the [[Altair House]] - 2nd most important family of all of Codex

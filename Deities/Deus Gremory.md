@@ -45,3 +45,5 @@ Grey dislikes numerous gods but heavily dislikes these 4:
 Afraid of freedom - would rather create a road for us to walk rather than walk it her self - Green
 
 Wanted by the [[Architects]]
+
+only god we can trust - Chronus

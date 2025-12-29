@@ -22,3 +22,5 @@ Was able to fight the gods, but when the architects were alerted, their world wa
 Conquered their ring
 
 Bridge the worlds together - their will of Lumina carried on
+
+none survived

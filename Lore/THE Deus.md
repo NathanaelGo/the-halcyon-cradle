@@ -5,6 +5,8 @@ tags:
   - lore
   - gods
 ---
+1 god - 2 upon a time
+
 
 3 Kinds of gods: 
 - those who are allowed
@@ -23,6 +25,9 @@ The [[Core]] is a place where a lot of gods are hiding.
 5 regulars (in the network)
 One regular is helping
 
+With in the nexus there are 1000 Sentinel - ANN Sentinel - [[Aetheria Nexus Network]] Sentinel
+These sentinel controls sentries (which there are millions of) 
+
 
 God List provided by [[Deus Felixion|Felixion the Walker]]
 Friends
@@ -31,7 +36,7 @@ Friends
 [[Paimonia]]
 [[Vreal]]
 [[Barbatos]]
-[[unknown god]]
+[[Naberius]]
 
 Neutral
 [[Malifar]]
@@ -48,4 +53,4 @@ SUPER ENEMY (Anne Sentry) - will blow up the planet and tell their architects th
 [[Belial]]
 [[Gamigin]]
 [[Valac]]
-[[unknown god]]
+[[Naberius]] - walks the world

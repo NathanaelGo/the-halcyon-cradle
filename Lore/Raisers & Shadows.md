@@ -8,19 +8,19 @@ aliases:
 
 Seven Raisers
 Related to [[Aurora]]
-- [[June]]
+1. [[June]]
+2. [[Katos]]
 - [[Catrix]]
 - [[Mariid]]
-- Katos
 - [[Ranntag]]
 - Gil
 - Viktala
 
 Shadow (Heros of time - filled with people of history)
+1. TBD
+2. [[Trinity]]
 - [[Ambrosia]] (Ankathryn) Tomelots lover 
 - [[Corvyn Cain]]
 - Adiaphora
 - Veyranessi
 - Prasara
-- Trinity
-- TBD

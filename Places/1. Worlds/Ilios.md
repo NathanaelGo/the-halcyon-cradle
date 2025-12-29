@@ -29,6 +29,10 @@ The Gnosisian’s golden age was marked by the beginning of the Aeon of Light.
 Birthing [[Seraphim]] is the purpose of the world 
 [[Hekate's Hymns]] have affected Ilios for about 100,000 years.
 ~ 250 [[Cycles]] x 32,000 years per cycle ([[Cataclysm]]) == World is about 8,000,000 years old
+
+Lights under the crust that resemble the stars - Life giving orbs that sustain illios - Lights of light
+Illios is a machine
+
 ## Factions
 
 * [[Aurelia's Faith]]

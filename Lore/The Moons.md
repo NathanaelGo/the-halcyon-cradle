@@ -17,6 +17,7 @@ It is believed by many that when the Divine Imperators crafted Ilios they made S
 
 The idea of representing the moons as people is an idea taken from the [[Noctis Empire]]. Modern day they are not represented as people.
 
+Both are illusions - the real ones are elsewhere 
 ## Solace
 Light blue and speckled with craters 
 
