@@ -14,7 +14,7 @@ ___
 ### Summary
 Related to [[Morai|Morai Zephyrus]]
 As a Prodigy they graduated the magic academy early 
-[[Authority]] with [[Deus Gremory|Gremory]]
+[[Authority]] with [[Gremory|Gremory]]
 
 Wants:
 1. A blank diploma so she can have a copy with the highest honors 

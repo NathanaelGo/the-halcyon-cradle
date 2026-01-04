@@ -26,7 +26,7 @@ Will go with [[Equinox (The Party)|The Party]] to the spa after the first check 
 Possible Investor? to the [[The Zignus Institute]]
 Confirmed Real God
 
-Shares their deepest desire with [[Deus Gremory|Grey Dormeous]]
+Shares their deepest desire with [[Gremory|Grey Dormeous]]
 Not from this world
 
 

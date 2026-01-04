@@ -17,13 +17,13 @@ Leaders of [[Concord]]
 
 ___
 ### Summary
-Has the [[Authority]] of [[Deus Gremory]]
+Has the [[Authority]] of [[Gremory]]
 
 Rex Apexes that have been defending Zweiza from outside influences and keeping the Borderlands region independent.
 
 After the [[Codexica Dominion]] attacked the Borderlands, they repelled the invasion and founded [[Concord]]
 
 ### Notes
-[[Deus Gremory]] gave them head pats after they helped prevent [[Tomelot]]'s death during the [[Equinox Banquet]]
+[[Gremory]] gave them head pats after they helped prevent [[Tomelot]]'s death during the [[Equinox Banquet]]
 
 Being far away from the city causes them to lose their individuality. Possibly caused by their specific [[Authority]].

@@ -23,7 +23,7 @@ He killed [[Equinox (The Party)|The Party]] in Moros, and then time reversed.
 
 Wants to garner sin
 
-Was defeated by the party with help from the [[Deus Green Guy|Green Guy]]
+Was defeated by the party with help from the [[Green Guy|Green Guy]]
 
 After he died, [[The Zignus Institute|The Institute]] mentioned that [[The Stars|Star]] died.
 Resurrected by [[Morai]]. This new body only has 2-3 years. Wants to see what becomes of this party. Seeks the [[Malachi Grimora|The Invictus King]]. 

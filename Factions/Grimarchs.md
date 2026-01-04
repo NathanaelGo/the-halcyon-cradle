@@ -21,4 +21,4 @@ The bad guys. Bloody scary monsters.
 They also have characters named after the seven deadly sins
 
 Grimonarch - agreed to gods to destroy the nexus in exchange for escape from the galaxy
-Allied with [[Deus Gremory|Gremory]] and [[Deus Green Guy|Green Guy]]
+Allied with [[Gremory|Gremory]] and [[Green Guy|Green Guy]]

@@ -5,7 +5,7 @@ tags:
 ---
 ![[img_Saturn.png]]
 ### Designations
-Follower of [[Deus Aurelia]] and [[Deus Gremory]]
+Follower of [[Deus Aurelia]] and [[Gremory]]
 ### Current Location
 [[Moros]]
 

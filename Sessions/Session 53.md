@@ -5,7 +5,7 @@ previous: "[[Sessions/Session 52]]"
 following: "[[Sessions/Session 54]]"
 ---
 ### Synopsis
-After spending the night in [[Moros]], [[Equinox (The Party)|The Party]] looks for ways to incriminate [[Barry Jenkins]] for his acts and splits up. After finding proof of forgery and murder and alerting the guards, they wait for the situation to calm down at [[Gremory's Steps]]. [[Deus Gremory|Grey]] invites them to [[Gremory's Library]] and there they have a heated discussion on [[Sin]] and receiving [[Authority]].
+After spending the night in [[Moros]], [[Equinox (The Party)|The Party]] looks for ways to incriminate [[Barry Jenkins]] for his acts and splits up. After finding proof of forgery and murder and alerting the guards, they wait for the situation to calm down at [[Gremory's Steps]]. [[Gremory|Grey]] invites them to [[Gremory's Library]] and there they have a heated discussion on [[Sin]] and receiving [[Authority]].
 
 ### Details
 The session begins in [[Moros]], after a long rest at [[Glib Stop]]. This is the second day of the party being in the city.
@@ -40,7 +40,7 @@ The party reconvenes at the Dock of Airs (the northern one). After catching each
 With the guards and soldiers patrolling near Jenkins's house, the group decides to head to [[Gremory's Steps]]. Qal and Ashley return to Glib Stop in the meantime.
 
 #### Gremory's Library
-After entering the building, the party is soon approached by [[Deus Gremory|Grey]]. The woman asks Mylàrin if as a follower of Gremory he wants to access her personal library. The group then gets transported to [[Gremory's Library]], a massive library on multiple levels.
+After entering the building, the party is soon approached by [[Gremory|Grey]]. The woman asks Mylàrin if as a follower of Gremory he wants to access her personal library. The group then gets transported to [[Gremory's Library]], a massive library on multiple levels.
 
 They encounter [[Deus Felixion]] and [[Saturn]], who talk with John and Morai respectively. Felixion reveals himself as not an actual god but just a really powerful individual that got a cult of followers. Saturn is instead a powerful member of [[Aurelia's Faith]] and is one of the few who has been allowed to worship both Gremory and [[Deus Aurelia]]. 
 

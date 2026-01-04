@@ -44,7 +44,7 @@ After meeting with [[Flitty]] to try to cure [[Grian]] of his mind blank issue, 
 
 With the party disguised as elfs via a seeming spell, our next stop Belial’s Directory where we met with [[Ilimitar Valen]]. He's too useful to cut despite the knowledge he holds. He noticed the mind blank host preparation phenomenon of people in Codex a few years ago so this skinwalker issue runs deep and long. He checked for [[Grian]]s death record (found none) and [[Ravane Soga'tae|Ravane]] ended up finding [[Corvyn Cain]] here as well. Corvyn was looking for something and pulled down a book for [[Lilith Altair]], and after a bit of playful banter and Corvyn being reminded he still doesnt have his masters degree he vanished. 
 
-Mylairin continued pursing the catalog of obituaries and found his fathers entry [[Silvus Ulamoor]] but not his mothers. [[Deus Green Guy|Green Guy]] previously told him that both his parents were alive but do you really trust the god of trickery? This sent Mylarin into a bit of a depressive spiral and the party racked their brain on how to pull him out of it.  
+Mylairin continued pursing the catalog of obituaries and found his fathers entry [[Silvus Ulamoor]] but not his mothers. [[Green Guy|Green Guy]] previously told him that both his parents were alive but do you really trust the god of trickery? This sent Mylarin into a bit of a depressive spiral and the party racked their brain on how to pull him out of it.  
 
 Gani mentioned how it would be easy to break his will (as she's done it countless times to people in the military in the past) but that breaks people and she cares too much about us to do that.
 

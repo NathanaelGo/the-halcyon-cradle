@@ -11,9 +11,9 @@ The Mad Wizard
 
 ___
 ### Summary
-Received [[Deus Green Guy|Green Guy]]'s [[Authority]] along with the rest of his party.  His other option was [[Deus Gremory|Gremory]]'s Authority but wanted to discover the worlds secrets himself. 
+Received [[Green Guy|Green Guy]]'s [[Authority]] along with the rest of his party.  His other option was [[Gremory|Gremory]]'s Authority but wanted to discover the worlds secrets himself. 
 
-Had the authority of [[Deus Green Guy]] (according to green guy)
+Had the authority of [[Green Guy]] (according to green guy)
 
 Powerful wizard residing in [Concord]. Was originally part of {insert party name here} before learning too much about the world and being forced to don cursed armor turning him mad.
 

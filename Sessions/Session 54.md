@@ -12,7 +12,7 @@ following: "[[Sessions/Session 55]]"
 
 [[Mylàrin Ulamoor|Mylàrin]] finds that all people with [[Authority]] have been all dragged into conflicts, and those who live to the end of their lives are all [[Rex Apex|Rex Apexes]], strong enough not to be trifled with. He also finds that the [[Light of Chaos|Lights of Chaos]] are incredibly ancient (thousands of years).
 
-[[Equinox (The Party)|The Party]] goes for lunch with [[Deus Gremory|Grey]]. [[John Cowboy|John]] and [[Morai]] ask a few questions, about dragons, about the gods, and about [[Authority]]. About half of the gods are indifferent to agency, while only her and [[Deus Astaroth]] are on the side of protecting agency.
+[[Equinox (The Party)|The Party]] goes for lunch with [[Gremory|Grey]]. [[John Cowboy|John]] and [[Morai]] ask a few questions, about dragons, about the gods, and about [[Authority]]. About half of the gods are indifferent to agency, while only her and [[Green Guy|Astaroth]] are on the side of protecting agency.
 
 Meeting with Vaaliz, they get tasked to find a crazy witch that killed multiple people. They will find her in the marshes, helped by Khafra.
 

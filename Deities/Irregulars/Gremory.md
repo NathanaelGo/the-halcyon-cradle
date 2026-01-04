@@ -7,6 +7,7 @@ aliases:
   - Grey Dormeous
   - Grey
   - Gremory
+  - Deus Gremory
 ---
 ![[img_Grey_Dormeus.png]]
 ![[img_grey_god.png]]

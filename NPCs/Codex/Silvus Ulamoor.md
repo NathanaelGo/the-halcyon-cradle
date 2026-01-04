@@ -12,4 +12,4 @@ Ulamoor Estates
 
 ___
 ### Summary
-[[Deus Green Guy|Green Guy]] said he was alive but his obituary was in Belial’s Directory
+[[Green Guy|Green Guy]] said he was alive but his obituary was in Belial’s Directory

@@ -5,7 +5,7 @@ tags:
 ![[img_Cherry_Sherry.png]]
 
 ### Designations
-Follower of [[Deus Gremory]]
+Follower of [[Gremory]]
 
 ### Current Location
 Gremory's Archives in [[Codex]]

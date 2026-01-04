@@ -31,8 +31,8 @@ These sentinel controls sentries (which there are millions of)
 
 God List provided by [[Deus Felixion|Felixion the Walker]]
 Friends
-[[Deus Green Guy|Green Guy]]
-[[Deus Gremory|Grey]]
+[[Green Guy|Green Guy]]
+[[Gremory|Grey]]
 [[Paimonia]]
 [[Vreal]]
 [[Barbatos]]

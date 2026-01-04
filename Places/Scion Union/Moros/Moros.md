@@ -32,4 +32,4 @@ Using the authority of Union Senator [[Ashley Anne Helsing]], they started inves
 
 [[John Cowboy|John]] talked with [[Portman Teeterson]] (Jenkins's political opponent in the oncoming mayor election) and his friend [[Terissa Monick]]. They are actually [[Orion]] members and plan to hand the city to a Knight of the Union after winning.
 
-In the city, [[Deus Gremory|Grey Dormeous]] offered Mylàrin access to her personal [[Gremory's Library|library]]. She also offered the party [[Authority]] to go deeper into the library and avoid being terminated for accumulating too much [[Sin]] 
+In the city, [[Gremory|Grey Dormeous]] offered Mylàrin access to her personal [[Gremory's Library|library]]. She also offered the party [[Authority]] to go deeper into the library and avoid being terminated for accumulating too much [[Sin]] 

@@ -26,6 +26,6 @@ Was burned when someone was tortured to death and let loose info.
 Followers given a radio [[Networks]] and the followers collect the data and try to interpret it
 #### God Relations
 [[Paimonia]] offered them sympathy
-[[Deus Gremory|Grey Dormeous]] aided them
-[[Deus Green Guy|Astaroth]] visited them and told them to keep the name [[Pandora's Box]] a secret
+[[Gremory|Grey Dormeous]] aided them
+[[Green Guy|Astaroth]] visited them and told them to keep the name [[Pandora's Box]] a secret
 There are no gods on their side - just ones that find amusement in what they do

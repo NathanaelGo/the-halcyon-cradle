@@ -33,6 +33,8 @@ Birthing [[Seraphim]] is the purpose of the world
 Lights under the crust that resemble the stars - Life giving orbs that sustain illios - Lights of light
 Illios is a machine
 
+Illios's Name comes from [[Vega Nox]]
+
 ## Factions
 
 * [[Aurelia's Faith]]

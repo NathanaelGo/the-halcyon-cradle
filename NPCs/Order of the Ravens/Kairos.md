@@ -13,9 +13,9 @@ tags:
 
 ___
 ### Summary
-Arrived when the Ravens need help as guided by [[Deus Green Guy|Green Guy]]
+Arrived when the Ravens need help as guided by [[Green Guy|Green Guy]]
 
-Mind has been awoken after given the gift of freedom by [[Deus Green Guy|Green Guy]]
+Mind has been awoken after given the gift of freedom by [[Green Guy|Green Guy]]
 Math to teach people to speak
 Program makes it so they can't speak
 

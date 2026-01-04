@@ -9,7 +9,7 @@ After defeating [[White]], the party tries to take a break but not before gettin
 
 They then shared [the memories](https://docs.google.com/document/d/1D4WY_8_G1YOUBw-kyuS3Yzv67fYQ8VkylCl05uekOCI/edit?usp=sharing) they acquired from each other over breakfast, went shopping for a bit and then stopped for a bath at the [[Bothered Miss]] bathhouse.
 
-There, after some brief chat, the [[Deus Green Guy|Green Guy]] showed up and there were many talks about worldly and godly matters.
+There, after some brief chat, the [[Green Guy|Green Guy]] showed up and there were many talks about worldly and godly matters.
 
 ### Details
 

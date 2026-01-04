@@ -21,4 +21,4 @@ Stealthy
 8000+ years old
 Necessary in the Wards
 
-Was able to hide from [[Deus Green Guy|Green Guy]] a god's gaze for a bit
+Was able to hide from [[Green Guy|Green Guy]] a god's gaze for a bit

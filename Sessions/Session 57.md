@@ -9,7 +9,7 @@ following: "[[Sessions/Session 58]]"
 
 ### Details
 Hekamonia the 2nd (3rd loop)
-Talked to [[Deus Green Guy]], got reset
+Talked to [[Green Guy]], got reset
 
 
 Hekamonia the 2nd (4th loop)

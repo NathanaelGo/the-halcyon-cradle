@@ -7,7 +7,7 @@ tags:
 *Image here*
 
 ### Notable Characters
-[[Deus Gremory]]
+[[Gremory]]
 [[Saturn]]
 [[Deus Felixion]]
 

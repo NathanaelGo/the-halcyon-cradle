@@ -5,8 +5,8 @@ tags:
 
 
 ### Notable Characters
-[[Deus Gremory|Grey]]
-[[Deus Green Guy|Green Guy]]
+[[Gremory|Grey]]
+[[Green Guy|Green Guy]]
 [[Deus Felixion|Felixion the Walker]]
 A few other gods allied with us
 

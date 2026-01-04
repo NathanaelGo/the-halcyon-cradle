@@ -25,10 +25,10 @@ Can be in several places at once. [[Deus Felixion|Felixion the Bored]] insinuate
 
 Carries a [[Psuedo Dragon]] - Followers of Felixion can keep them as a familiar
 
-Has Authority with [[Deus Gremory|Grey Dormeous]]
+Has Authority with [[Gremory|Grey Dormeous]]
 
 Walker - walks into places you dont belong
-"Felixion is what I would consider a mortal who has reached their end there is no way for them to get any more powerful without waving a flag of [[Rebellion]]" - [[Deus Gremory|Grey]]
+"Felixion is what I would consider a mortal who has reached their end there is no way for them to get any more powerful without waving a flag of [[Rebellion]]" - [[Gremory|Grey]]
 
 
 ### The Bored
