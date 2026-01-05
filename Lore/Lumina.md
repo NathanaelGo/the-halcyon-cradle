@@ -20,3 +20,13 @@ Will of Light's Ire
 
 White Insight:
 > You gain the ability to gleam more from those naturally blessed with light's hoard. The shell of all that is nothing bestows thanks for its treasury. A depthless nothing has been freed and sight into the peerless cosmos becomes a realm of your own machination.
+
+
+
+Inert and Active
+- Inert can make stuff
+
+
+Inward
+Outward
+External 

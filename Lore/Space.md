@@ -8,5 +8,4 @@ Looking into the void of space feels similar as looking at [[Silencia]]'s face l
 There's a satellite in space
 ![[img_space.png]]
 It gives the same vibe as [[Morai]]s old sword. Point of Destruction. (which point)
-
-
+[[Paimonia]] wants to go to the satellite

@@ -14,6 +14,9 @@ aliases:
 
 ___
 ### Summary
+
+Destroyed by [[Treachery]]
+
 Destroyed and no longer apart of this world. 
 
 The destroyed sin might be Nihilism

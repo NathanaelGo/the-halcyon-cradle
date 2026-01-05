@@ -11,4 +11,9 @@ TL;DR magic mushrooms that go suuuper far down
 - Made a promise (500+ years ago) to an ancient republic prince known as [[Iidepus|The Scorned One]] in the Incandescence wilds/[[Concord|Borderlands]]. Imbued that part of the world with magic to protect the [[Ward of Paragon]]
 - Dominion is interested
 - Found commonly in the Incandescent Wilds
+- Covers most of continental illios
+- One of the most powerful beings on the planet
+- Embeded in the crust and steals energy from the world
+- Has a will of its own and helps people
+- [[Iidepus|The Scorned Prince]] had the core root hide something 
 

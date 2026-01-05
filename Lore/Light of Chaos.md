@@ -13,7 +13,7 @@ Causes things to be certain.
 
 They made the [[Angels of Certainty]]
 Older than everyone can recall
-Birthed from a [[Seraphim]] and forged from an ancient race
+Birthed from a [[Promethea]]n [[Seraphim]] and forged from an ancient race
 Used to kill the gods
 Can choose their owners
 Morais sword is called [[Abbadon, the Point of Destruction]]. Point of Destruction. 
@@ -73,3 +73,5 @@ Probably an enemy to [[Astera]]
 Trying to take down this worlds gods and world
 
 Turned a Seraphim's curse into a weapon
+
+Eat Lumina/Destroy it/cancels it out

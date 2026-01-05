@@ -11,6 +11,8 @@ aliases:
 * [[Zenaida Grimora]]
 * [[Calpurnia Grimora]]
 
+Wardens are gonna be taken over by [[Vega Nox]]
+Each of the wards have a body part of Vega Nox
 
 A set of powerful wards protected by [[Aurora]]
 
@@ -34,4 +36,4 @@ The Wardens of the [[Ward of Paragon]] are those responsible for activating the 
 When called they must answer the summons - happens once every couple hundred years and lasts a few weeks
 
 
-
+Redirect blast north into the ocean 

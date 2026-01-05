@@ -28,6 +28,7 @@ One regular is helping
 With in the nexus there are 1000 Sentinel - ANN Sentinel - [[Aetheria Nexus Network]] Sentinel
 These sentinel controls sentries (which there are millions of) 
 
+Power comes from a tellurian network
 
 God List provided by [[Deus Felixion|Felixion the Walker]]
 Friends

@@ -51,4 +51,7 @@ allied with pieces of things that are going back and forth
 doesn't want to loose everything 
 On Gremory's side
 Not of the network - born and raised on this world
- 
+
+[[Paimonia]] helped travel to the other worlds
+
+

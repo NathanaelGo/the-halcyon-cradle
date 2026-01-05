@@ -5,7 +5,7 @@ tags:
 ![[img_Erinyes.png]]
 
 ### Designations
-
+[[Prime Devourers]]
 
 ### Current Location
 

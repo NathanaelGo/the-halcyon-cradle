@@ -19,6 +19,9 @@ aliases:
 	- Wrath is under surveillance by [[Paimonia]] 
 	- Ruin Eater afflicts people who are infected with the sins and keeps them in check
 - Parents were high level Inquisitors of Citadel of Light - "Valeries and Berserkers"
+- Wanted by the [[Architects]]
+- Byproduct of a [[Seraphim]] that has ravaged the world for many many many years 
+	- Infused in her is an emotion - if it was destroyed that emotion would be ceased from reality 
 
 # Teleportations
 - [[Fort Ksau'Kssa]] Briars residency

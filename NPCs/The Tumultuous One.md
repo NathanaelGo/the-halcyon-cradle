@@ -1,6 +1,8 @@
 ---
 tags:
   - npcs
+aliases:
+  - Wrath
 ---
 ![[img_The_Tumultuous_One.png]]
 

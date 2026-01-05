@@ -51,3 +51,5 @@ Generals leaders at the isle
 
 Killed himself and spread his body parts across the world
 Will revives before the cataclysm - can revive when ever he wants - he is gathering energy right now
+
+Blood is peculiar as he modified it himself earlier 
