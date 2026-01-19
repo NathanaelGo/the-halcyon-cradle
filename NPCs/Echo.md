@@ -22,3 +22,4 @@ Founding Member of the [[The Zignus Institute]]
 Sponsoring [[Crossroads]]
 
 Theory: Echo is [[Deus Zignus]]
+Rebuilt their ship (20-30 people)

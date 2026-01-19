@@ -3,7 +3,12 @@ tags:
   - factions
 ---
 ### Notable Characters
-[[Devdon Orisis]] - Historian archeologist - in codex
+[[Devdan Orisys]] - Historian archeologist - in codex
+[[Garnet]]
+[[Topaz]]
+[[The Doctor|Orisis]]
+[[Leon Kirk]]
+[[Sarmillion]] Head of org - in the scared pass
 
 ### Notable Places
 
@@ -18,3 +23,6 @@ Knowledgeable and in possession of [[Light of Chaos]]
 Some gods might be able to calculate this but none that walk this earth
 
 They asked [[Winry Forger]] to look out for [[Echo]] who sponsors [[Crossroads]]
+Seeking avenues with [[Codexica Dominion]] in their darkest hour
+
+Funded by [[Echo]] now

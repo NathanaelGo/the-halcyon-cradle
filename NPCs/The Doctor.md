@@ -2,6 +2,8 @@
 tags:
   - npcs
   - npcs/places/moros
+aliases:
+  - Orisis
 ---
 ![[img_doctor.png]]
 

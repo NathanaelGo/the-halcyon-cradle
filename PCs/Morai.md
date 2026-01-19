@@ -32,6 +32,6 @@ aliases:
 - Iscastra - Port City of Codex (soured from [[Fort Ksau'Kssa]]) 
 - [[Codex]] - Teleports people into the [[Ragnarok]] (soured from [[Fort Ksau'Kssa|Ghastkeep]])
 - Erabos (from Volk capture)
-- 
+- Treasury of Ilios 
 
 
