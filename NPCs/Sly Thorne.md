@@ -20,3 +20,4 @@ Has to job to steal something in [[Codex]]
 [[Lone Ranger]] hired him to find [[John Cowboy|John]] but hasn't ratted him out
 
 Morai entered his dreams and he has several internal voices? 
+Has [[Gabriel, the Point of Orders|Point of Orders]]

@@ -6,7 +6,7 @@ tags:
 [[Devdan Orisys]] - Historian archeologist - in codex
 [[Garnet]]
 [[Topaz]]
-[[The Doctor|Orisis]]
+[[The Doctor|Orisis]] - Sponsor/Doctor
 [[Leon Kirk]]
 [[Sarmillion]] Head of org - in the scared pass
 

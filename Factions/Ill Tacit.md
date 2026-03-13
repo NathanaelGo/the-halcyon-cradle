@@ -12,7 +12,7 @@ tags:
 - [[Dazzle]]
 - [[Oscar Simmons]] & [[Ricardo Simmons]] | [[Storm Brothers]] 
 - [[Lone Ranger]]
-- [[Wandering Cowboy|Lanar Ando]]
+- [[Lanar Ando|Lanar Ando]]
 - [[Ms. Sevenths]]
 - [[Swindlely]]
 - [[Ruby Skinner]]

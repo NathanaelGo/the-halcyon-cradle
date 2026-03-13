@@ -14,3 +14,4 @@ Part of [[Ill Tacit]]
 ___
 ### Summary
 Trapper
+[[Asska]]'s assassin

@@ -3,6 +3,7 @@ tags:
   - npcs
 aliases:
   - Lanar Ando
+  - Wandering Cowboy
 ---
 ![[img_wandering_cowboy.png]]
 ### Designations

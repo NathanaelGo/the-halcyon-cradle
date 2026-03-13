@@ -11,6 +11,7 @@ aliases:
 Emperor of the [[Umbraen Empire]]
 [[Ward of Paragon]] (of an unknown [[Ward of Paragon]])
 Father of [[Integra]] and 2-3 other wardens
+Ex-[[Cowboy]]
 ### Current Location
 
 

@@ -6,10 +6,11 @@ aliases:
   - Orisis
 ---
 ![[img_doctor.png]]
+![[img_orisis.png]]
 
 ### Designations
 Best Artificer in the World
-
+[[Crossroads]]
 ### Current Location
 
 

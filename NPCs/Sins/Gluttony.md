@@ -14,3 +14,4 @@ Member of [[Grimarchs]]
 ___
 ### Summary
 Showed up with the [[Treachery]] to execute [[Tomelot]] during the [[Equinox Banquet]]
+Very possessive

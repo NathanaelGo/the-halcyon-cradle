@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-
+![[img_Devdan_Orisys.png]]
 
 ### Designations
 [[Crossroads]]

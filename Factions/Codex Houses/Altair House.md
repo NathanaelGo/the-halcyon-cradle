@@ -4,6 +4,7 @@ tags:
 ---
 ### Notable Characters
 [[Lilith Altair]]
+[[Ruven Altair]]
 
 ### Notable Places
 [[Codex]]

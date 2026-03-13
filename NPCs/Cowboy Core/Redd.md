@@ -3,11 +3,13 @@ tags:
   - npcs
 aliases:
   - Tiefling Cowboy
+  - The man with no name
 ---
 *Image here*
 
 ### Designations
-
+[[Cowboy]]
+Disciple of the Disciple of the 'first modern' cowboy 
 
 ### Current Location
 
@@ -21,3 +23,5 @@ Shot [[John Cowboy|John]] in the chest dealing zero damage to show off how much 
 In [[Codex]] for Sling 
 Slingers con - big one
 gun pistols  - tiefling
+
+Taught [[Jack's Master]]
