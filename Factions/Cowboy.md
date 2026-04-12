@@ -16,7 +16,7 @@ aliases:
 
 [[Topaz]]
 [[Garnet]]
-
+[[Ten Four]]
 ### Notable Places
 
 
@@ -47,7 +47,14 @@ Plays Slingers-board
 Centuries/millenia ago they tore their own path
 ### Code
 #### [[John Cowboy]]
-- A cowboy
+- A cowboy's hat is his crown
+- A cowboy's kindgom is where ever the winds take em
+- A cowboy's duty is protect and improve the prosperity of those within those lands
+
+- Respect the Hat: A cowboy's hat is his crown. Never mess with a man's hat unless you plan on a showdown.
+- Your Kingdom is where ever the winds take you
+- A Cowboy does not Lie, Cheat, or Steal. We strive to do more good than bad in this world; however, some situations require rules to be bent. In such cases we are allowed to Elaborate, Collaborate, and Borrow. 
+
 #### [[Redd]]
 - A cowboy never travels with anything they cant carry
 - A cowboy is the homeless man who helps those with homes who cant move

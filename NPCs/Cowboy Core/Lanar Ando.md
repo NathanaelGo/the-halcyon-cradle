@@ -4,6 +4,7 @@ tags:
 aliases:
   - Lanar Ando
   - Wandering Cowboy
+  - Lil Lanar
 ---
 ![[img_wandering_cowboy.png]]
 ### Designations
@@ -22,4 +23,5 @@ Was looking for something.
 Not a fan of the Razers in [[June]] shadow
 Took [[Morai]]'s contract so others won't go after her
 
+Participated in the [[Gun Convention]]
 

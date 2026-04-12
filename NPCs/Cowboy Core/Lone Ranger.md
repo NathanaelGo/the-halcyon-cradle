@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-*Image here*
+![[img_lone_ranger.png]]
 
 ### Designations
 Assassin of [[Ill Tacit]] ?
@@ -30,3 +30,5 @@ Nameless
 - saves everyone for something
 - gives up everything for what he cant have
 - Doesn't want John to be that one since it means his death
+
+Was going to participate in the [[Gun Convention]]

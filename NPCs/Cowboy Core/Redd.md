@@ -19,9 +19,12 @@ ___
 Chill with [[Green Guy|Green Guy]] and is willing to fight gods for [[Equinox (The Party)|The Party]]
 Shot [[John Cowboy|John]] in the chest dealing zero damage to show off how much damage guns actually do
 
+Participated in the [[Gun Convention]]
 
 In [[Codex]] for Sling 
 Slingers con - big one
 gun pistols  - tiefling
 
 Taught [[Jack's Master]]
+
+Currently calls himself a [[John Cowboy|Pawn]]
