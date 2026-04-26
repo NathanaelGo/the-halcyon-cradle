@@ -18,3 +18,5 @@ Where they go it seems like amnesia
 Related to [[Tiviraine]]
 Doesn't want us to share our meeting with the gods
 We forgot our meeting with her in Codex
+
+Was at the [[Codex]] [[Auction]] and bought the Say’er Pixie

@@ -13,7 +13,7 @@ tags:
 - [[Oscar Simmons]] & [[Ricardo Simmons]] | [[Storm Brothers]] 
 - [[Lone Ranger]]
 - [[Lanar Ando|Lanar Ando]]
-- [[Ms. Sevenths]]
+- [[Miss Sevenths]]
 - [[Swindlely]]
 - [[Ruby Skinner]]
 - [[Nameless Human]] of [[Adjective Noun]]

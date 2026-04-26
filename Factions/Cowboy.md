@@ -17,13 +17,30 @@ aliases:
 [[Topaz]]
 [[Garnet]]
 [[Ten Four]]
+
+
+## Order of the Stars
+[[John Cowboy]]
+[[Redd]]
+[[Lanar Ando]]
+[[Ten Four]]
+[[Clack Tack]]
+[[The Maravistas]] x2
+[[Arfle Vincent]]
+[[Tezley Snipes]]
+[[Pow]]
+[[Chase]]
+[[Scurvy Bang]]
+1 free star left
 ### Notable Places
 
 
 ___
 ### Summary
+
+First cowboy nation started with a group of 13 star bearers
 History
-- Pre-[[Noctis Empire]] - Scoundrels who made their towns and the sherrifs 
+- Pre-[[Noctis Empire]] - Scoundrels who made their towns and the sheriffs 
 - Shit stains taking care of other shit stains
 - Made their country - Based on the lawless lawless west (despite the sands being to the east)
 - Other folks didnt like what they had so they went to war - the cowboy war

@@ -32,3 +32,5 @@ Nameless
 - Doesn't want John to be that one since it means his death
 
 Was going to participate in the [[Gun Convention]]
+
+Something a god told him a few decades ago changed him - wanted to go mitigate the end 

@@ -12,5 +12,5 @@ Follower of [[Deus Aurelia]] and [[Gremory]]
 ___
 ### Summary
 
-
+Was at the [[Codex]] [[Auction]] and bought the Mysterious Heart
 

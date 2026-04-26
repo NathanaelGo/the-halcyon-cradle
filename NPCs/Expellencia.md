@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-
+![[img_expellencia.png]]
 ### Designations
 
 

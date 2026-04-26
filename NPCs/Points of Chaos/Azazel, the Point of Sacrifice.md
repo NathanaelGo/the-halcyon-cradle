@@ -5,7 +5,7 @@ aliases:
   - Azazel
   - Point of Sacrifice
 ---
-
+![[img_azazel.png]]
 ### Designations
 [[Light of Chaos]] 
 

@@ -14,3 +14,4 @@ ___
 ### Summary
 Once a Pirate
 Working on stealing a blank diploma so Winry can have a paper with the highest honors
+Was at the [[Codex]] [[Auction]]

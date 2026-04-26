@@ -14,3 +14,4 @@ ___
 ### Summary
 Worked with [[Mylàrin Ulamoor]]'s house
 Authority with [[Gremory]]
+Was at [[Codex]] [[Auction]] and bought the Gaseous Doom

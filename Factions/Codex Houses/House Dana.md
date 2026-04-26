@@ -4,6 +4,8 @@ tags:
 ---
 ### Notable Characters
 [[Kyrmin Dana]] - King
+[[Nym Dana]] - First Prince
+[[Edea Dana]] - Princess
 
 ### Notable Places
 [[Codex]]

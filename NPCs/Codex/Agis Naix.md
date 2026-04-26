@@ -15,5 +15,8 @@ ___
 Owner of Gala Hall
 Might not be compromised - [[Vaery]]
 Possibly unturned - vouched for by [[Ilimitar Valen]]
+
+Was at the [[Codex]] [[Auction]] and bought Tormiez (flute) and Shardsire and Bonemarrow Bonsai (increase strength and Con)
 #### Gala Hall
 The highest end pleasure hall in Codex, and debatably the greatest publicly available center of hedonism on Ilios. It has everything from casinos to prostitutes to drugs to entertainment. The gigantic establishment has sections that are family-friendly, dens that would traumatize most, and everything in between. Ran by Kingpin Agis Naix of House Ilios.
+

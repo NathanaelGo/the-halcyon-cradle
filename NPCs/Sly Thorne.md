@@ -21,3 +21,4 @@ Has to job to steal something in [[Codex]]
 
 Morai entered his dreams and he has several internal voices? 
 Has [[Gabriel, the Point of Orders|Point of Orders]]
+Was at the [[Codex]] [[Auction]] and bought Soul of Ivikis (supposedly very strong item)

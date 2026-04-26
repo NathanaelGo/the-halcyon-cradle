@@ -15,6 +15,6 @@ Astronomer
 
 ___
 ### Summary
-Targeted by [[Ms. Sevenths]] 
+Targeted by [[Miss Sevenths]] 
 Bakes sooooo many cookies
 Likes plums

@@ -15,3 +15,4 @@ aliases:
 ___
 ### Summary
 Wanted to capture some of the patrons in [[Adjective Noun]]. Was turn around around by [[Winry Forger]]. Was looking for [[Mylàrin Ulamoor]]'s family
+Guard at the Codex Auction
