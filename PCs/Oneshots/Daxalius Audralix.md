@@ -1,8 +1,11 @@
 ---
 tags:
   - npcs
+aliases:
+  - Diamond
+  - Dax
 ---
-![[img_Orcus.png]]
+![[img_Daxalius_Audralix.png]]
 
 ### Designations
 
@@ -12,6 +15,5 @@ tags:
 
 ___
 ### Summary
-Places super chess against the doctor 
-Subordinate to [[Baal]]
+Played by Azhcrove
 Was at the [[Auction]]

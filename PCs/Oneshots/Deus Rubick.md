@@ -1,8 +1,10 @@
 ---
 tags:
   - npcs
+aliases:
+  - Ruby
 ---
-![[img_Orcus.png]]
+![[img_Deus_Rubick.png]]
 
 ### Designations
 
@@ -12,6 +14,6 @@ tags:
 
 ___
 ### Summary
-Places super chess against the doctor 
-Subordinate to [[Baal]]
+Played by Soup
+Self proclaimed God of Crime
 Was at the [[Auction]]

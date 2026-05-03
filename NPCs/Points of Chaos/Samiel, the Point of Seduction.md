@@ -14,3 +14,4 @@ aliases:
 
 ___
 ### Summary
+Sold at the [[Auction]]

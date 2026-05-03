@@ -11,3 +11,4 @@ ___
 ### Summary
 Showed up with the [[Treachery]] to execute [[Tomelot]] during the [[Equinox Banquet]]
 Showed up in [[Moros]] asking [[Morai]] if she was strong enough to fight. She got her ass handed to her and then [[Morai]] tucked her into bed and gave her hang over medicine. 
+Was at the [[Auction]]

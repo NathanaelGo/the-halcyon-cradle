@@ -38,4 +38,5 @@ AC: 25+
 
 Hubris and Punishment gods
 White helped [[Malachi Grimora]] and also wants us to kill him ([[Malachi Grimora|The Invictus King]])
-Had connections to [[Baal]]
+Had connections/Authority to [[Baal]]
+Now has Authority with [[Green Guy]]

@@ -25,3 +25,4 @@ He said her and 3 sets of eyes above blinked out of the darkness. (more v shaped
 ![[img_L_eyes.png]]
 
 L can sniff out who's infected/taken over - anyone goes into L's cage
+Was at the [[Auction]]

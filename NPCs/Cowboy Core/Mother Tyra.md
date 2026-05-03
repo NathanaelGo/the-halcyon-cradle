@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-![[Pasted image 20260318114947.png]]
+![[img_mother_tyra.png]]
 
 ### Designations
 [[Cowboy]]

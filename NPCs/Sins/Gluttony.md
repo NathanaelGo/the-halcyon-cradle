@@ -15,3 +15,4 @@ ___
 ### Summary
 Showed up with the [[Treachery]] to execute [[Tomelot]] during the [[Equinox Banquet]]
 Very possessive
+Was at the [[Auction]]

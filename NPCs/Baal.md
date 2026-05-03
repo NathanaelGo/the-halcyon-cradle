@@ -2,11 +2,11 @@
 tags:
   - npcs
 ---
-*Image here*
+![[img_baal.png]]
 
 ### Designations
 Might be titled the **The Lord of Darkness**
-
+[[Deus Asura]] [[Deus Ereshkigal]]
 ### Current Location
 
 
@@ -20,3 +20,5 @@ Doesn't want people to go to space.
 Baal is inimical to your interests - source [[Chronus]]
 
 Probably wants to keep the world in statis/keep going the way they are
+
+Killed by [[Return]] with [[Azrael, the Point of Psychopompry|Point of Psychopompry]]

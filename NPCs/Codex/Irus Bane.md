@@ -4,7 +4,7 @@ tags:
 ---
 ![[img_Irus_Bane.png]]
 ### Designations
-
+[[Naberius]]
 
 ### Current Location
 

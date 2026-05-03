@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-![[Pasted image 20260318115532.png]]
+![[img_big_missy.png]]
 
 ### Designations
 [[Cowboy]]

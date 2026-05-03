@@ -6,6 +6,8 @@ tags:
 
 ### Designations
 Regular God
+[[Irus Bane]]
+Divine Imperator of Seasons
 ### Current Location
 
 

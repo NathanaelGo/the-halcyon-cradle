@@ -44,7 +44,7 @@ Neutral
 [[Morax]]
 
 Enemy
-[[Baal]]
+[[Baal]] - Dead
 [[Sitri]]
 [[Vassago]]
 [[Zepar]]

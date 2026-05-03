@@ -18,3 +18,4 @@ Has an old old old old power
 Raven does intend to do good
 
 Carries [[Janus]]'s curse
+Has [[Azazel, the Point of Sacrifice|Point of Sacrifice]]

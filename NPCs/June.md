@@ -16,5 +16,5 @@ Wants to find more candidates for her shadow
 Killed [[Ksau'Kssa]]
 [[Raisers & Shadows]] one of seven. Looking for a shadow. 
 Scared the death out of [[Renald Briar]]
-
+Was at the [[Auction]]
 

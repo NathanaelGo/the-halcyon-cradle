@@ -13,3 +13,4 @@ tags:
 ___
 ### Summary
 Found in [[Vega Nox]]'s hole [[Doctor Klan]] was watching
+Stole [[Ramiel, the Point of Inheritance|Ramiel]], [[Uriel, the Point of Wisdom|Uriel]], and [[Samiel, the Point of Seduction]] at the [[Auction]]

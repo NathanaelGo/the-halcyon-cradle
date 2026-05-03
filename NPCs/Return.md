@@ -4,7 +4,7 @@ tags:
   - npcs/places/erymnos
   - npcs/places/moros
 ---
-
+![[img_return.png]]
 ### Designations
 
 
@@ -18,3 +18,4 @@ Someone has the ability to erase memories and its supposedly done for the better
 Faith wants to get rid of this
 Wants to fix a broken memory
 [[Grian]] & [[Carnelian]] want to kick their ass
+Was at the [[Auction]] and killed [[Baal]]

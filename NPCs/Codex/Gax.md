@@ -5,7 +5,7 @@ tags:
 ![[img_gax.png]]
 
 ### Designations
-
+[[Ill Tacit]]
 
 ### Current Location
 
@@ -13,3 +13,4 @@ tags:
 ___
 ### Summary
 Was at the [[Codex]] [[Auction]]
+Assassin for [[Carnelian]] and [[Grian]]

@@ -52,3 +52,6 @@ Brought the Party to the coziest bar known to man
 14. Protect from [[Sebastian Flowers]] (sorta)
 
 Reason: People are looking at [[John Cowboy]] and The Doctor doesn't want those eyes to fall upon him.
+
+
+Was at the [[Auction]]

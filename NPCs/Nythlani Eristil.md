@@ -13,7 +13,7 @@ aliases:
 
 ___
 ### Summary
-Has [[Authority]] with unknown
+Has [[Authority]] with [[Baal]] now its [[Green Guy]]
 Put bounties on [[Equinox (The Party)|The Party]] through [[Ill Tacit]]
 Immune to Poison Physic Necrotic Fire damage 
 Ordered to get rid of [[Ravane Soga'tae|Ravane]] and the [[Order of the Raven]]
