@@ -23,3 +23,5 @@ Knows of [[Gremory's Library]]
 Was an adventures who's original party died in the expanse. 2nd party finished their mission and retired. She continued to explore - was kidnapped and made into a slave where her eyes were stolen. (about 30 years ago)
 
 "Why do we hurt" - Trying to figure this out
+
+Subdued avatar - wandered this world for millions of years - if she is treated very poorly for a while [[Naberius]] wakes up 

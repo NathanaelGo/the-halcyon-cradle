@@ -55,3 +55,6 @@ Reason: People are looking at [[John Cowboy]] and The Doctor doesn't want those 
 
 
 Was at the [[Auction]]
+
+Flying into the ring and establishing a base. 
+Going to be living in a mechanical ring for years - a living hell

@@ -5,8 +5,7 @@ tags:
 aliases:
   - The Invictus King
 ---
-*Image here*
-
+![[img_Malachi_Grimora.png]]
 ### Designations
 Emperor of the [[Umbraen Empire]]
 [[Ward of Paragon]] (of an unknown [[Ward of Paragon]])
@@ -20,5 +19,5 @@ ___
 He thinks he's the reincarnation of [[Vega Nox]]
 Can control those related to him by blood
 Compromised according to [[Vaery]]
-
+Stole [[John Cowboy]]'s shadow
 

@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-![[img_ksau'kssa.png]]
+![[img_Ksau'Kssa 1.png|697]]
 ### Designations
 One of Seven Legendary Beasts
 

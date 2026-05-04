@@ -22,3 +22,4 @@ Baal is inimical to your interests - source [[Chronus]]
 Probably wants to keep the world in statis/keep going the way they are
 
 Killed by [[Return]] with [[Azrael, the Point of Psychopompry|Point of Psychopompry]]
+Had authority over space

@@ -48,3 +48,5 @@ Afraid of freedom - would rather create a road for us to walk rather than walk i
 Wanted by the [[Architects]]
 
 only god we can trust - Chronus
+
+Glitched into agency b/c there was something she wanted to know but her programming didnt require her to take action to learn it

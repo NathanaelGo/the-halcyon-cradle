@@ -7,12 +7,14 @@ tags:
 ### Designations
 [[The Raven]]
 [[Order of the Raven|Raven's Order]]
-
+The Court Jester 
+Master of [[Corvyn Cain]]
 ### Current Location
-
+Royale Court of [[Codex]]
 
 ___
 ### Summary
+Wizard/Rouge combo - knows every part of the royale palace
 Arrived when the Ravens need help as guided by [[Green Guy|Green Guy]]
 
 Mind has been awoken after given the gift of freedom by [[Green Guy|Green Guy]]
@@ -28,3 +30,8 @@ Created a curse even worse than what the Ravens were doing - Curse of losing eve
 Every Jester exists to make The Raven more powerful
 
 The entity that [[Ravane Soga'tae]] is sourcing power from
+
+The [[Codex]] 'King' loves him
+
+Kairos reactivated when a [[Baal]] died, contacted [[Ravane Soga'tae|Ravane]] to try to save [[Paimonia]]
+Gave [[Equinox (The Party)|The Party]] a few scrolls that temporarily undoes clownism

@@ -14,6 +14,7 @@ Member of [[Order of the Raven|Raven's Order]]
 
 ___
 ### Summary
+Student of [[Kairos]]
 Ravane's master
 
 [[Corvyn Cain]] is a broken chain and knows little and cant pass much on

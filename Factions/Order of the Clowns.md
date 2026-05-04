@@ -14,3 +14,4 @@ ___
 ### Summary
 Read [[Green Guy|Green Guy]]'s book and turned into a clown
 In kahoots with [[Order of the Raven|Raven's Order]]
+Clownism is torture - you are aware as something else pilots you

@@ -34,3 +34,9 @@ Most of the gods dont know how to get here
 10th level is the only place truely safe from the gods
 
 Grey can't promote peoples sin level as the library she created operates separate from her
+
+
+## Folks with 10th Level Access
+- [[Malachi Grimora]]
+- [[Illion]]
+- [[Corvyn Cain]]
