@@ -24,3 +24,7 @@ Invading the organization that birth [[Seraphim]] - [[Aelzorin]] (not our friend
 
 Planning the assassination of [[Sitri]]
 Teamed with [[The Doctor]] to get new weapons 
+
+Wants to make sure the aspects survive and they don't disappear when their source is gone\
+And the universe doesn't implode if the [[Seven Sins|Ten Sins]] do have to die
+Doesn't want [[Barbie]] interfering with the [[God Con]]

@@ -22,6 +22,7 @@ aliases:
 - Wanted by the [[Architects]]
 - Byproduct of a [[Seraphim]] that has ravaged the world for many many many years 
 	- Infused in her is an emotion - if it was destroyed that emotion would be ceased from reality 
+- Can cut off her head and survive (needs a soul cage to keep it alive for long)
 
 # Teleportations
 - [[Fort Ksau'Kssa]] Briars residency

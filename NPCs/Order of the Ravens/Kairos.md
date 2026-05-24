@@ -35,3 +35,4 @@ The [[Codex]] 'King' loves him
 
 Kairos reactivated when a [[Baal]] died, contacted [[Ravane Soga'tae|Ravane]] to try to save [[Paimonia]]
 Gave [[Equinox (The Party)|The Party]] a few scrolls that temporarily undoes clownism
+Has to give a [[Light of Chaos]] to someone

@@ -21,3 +21,5 @@ Can control those related to him by blood
 Compromised according to [[Vaery]]
 Stole [[John Cowboy]]'s shadow
 
+Stole [[Deus Felixion|Felixion the Walker]]'s shadow for 2 weeks
+

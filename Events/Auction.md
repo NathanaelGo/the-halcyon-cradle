@@ -13,7 +13,7 @@ Last [[Light of Chaos]] is still out there
 - [[Green Guy|Green Guy]]
 - [[Gremory|Gremory]]
 - [[Pandora]]
-- [[Rook]]
+- [[Rook Lennox]]
 - [[Twitch]]
 - [[The Doctor]]
 - [[Saw]]

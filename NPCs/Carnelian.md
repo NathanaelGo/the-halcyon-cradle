@@ -18,3 +18,5 @@ Has [[Authority]] from [[Gremory]] (Grey answered this question oddly - unsure w
 Found [[Morai]] after her 1000 years in GBJ and somehow became her GF.
 Traveling with [[Grian]]
 Been forgotten by the world
+
+In her dream [[Shanael Tirin]] and [[The Tumultuous One|Wrath]] are helping her move along

@@ -11,5 +11,6 @@ tags:
 
 ___
 ### Summary
+Sister of [[Garnet]]
 Stole her gun and attire from Pandara/pandimonia? ancient gnossian city
 Studied under [[Redd]] - reached the 'top'
