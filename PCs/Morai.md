@@ -34,5 +34,6 @@ aliases:
 - [[Codex]] - Teleports people into the [[Ragnarok]] (soured from [[Fort Ksau'Kssa|Ghastkeep]])
 - Erabos (from Volk capture)
 - Treasury of Ilios 
+- Space star teleportation system from [[Church Mechanica]]
 
 

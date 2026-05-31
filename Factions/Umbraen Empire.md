@@ -12,7 +12,7 @@ tags:
 [[Calpurnia Grimora]]
 [[Ghazaala]] - At banquet (invisibility cloak person)
 [[Vaaliz Atlo-Kareet]]
-[[Gani Nirut'tal]]
+[[Gani Freeya Nirut'tal]]
 Sahar al-Shaheen - Was at Banquet
 
 [[John Cowboy]]

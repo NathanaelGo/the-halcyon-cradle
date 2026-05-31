@@ -12,5 +12,5 @@ From [[Aurora]]
 
 ___
 ### Summary
-Patron that wants [[Gani Nirut'tal|Forget]] to be alive
+Patron that wants [[Gani Freeya Nirut'tal|Forget]] to be alive
 Behind the death of [[Integra]]'s mother and lover (to help the [[Malachi Grimora]])

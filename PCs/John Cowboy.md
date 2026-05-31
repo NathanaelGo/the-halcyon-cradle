@@ -9,6 +9,8 @@ aliases:
   - Vanwacenda Elfman
 ---
 ![[img_john_cowboy.jpg]]
+
+![[img_John_Cowboy_No_Shadow.png]]
 ### Designations
 Member of [[Equinox (The Party)]]
 Impartial Observer 

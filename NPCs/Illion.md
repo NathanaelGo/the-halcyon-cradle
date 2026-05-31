@@ -12,3 +12,5 @@ tags:
 
 ___
 ### Summary
+Was going to kill [[Gani Freeya Nirut'tal]] to repaid a lumina debt. Then [[John Cowboy]] took a gun and killed her.
+We buried her where John found the book that set off his adventures 

@@ -11,6 +11,7 @@ tags:
 	 - [[Lumina]] is restored faster near them
 
 [[John Cowboy]] was told he should head in before the rest of the party if we ever go into one. 
+Can teleport people - possibly to other worlds
 
 ### Library Info
 - **(SIN 2)** North of the [[Citadel of light]], a particularly massive Ragnarok storms in the center of gargantuan crater. Those in the faith often refer to the Ragnarok as “Grahnkasei” and the entirety of its surrounding rocky lands as “Heaven’s Gate”. The entire region is considered a holy site of the faith and pilgrimages to it and its Ragnarok are commonplace.,

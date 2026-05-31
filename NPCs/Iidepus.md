@@ -25,3 +25,6 @@ Willing locked himself in the [[Warden Dungeon]] to protect a Republic secret (P
 >Wanderers, thieves, miscreants, or otherwise, heed our word as the once suffered scorn. Beyond this door there is no honor, prize, or valor. Any who enter will find it to be their final resting place. Turn back. Return from where you came and forget this journey lest you invoke wraths more ancient than even we. — Fallen Prince Iiedepus
 
 Found at the entrance to the Warden Dungeon
+
+Uncovered a teleportation deep underground - found a remanent of the noctis empire and hid it. - [[Church Mechanica]] found it.
+Encoded something in the stars - when perceived in its totality something appears.   
