@@ -35,13 +35,13 @@ Angels of certainty carved from the Lights of Chaos
 One of many points still around - many have been lost to time and destroyed
 
 Yearn to cease the birth of more [[seraphim]] and destroy a hierarchy above them - Point of Secrecy
-# List of Points 
-[[Abbadon, the Point of Destruction]]
-[[Azazel, the Point of Sacrifice]]  
-[[Azrael, the Point of Psychopompry]]
-[[Gabriel, the Point of Orders]]
+# List of Points - Owners
+[[Abbadon, the Point of Destruction]] - [[White]]
+[[Azazel, the Point of Sacrifice]] - [[Ravane Soga'tae|Ravane]]
+[[Azrael, the Point of Psychopompry]] - [[Roushi Yiame]]/[[Return]]
+[[Gabriel, the Point of Orders]] - [[Sly Thorne]]
 [[Ramiel, the Point of Inheritance]]  
-[[Raziel, the Point of Secrets]]
+[[Raziel, the Point of Secrets]] - [[Morai]]
 [[Samiel, the Point of Seduction]]
 [[Uriel, the Point of Wisdom]]
 [[Zadkiel, the Point of Mercy]]
@@ -61,7 +61,7 @@ Names Myalrin heard during his legend lore:
 Places you can talk freely 
 - Beside a god who trusts you
 - [[Core]]
-- Sky Island
+- Sky Island ([[Pandora's Box]])
 - Basement of [[The Zignus Institute|The Institute]]
 
 Words of places long ago
@@ -75,3 +75,10 @@ Trying to take down this worlds gods and world
 Turned a Seraphim's curse into a weapon
 
 Eat Lumina/Destroy it/cancels it out
+
+The points are going 'insane' - were going crazy b4 [[Gnosisia]] fell
+Used to be men of light
+
+Promethea fought architect in war and lost
+Took the Light Hymns of their world and made them living, think, hate
+Cant be guns

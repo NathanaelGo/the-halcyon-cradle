@@ -31,3 +31,5 @@ Has [[Azazel, the Point of Sacrifice]] and is willing to give the party for a qu
 There are two (god and or seraphim) that are unknown to them
 
 Has 'secret nodes' hidden all over Illios, doing something on the planet but is very cagey about what it is
+
+Brought an end to the [[Gnosisia]] empire

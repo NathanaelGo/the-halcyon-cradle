@@ -15,6 +15,7 @@ aliases:
 ### Designations
 **Divine Imperator of Luck**
 [[Walker]] 
+Pupil of [[Khoeusi]]
 # Summary
 Posed as a poor old guy outside of Felixion's Step in [[Moros]]. Ended up giving [[John Cowboy]] a point of inspiration. 
 
@@ -29,6 +30,8 @@ Has Authority with [[Gremory|Grey Dormeous]]
 
 Walker - walks into places you dont belong
 "Felixion is what I would consider a mortal who has reached their end there is no way for them to get any more powerful without waving a flag of [[Rebellion]]" - [[Gremory|Grey]]
+
+'Died' in front of [[Khoeusi]]
 
 
 ### The Bored

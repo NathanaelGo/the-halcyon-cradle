@@ -24,3 +24,4 @@ Cursed through time itself
 Brings a Chaos the gods find helpful
 None of the gods believe they can achieve the goal freeing the people of this world
 [[Sitri]] is an enemy
+Will carried ages ago

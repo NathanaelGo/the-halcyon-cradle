@@ -12,6 +12,12 @@ aliases:
 [[Minerva]] - Great great .... granddaughter of an original member
 [[Caelynn]] - Works as a face in the garden of zignus
 
+ [[Deus Zignus]] is an Alter
+
+### Pandora's Box Gang
+[[Khoeusi]] is an Alter
+[[Zalanq MMMMXXXIII]]
+[[Dritch]]
 ### Notable Places
 [[Moros]] Garden 
 ___

@@ -6,7 +6,7 @@ tags:
 ---
 ![[img_return.png]]
 ### Designations
-
+[[Seraphim]] curse
 
 ### Current Location
 [[Codex]]
@@ -23,6 +23,10 @@ Mad at [[Paimonia]] and killed her?
 Sent the party back to 216AL to a place the time isnt moving
 
 Deletes time to move super fast
+
+Last return died 1000's of years ago. Previously helped [[Pandora's Box]] escaped (removed peoples memories of its launch)
+
+100.000 people would die upon his birth and he'd be congregate being 
 
 #### Returned....
 I have lost track of the days

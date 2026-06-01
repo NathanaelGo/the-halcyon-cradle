@@ -14,3 +14,4 @@ aliases:
 
 ___
 ### Summary
+Linked with [[Sly Thorne]]
