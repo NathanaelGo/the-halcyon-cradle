@@ -1,6 +1,8 @@
 ---
 tags:
   - player-characters
+aliases:
+  - Flicker
 ---
 - Banished from his tribe's lands
 - Killed a Union bigshot

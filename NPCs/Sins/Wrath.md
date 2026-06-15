@@ -19,3 +19,5 @@ New definition: Helping others to do stuff with the anger you feel
 Combined with [[Morai]] losing her form but granting her host [[Authority]]
 
 Not Wrath? - according to Paimonia
+
+Might be dead

@@ -39,6 +39,7 @@ A plane unbound to time and the other planes. Time does not conventionally pass 
 
 ### Voidscape of Nihility
 The Voidscape of Nihility can be summarily described as a vacuum. While the physical universe is virtually empty at the subatomic level, the exact absence of anything marks the Voidscape of Nihility. It exists in the form of the infinite expanse between the Planes of Time, as well as in any vacuum found in the material world. In other words, supposing space is a vacuum, it would be part of the Voidscape of Nihility.
+Materials can be processed by dropping it nihil -> it becomes vacuum -> nothingness gets imprinted on it.
 
 ### Nihil
 Within the Voidscape of Nihility are countless pocket dimensions of tangled up nothingness defined only by entropy, or a lack thereof. These planes are known collectively as Nihil. Unlike Serenith, which is unbound to time, Nihil is influenced by what resides in it. Natively, time does not exist in Nihil and nothing ever changes, but Lumina, which is foreign to Nihil, introduces entropy and thus dictates the flow of time within it. In other words, the arrow of time is born through the introduction of Lumina into Nihil. This makes these planes highly adaptable seeing as they reciprocate entropy. In theory, one with sufficient ability could theoretically custom tailor entire worlds within it.

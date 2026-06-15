@@ -26,6 +26,7 @@ ___
 - Has The Scorned Torment aka Gold, which is [[Iidepus|The Scorned One]]'s weapon 
 - Got invited to the Doctors faction with Sebastian 
 - Upon reaching the end of [[The Doctor]]s chess board his piece vanished into smoke
+- [[Khoeusi|Alter of Death]] thought John was already on [[Alter]] level
 
 # Misc
 Called a [[John Cowboy|Pawn]] by the following:

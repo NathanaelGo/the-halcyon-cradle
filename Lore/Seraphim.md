@@ -30,3 +30,6 @@ Given an existence into fighting their creators - [[Architects]] trick them into
 [[Core]] is the machine that will birth the Seraphim
 
 Explosions comes from underneath the [[Citadel of light]] - birthing place of the Seraphim
+
+
+Born in a 20x20 mile hole - ultra void that abosorbs info - Below snow ground with jagged rocks

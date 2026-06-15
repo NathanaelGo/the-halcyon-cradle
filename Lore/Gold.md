@@ -11,3 +11,6 @@ The [[Warden Dungeon]] [[Equinox (The Party)|The Party]] got a lot of gold there
 
 
 [[John Cowboy|John]]'s gold requires to have a gold on person to stay attuned to it
+
+
+Finite resource given to world and remade 

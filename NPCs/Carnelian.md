@@ -14,6 +14,8 @@ Rex Apex of Otherworldly Entities
 ___
 ### Summary
 Has [[Authority]] from [[Gremory]] (Grey answered this question oddly - unsure why)
+Has [[Authority]] from [[Pandora]] via a pact made with her Grandfather.
+	Wants [[Return]] to remove the memory of her [[Authority]] with [[Paimonia]]
 
 Found [[Morai]] after her 1000 years in GBJ and somehow became her GF.
 Traveling with [[Grian]]

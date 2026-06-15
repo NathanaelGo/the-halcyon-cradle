@@ -31,8 +31,11 @@ Has Authority with [[Gremory|Grey Dormeous]]
 Walker - walks into places you dont belong
 "Felixion is what I would consider a mortal who has reached their end there is no way for them to get any more powerful without waving a flag of [[Rebellion]]" - [[Gremory|Grey]]
 
+Wishes he had 100 of him to study
 'Died' in front of [[Khoeusi]]
+Spent 8000 years looking for [[Khoeusi]] thinking she was on [[Blazur]]
 
+Has tons of clones that makes noise that allows him to vanish for short periods of time
 
 ### The Bored
 - Alchemist who has very potent drugs

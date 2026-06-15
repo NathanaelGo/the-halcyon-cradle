@@ -23,6 +23,7 @@ aliases:
 - Byproduct of a [[Seraphim]] that has ravaged the world for many many many years 
 	- Infused in her is an emotion - if it was destroyed that emotion would be ceased from reality 
 - Can cut off her head and survive (needs a soul cage to keep it alive for long)
+- 'pretend dead' according to [[Khoeusi|Alter of Death]]
 
 # Teleportations
 - [[Fort Ksau'Kssa]] Briars residency
@@ -35,5 +36,7 @@ aliases:
 - Erabos (from Volk capture)
 - Treasury of Ilios 
 - Space star teleportation system from [[Church Mechanica]]
+- Lumina Magitech Fabricator (inside ring) needs Myalrins assistance to bypass a firewall
+	- 1000x bigger than pandoras box - Can make anything in existence
 
 

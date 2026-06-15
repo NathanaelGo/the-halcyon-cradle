@@ -40,7 +40,7 @@ Yearn to cease the birth of more [[seraphim]] and destroy a hierarchy above them
 [[Azazel, the Point of Sacrifice]] - [[Ravane Soga'tae|Ravane]]
 [[Azrael, the Point of Psychopompry]] - [[Roushi Yiame]]/[[Return]]
 [[Gabriel, the Point of Orders]] - [[Sly Thorne]]
-[[Ramiel, the Point of Inheritance]]  
+[[Ramiel, the Point of Inheritance]]
 [[Raziel, the Point of Secrets]] - [[Morai]]
 [[Samiel, the Point of Seduction]]
 [[Uriel, the Point of Wisdom]]

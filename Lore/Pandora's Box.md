@@ -16,3 +16,8 @@ Version 83 OS
 
 remnant of [[The Zignus Institute|The Institute]]
 waited opportunity to trek to [[Blazur]]
+
+
+Activated automatic defense protocals
+- Sophisticated machines (developed with materials native to the world)
+- All warforges are slaves to sentries (automatic defense sentries) - sees a gun/computer gets taken over and forced to destroy its owner

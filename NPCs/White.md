@@ -40,3 +40,5 @@ Hubris and Punishment gods
 White helped [[Malachi Grimora]] and also wants us to kill him ([[Malachi Grimora|The Invictus King]])
 Had connections/Authority to [[Baal]]
 Now has Authority with [[Green Guy]]
+
+Currently in [[Dracoria]]

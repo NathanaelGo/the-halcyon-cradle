@@ -58,3 +58,5 @@ Was at the [[Auction]]
 
 Flying into the ring and establishing a base. 
 Going to be living in a mechanical ring for years - a living hell
+Doctors on the way to make [[Light of Chaos]]
+Ultimate objective is to talk with an [[Architects]]

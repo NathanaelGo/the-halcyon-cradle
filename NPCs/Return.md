@@ -28,6 +28,7 @@ Last return died 1000's of years ago. Previously helped [[Pandora's Box]] escape
 
 100.000 people would die upon his birth and he'd be congregate being 
 
+Of [[Seraphim]] origin
 #### Returned....
 I have lost track of the days
 if you find me, Im sorry - Carnelian
