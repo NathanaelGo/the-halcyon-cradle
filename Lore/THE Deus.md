@@ -56,3 +56,6 @@ SUPER ENEMY (Anne Sentry) - will blow up the planet and tell their architects th
 [[Valac]]
 [[Naberius]] - walks the world
 
+
+
+Regulars require 3 to overcome one natrual sentry

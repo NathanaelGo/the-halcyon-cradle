@@ -35,3 +35,8 @@ Followers given a radio [[Networks]] and the followers collect the data and try 
 [[Gremory|Grey Dormeous]] aided them
 [[Green Guy|Astaroth]] visited them and told them to keep the name [[Pandora's Box]] a secret
 There are no gods on their side - just ones that find amusement in what they do
+
+
+3 gods related to them in their corner
+- An erased god - destroyed by [[Return|2nd to last Return]]
+- 

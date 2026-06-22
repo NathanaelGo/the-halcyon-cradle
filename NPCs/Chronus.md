@@ -5,7 +5,7 @@ tags:
 ![[img_chronus.png]]
 
 ### Designations
-
+Rebellion Sin and its lingering vestiges 
 
 ### Current Location
 

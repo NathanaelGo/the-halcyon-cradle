@@ -48,3 +48,5 @@ God of trickery bc he really wants to trick other gods
 Disassembled after covering the parties but when we went to go meet [[Paimonia]] 
 
 Glitched into agency b/c he wanted to kill (brother sister) so much he became an Irregular
+
+Makes a new body/avatar every couple 1000 years

@@ -23,3 +23,4 @@ Stole [[John Cowboy]]'s shadow
 
 Stole [[Deus Felixion|Felixion the Walker]]'s shadow for 2 weeks
 
+Killed by [[White]] after [[Equinox (The Party)|The Party]] distracted him

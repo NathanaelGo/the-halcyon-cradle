@@ -7,7 +7,7 @@ tags:
 ![[img_return.png]]
 ### Designations
 [[Seraphim]] curse
-
+The Last Return
 ### Current Location
 [[Codex]]
 
@@ -28,13 +28,15 @@ Last return died 1000's of years ago. Previously helped [[Pandora's Box]] escape
 
 100.000 people would die upon his birth and he'd be congregate being 
 
-Of [[Seraphim]] origin
+Of [[Seraphim]] origin. Already felled. There will be no more. 
+
+Learns everything of the people they erase
 #### Returned....
 I have lost track of the days
 if you find me, Im sorry - Carnelian
 
 
-I dues zarzura imperator desert cant believe there is nothing - can survive in any dessert - found something so great they could not survive 
+I [[Deus Zerzura]] imperator desert cant believe there is nothing - can survive in any dessert - found something so great they could not survive 
 Do not let another one of those demons/fiends/monsters prevail - God of the Dessert
 
 Why now of all times, fuck this fuck everything fuck - Gani

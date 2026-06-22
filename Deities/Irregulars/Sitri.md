@@ -14,3 +14,5 @@ You must not fear Sitri - if you are aware of them you will fear and they will k
 
 Enemy of anything that wants to live freely.
 Wants the world to be cyclical and repeat forever
+
+Stronger than a normal [[THE Deus|Sentries]]

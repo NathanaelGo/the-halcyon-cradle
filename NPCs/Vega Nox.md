@@ -59,3 +59,7 @@ Blood is peculiar as he modified it himself earlier
 Sense of justice - funny handshake
 
 who is propping up [[Malachi Grimora]] as [[Vega Nox]]? Is it the will of Nox himself
+
+Friends with [[Paimonia]] - source [[Return]]
+
+Freed [[Return]] and fed him so he could be reborn

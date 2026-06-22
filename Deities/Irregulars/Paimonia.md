@@ -33,3 +33,10 @@ There are two (god and or seraphim) that are unknown to them
 Has 'secret nodes' hidden all over Illios, doing something on the planet but is very cagey about what it is
 
 Brought an end to the [[Gnosisia]] empire
+
+Destroyed everything [[Return]] was supposed to be - ruined his birth
+Pushed the 2nd to last [[Return]] into making a mistake and erased a god b/c [[Paimonia]] convinced them to
+
+Does requests to make people happy
+
+Betrayed: [[Gremory|Grey]] [[Green Guy]] [[Barbatos]] [[Unknown Ancient God]]
