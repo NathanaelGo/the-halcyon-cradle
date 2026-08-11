@@ -23,5 +23,6 @@ Trained in Nihil where she learned to fight
 
 Nihil - old school - tents and huts - shamonistic
 
+Was 'killed' in the borderlands
 
 

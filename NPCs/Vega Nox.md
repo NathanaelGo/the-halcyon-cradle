@@ -63,3 +63,5 @@ who is propping up [[Malachi Grimora]] as [[Vega Nox]]? Is it the will of Nox hi
 Friends with [[Paimonia]] - source [[Return]]
 
 Freed [[Return]] and fed him so he could be reborn
+
+Trying to claim the bodies of [[Ha Sh Ed]]

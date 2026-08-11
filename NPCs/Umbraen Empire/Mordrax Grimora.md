@@ -13,3 +13,5 @@ Related to [[Malachi Grimora]]
 
 ___
 ### Summary
+Not a sensible person - him ascending to throne hood is bad
+Highest male to the throne
