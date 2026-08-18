@@ -8,3 +8,5 @@ tags:
 Related to [[Nyxian's Din]]
 
 her curse hit before the Nyxian Nights happened
+
+Could be convinced to join our side maybe

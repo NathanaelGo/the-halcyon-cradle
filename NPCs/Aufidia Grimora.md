@@ -2,8 +2,7 @@
 tags:
   - npcs
 ---
-*Image here*
-
+![[img_Aufidia_Grimora.png]]
 ### Designations
 
 

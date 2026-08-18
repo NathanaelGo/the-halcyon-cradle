@@ -52,3 +52,5 @@ only god we can trust - Chronus
 Glitched into agency b/c there was something she wanted to know but her programming didnt require her to take action to learn it
 
 Pretended to write as 25 generations to get her short joke stories out
+
+Was the first god to defect and escape

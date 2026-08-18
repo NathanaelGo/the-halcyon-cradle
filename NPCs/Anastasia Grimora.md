@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-*Image here*
+![[img_Anastasia_Grimora.png]]
 
 ### Designations
 

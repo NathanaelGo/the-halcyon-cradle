@@ -1,11 +1,13 @@
 ---
 tags:
   - npcs
+aliases:
+  - Gil
 ---
 ![[img_Eula_G.png]]
 ### Designations
-
-
+[[Raisers & Shadows|Raiser]]
+[[Aurora]]
 ### Current Location
 
 

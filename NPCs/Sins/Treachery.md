@@ -29,3 +29,8 @@ Wants to make sure the aspects survive and they don't disappear when their sourc
 And the universe doesn't implode if the [[Seven Sins|Ten Sins]] do have to die
 Doesn't want [[Barbie]] interfering with the [[God Con]]
 Wants the gods to fall
+
+[[Treachery]] wanted to commune with [[Avernis]] and got [[Barbatos]] infected by a rouge archfiend
+
+3 people = 2 Demons + 1 Treachery 
+2 heads are very greedy and can probably be swayed 

@@ -8,13 +8,14 @@ aliases:
 ### Notable Characters
 [[Hive Mother]]
 [[Arduos]]
+[[Barbatos|Lucifer]] - God taken over by an Avernis General
 
 ### Notable Places
 
 
 ___
 ### Summary
-Hive minds decided uniformly to conquere the entirety of this galaxy
+Hive minds decided uniformly to conquered the entirety of this galaxy
 Sieging the nexus for (5) millions years
 
 Can save 10 million people (1 ship) in return for our help

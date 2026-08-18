@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-*Image here*
+![[img_Lars_Grimora.png]]
 
 ### Designations
 

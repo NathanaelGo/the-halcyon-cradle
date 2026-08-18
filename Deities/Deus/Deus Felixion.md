@@ -45,6 +45,10 @@ Has tons of clones that makes noise that allows him to vanish for short periods 
 - Getting into everyones head little by little
 - Doing stuff with out collecting [[Sin]]
 
+### The Carver
+- Showed up to the Morai v White hearing
+
+
 2 ways to get power in the world
 - One gets you Smited by the gods
 - The other gets them angry but can't do anything to you

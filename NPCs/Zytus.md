@@ -13,3 +13,5 @@ Member of the [[Grimarchs]]
 ___
 ### Summary
 Servant of the [[Treachery]], has dragged [[Tomelot]] to the [[Equinox Banquet]]. He was later encountered in the [[Marasind Bend]], engaged in a scheme with the governor and using him to take something from the city. 
+
+[[Treachery]] cloned him over and over to fill [[Dawnless]]

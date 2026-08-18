@@ -5,7 +5,8 @@ tags:
 *Image here*
 
 ### Designations
-
+Former mother of sin
+Former Valerie of the [[Citadel of light]]
 
 ### Current Location
 
@@ -21,3 +22,5 @@ Primigar Bastion Peithos
 A former sin swallower turn full blown alzerin
 Stories told the constitute pact they hold with the citadel broken
 Rouge sect of Patho took something of value and is rumored to 
+
+Will fall in the shimmering expanse to delay the gods

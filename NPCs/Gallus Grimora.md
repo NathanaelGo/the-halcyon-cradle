@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-*Image here*
+![[img_Gallus_Grimora.png]]
 
 ### Designations
 

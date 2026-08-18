@@ -2,7 +2,7 @@
 tags:
   - npcs
 ---
-![[img_Kharminon_Grimora.png]]
+![[img_Vergilia_Grimora.png]]
 
 ### Designations
 
@@ -12,4 +12,3 @@ tags:
 
 ___
 ### Summary
-Blood powers

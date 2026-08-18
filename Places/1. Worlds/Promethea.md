@@ -24,3 +24,5 @@ Conquered their ring
 Bridge the worlds together - their will of Lumina carried on
 
 none survived
+
+Never breached past the nexus - barely breached into another ring

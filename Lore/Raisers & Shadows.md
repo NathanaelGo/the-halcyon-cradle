@@ -10,17 +10,17 @@ Seven Raisers
 Related to [[Aurora]]
 1. [[June]]
 2. [[Katos]]
+3. [[Eula G |Gil]] - Took a new shadow of [[Etos al-Fitkas]]
 - [[Catrix]]
 - [[Mariid]]
 - [[Ranntag]]
-- Gil
 - Viktala
 
 Shadow (Heros of time - filled with people of history)
 1. TBD
 2. [[Trinity]]
+3. [[Prasara]] (DEAD) - [[Etos al-Fitkas]] (New)
 - [[Ambrosia]] (Ankathryn) Tomelots lover 
 - [[Corvyn Cain]]
 - Adiaphora
 - Veyranessi
-- Prasara

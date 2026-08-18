@@ -1,12 +1,14 @@
 ---
 tags:
   - npcs
+aliases:
+  - Night Mother
 ---
 ![[img_tris.png]]
 
 ### Designations
-
-
+[[Aurora]]
+Wife of [[Vega Nox]]
 ### Current Location
 
 

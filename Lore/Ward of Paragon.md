@@ -10,6 +10,8 @@ aliases:
 * [[Malachi Grimora]], Emperor of the Umbrean Empire
 * [[Zenaida Grimora]]
 * [[Calpurnia Grimora]]
+* Another dead Grimora
+
 
 Wardens are gonna be taken over by [[Vega Nox]]
 Each of the wards have a body part of Vega Nox
@@ -37,3 +39,8 @@ When called they must answer the summons - happens once every couple hundred yea
 
 
 Redirect blast north into the ocean 
+
+
+Wards are grounded in the cataclysm - unable to do anything past being an energy conduit
+
+Has to sacrifice subconscious to be replaced with [[Vega Nox]] 

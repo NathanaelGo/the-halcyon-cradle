@@ -5,7 +5,7 @@ aliases:
   - Queen of Dracoria
   - Rex Apex of Death
 ---
-*Image here*
+![[img_Ares_Grimora.png]]
 
 ### Designations
 [[Rex Apex]] of Death
@@ -17,3 +17,4 @@ ___
 ### Summary
 First born
 Wont kill her own blood
+Let out a sigh of relief after white was killed despite pushing for Morais end

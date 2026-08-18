@@ -17,6 +17,8 @@ ___
 An important military organization of Knights from the [[Scion Union]]. They vow to uphold a strong moral code, abide and enforce the law and help those in need.
 
 Attempting a coup 
+- Wants to instill new leaders such as [[Ashley Anne Helsing]] 
 2 meetings 
 - [[Moros]] 
 - [[Karthaga Nova]] or [[Codex]]
+

@@ -2,14 +2,14 @@
 tags:
   - npcs
 ---
-![[img_Kharminon_Grimora.png]]
+*Image here*
 
 ### Designations
-
+[[Rex Apex]]
 
 ### Current Location
 
 
 ___
 ### Summary
-Blood powers
+Goblin Federation
